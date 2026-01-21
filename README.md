@@ -39,7 +39,7 @@ This project provides an interactive web app where users can explore various And
 
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone https://github.com/manojsinghdeopa/Android-Interview-QA.git
    cd Android-Interview-QA
    ```
 
