@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Android Interview Questions</title>
+  <link rel="icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>">
+  <link rel="apple-touch-icon"
+    href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    input {
+      width: 100%;
+      max-width: 400px;
+      padding: 10px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 16px;
+    }
+
+    .category {
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      overflow: hidden;
+      cursor: pointer;
+      transition: transform .18s ease, box-shadow .18s ease, opacity .25s;
+      opacity: 0;
+      animation: fadeIn .5s forwards;
+    }
+
+    .category:hover {
+      transform: translateY(-4px) scale(1.01);
+      box-shadow: 0 14px 24px rgba(0, 0, 0, .08);
+    }
+
+    .category img {
+      width: 100%;
+      /* let image scale with width and maintain an aspect ratio */
+      aspect-ratio: 2/3;
+      height: auto;
+      object-fit: cover;
+    }
+
+    .category-title {
+      text-align: center;
+      padding: 10px;
+      font-weight: bold;
+    }
+
+    .pagination {
+      margin-top: 20px;
+      display: flex;
+      gap: 10px;
+      justify-content: center;
+    }
+
+    .pagination button {
+      padding: 8px 14px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
+      cursor: pointer;
+      background: white;
+    }
+
+    .pagination span {
+      padding: 8px 14px;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+        transform: translateY(6px);
+      }
+
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* small-screen adjustments */
+    @media (max-width: 480px) {
+      body {
+        padding: 12px;
+      }
+
+      input {
+        max-width: 100%;
+      }
+
+      .grid {
+        gap: 12px;
+        grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+      }
+
+      .category img {
+        aspect-ratio: 2/3;
+      }
+
+      .category-title {
+        font-size: 14px;
+        padding: 8px;
+      }
+
+      .pagination button {
+        padding: 10px 12px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h2>Android Interview Questions</h2>
+
+  <input type="text" id="search" placeholder="Search...">
+
+  <div id="category-list" class="grid"></div>
+
+  <!-- pagination controls -->
+  <div class="pagination">
+    <button id="prev">Prev</button>
+    <!-- page info display (optional) -->
+    <span id="page-info"></span>
+    <button id="next">Next</button>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+
+</html>
