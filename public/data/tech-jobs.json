@@ -1,0 +1,257 @@
+[
+    {
+        "id": "android",
+        "title": "Android App Developer",
+        "image": "images/tech-jobs/android.jpg"
+    },
+    {
+        "id": "ai-ml-engineer",
+        "title": "AI and Machine Learning (ML) Engineer",
+        "image": "images/tech-jobs/ai-ml-engineer.jpg"
+    },
+    {
+        "id": "cybersecurity-specialist-analyst",
+        "title": "Cybersecurity Specialist/Analyst",
+        "image": "images/tech-jobs/cybersecurity-specialist-analyst.jpg"
+    },
+    {
+        "id": "cloud-architect-engineer",
+        "title": "Cloud Architect/Engineer",
+        "image": "images/tech-jobs/cloud-architect-engineer.jpg"
+    },
+    {
+        "id": "devops-engineer",
+        "title": "DevOps Engineer",
+        "image": "images/tech-jobs/devops-engineer.jpg"
+    },
+    {
+        "id": "data-scientist-big-data-engineer",
+        "title": "Data Scientist/Big Data Engineer",
+        "image": "images/tech-jobs/data-scientist-big-data-engineer.jpg"
+    },
+    {
+        "id": "blockchain-developer",
+        "title": "Blockchain Developer",
+        "image": "images/tech-jobs/blockchain-developer.jpg"
+    },
+    {
+        "id": "software-developer-engineer",
+        "title": "Software Developer/Engineer",
+        "image": "images/tech-jobs/software-developer-engineer.jpg"
+    },
+    {
+        "id": "internet-of-things-engineer",
+        "title": "Internet of Things (IoT) Engineer",
+        "image": "images/tech-jobs/internet-of-things-engineer.jpg"
+    },
+    {
+        "id": "ar-vr-developer",
+        "title": "AR/VR Developer",
+        "image": "images/tech-jobs/ar-vr-developer.jpg"
+    },
+    {
+        "id": "quantum-computing-engineer",
+        "title": "Quantum Computing Engineer",
+        "image": "images/tech-jobs/quantum-computing-engineer.jpg"
+    },
+    {
+        "id": "ios-developer",
+        "title": "iOS App Developer",
+        "image": "images/tech-jobs/ios-developer.jpg"
+    },
+    {
+        "id": "full-stack-developer",
+        "title": "Full-Stack Developer",
+        "image": "images/tech-jobs/full-stack-developer.jpg"
+    },
+    {
+        "id": "site-reliability-engineer",
+        "title": "Site Reliability Engineer (SRE)",
+        "image": "images/tech-jobs/site-reliability-engineer.jpg"
+    },
+    {
+        "id": "technical-product-manager",
+        "title": "Technical Product Manager",
+        "image": "images/tech-jobs/technical-product-manager.jpg"
+    },
+    {
+        "id": "ui-ux-designer",
+        "title": "UI/UX Designer",
+        "image": "images/tech-jobs/ui-ux-designer.jpg"
+    },
+    {
+        "id": "ai-prompt-engineer",
+        "title": "AI Prompt Engineer",
+        "image": "images/tech-jobs/ai-prompt-engineer.jpg"
+    },
+    {
+        "id": "robotics-engineer",
+        "title": "Robotics Engineer",
+        "image": "images/tech-jobs/robotics-engineer.jpg"
+    },
+    {
+        "id": "game-developer",
+        "title": "Game Developer",
+        "image": "images/tech-jobs/game-developer.jpg"
+    },
+    {
+        "id": "low-code-no-code-developer",
+        "title": "Low-Code/No-Code Developer",
+        "image": "images/tech-jobs/low-code-no-code-developer.jpg"
+    },
+    {
+        "id": "digital-transformation-consultant",
+        "title": "Digital Transformation Consultant",
+        "image": "images/tech-jobs/digital-transformation-consultant.jpg"
+    },
+    {
+        "id": "backend-developer",
+        "title": "Backend Developer",
+        "image": "images/tech-jobs/backend-developer.jpg"
+    },
+    {
+        "id": "frontend-developer",
+        "title": "Frontend Developer",
+        "image": "images/tech-jobs/frontend-developer.jpg"
+    },
+    {
+        "id": "database-administrator",
+        "title": "Database Administrator (DBA)",
+        "image": "images/tech-jobs/database-administrator.jpg"
+    },
+    {
+        "id": "systems-analyst",
+        "title": "Systems Analyst",
+        "image": "images/tech-jobs/systems-analyst.jpg"
+    },
+    {
+        "id": "qa-engineer-automation-tester",
+        "title": "QA Engineer/Automation Tester",
+        "image": "images/tech-jobs/qa-engineer-automation-tester.jpg"
+    },
+    {
+        "id": "ethical-hacker-penetration-tester",
+        "title": "Ethical Hacker/Penetration Tester",
+        "image": "images/tech-jobs/ethical-hacker-penetration-tester.jpg"
+    },
+    {
+        "id": "api-integration-specialist",
+        "title": "API Integration Specialist",
+        "image": "images/tech-jobs/api-integration-specialist.jpg"
+    },
+    {
+        "id": "it-business-analyst",
+        "title": "IT Business Analyst",
+        "image": "images/tech-jobs/it-business-analyst.jpg"
+    },
+    {
+        "id": "technical-writer",
+        "title": "Technical Writer",
+        "image": "images/tech-jobs/technical-writer.jpg"
+    },
+    {
+        "id": "platform-engineer",
+        "title": "Platform Engineer",
+        "image": "images/tech-jobs/platform-engineer.jpg"
+    },
+    {
+        "id": "ai-solutions-architect",
+        "title": "AI Solutions Architect",
+        "image": "images/tech-jobs/ai-solutions-architect.jpg"
+    },
+    {
+        "id": "mlops-engineer",
+        "title": "MLOps Engineer",
+        "image": "images/tech-jobs/mlops-engineer.jpg"
+    },
+    {
+        "id": "cloud-security-engineer",
+        "title": "Cloud Security Engineer",
+        "image": "images/tech-jobs/cloud-security-engineer.jpg"
+    },
+    {
+        "id": "network-engineer",
+        "title": "Network Engineer",
+        "image": "images/tech-jobs/network-engineer.jpg"
+    },
+    {
+        "id": "it-support-engineer-system-administrator",
+        "title": "IT Support Engineer/System Administrator",
+        "image": "images/tech-jobs/it-support-engineer-system-administrator.jpg"
+    },
+    {
+        "id": "embedded-systems-engineer",
+        "title": "Embedded Systems Engineer",
+        "image": "images/tech-jobs/embedded-systems-engineer.jpg"
+    },
+    {
+        "id": "computer-vision-engineer",
+        "title": "Computer Vision Engineer",
+        "image": "images/tech-jobs/computer-vision-engineer.jpg"
+    },
+    {
+        "id": "nlp-engineer",
+        "title": "NLP Engineer",
+        "image": "images/tech-jobs/nlp-engineer.jpg"
+    },
+    {
+        "id": "it-auditor",
+        "title": "IT Auditor",
+        "image": "images/tech-jobs/it-auditor.jpg"
+    },
+    {
+        "id": "grc-specialist",
+        "title": "GRC (Governance, Risk and Compliance) Specialist",
+        "image": "images/tech-jobs/grc-specialist.jpg"
+    },
+    {
+        "id": "sap-erp-consultant",
+        "title": "SAP/ERP Consultant",
+        "image": "images/tech-jobs/sap-erp-consultant.jpg"
+    },
+    {
+        "id": "crm-developer",
+        "title": "CRM Developer",
+        "image": "images/tech-jobs/crm-developer.jpg"
+    },
+    {
+        "id": "seo-technologist",
+        "title": "SEO Technologist",
+        "image": "images/tech-jobs/seo-technologist.jpg"
+    },
+    {
+        "id": "ai-ethics-and-governance-specialist",
+        "title": "AI Ethics and Governance Specialist",
+        "image": "images/tech-jobs/ai-ethics-and-governance-specialist.jpg"
+    },
+    {
+        "id": "digital-forensics-analyst",
+        "title": "Digital Forensics Analyst",
+        "image": "images/tech-jobs/digital-forensics-analyst.jpg"
+    },
+    {
+        "id": "release-manager",
+        "title": "Release Manager",
+        "image": "images/tech-jobs/release-manager.jpg"
+    },
+    {
+        "id": "observability-engineer",
+        "title": "Observability Engineer",
+        "image": "images/tech-jobs/observability-engineer.jpg"
+    },
+    {
+        "id": "technical-program-manager",
+        "title": "Technical Program Manager (TPM)",
+        "image": "images/tech-jobs/technical-program-manager.jpg"
+    },
+    {
+        "id": "it-trainer-technical-instructor",
+        "title": "IT Trainer/Technical Instructor",
+        "image": "images/tech-jobs/it-trainer-technical-instructor.jpg"
+    },
+    {
+        "id": "tech-entrepreneur-startup-founder",
+        "title": "Tech Entrepreneur/Startup Founder",
+        "image": "images/tech-jobs/tech-entrepreneur-startup-founder.jpg"
+    }
+]

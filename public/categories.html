@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Interview QA</title>
+  <title>Job Title</title>
   <link rel="icon"
     href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>">
   <link rel="apple-touch-icon"
@@ -60,35 +60,18 @@
       display: flex;
       gap: 10px;
       justify-content: center;
-      align-items: center;
     }
 
     .pagination button {
-      padding: 10px 16px;
-      border-radius: 999px;
-      border: 1px solid #cbd5e1;
+      padding: 8px 14px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
       cursor: pointer;
-      background: #ffffff;
-      color: #0f172a;
-      font-weight: 600;
-      transition: background .18s ease, color .18s ease, border-color .18s ease, opacity .18s ease;
-    }
-
-    .pagination button:hover:not(:disabled) {
-      background: #0f172a;
-      color: #ffffff;
-      border-color: #0f172a;
-    }
-
-    .pagination button:disabled {
-      cursor: not-allowed;
-      opacity: 0.5;
+      background: white;
     }
 
     .pagination span {
       padding: 8px 14px;
-      color: #4b5563;
-      font-weight: 600;
     }
 
     @keyframes fadeIn {
@@ -123,14 +106,14 @@
       }
 
       .pagination button {
-        padding: 10px 14px;
+        padding: 10px 12px;
       }
     }
   </style>
 </head>
 
 <body>
-  <h2>Select a Job Role</h2>
+  <h2>Job Title</h2>
 
   <input type="text" id="search" placeholder="Search...">
 
@@ -144,7 +127,7 @@
     <button id="next">Next</button>
   </div>
 
-  <script src="index.js"></script>
+  <script src="categories.js"></script>
 </body>
 
 </html>

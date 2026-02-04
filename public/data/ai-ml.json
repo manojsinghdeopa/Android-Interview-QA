@@ -1,0 +1,712 @@
+[
+  {
+    "title": "What is Artificial Intelligence?",
+    "id": 1,
+    "image": "images/ai-ml/what_is_artificial_intelligence.jpg"
+  },
+  {
+    "title": "What is Machine Learning?",
+    "id": 2,
+    "image": "images/ai-ml/what_is_machine_learning.jpg"
+  },
+  {
+    "title": "Difference between AI and Machine Learning?",
+    "id": 3,
+    "image": "images/ai-ml/difference_between_ai_and_machine_learning.jpg"
+  },
+  {
+    "title": "What are the main types of Machine Learning?",
+    "id": 4,
+    "image": "images/ai-ml/what_are_the_main_types_of_machine_learning.jpg"
+  },
+  {
+    "title": "What is Supervised Learning?",
+    "id": 5,
+    "image": "images/ai-ml/what_is_supervised_learning.jpg"
+  },
+  {
+    "title": "What is Unsupervised Learning?",
+    "id": 6,
+    "image": "images/ai-ml/what_is_unsupervised_learning.jpg"
+  },
+  {
+    "title": "What is Semi-Supervised Learning?",
+    "id": 7,
+    "image": "images/ai-ml/what_is_semi_supervised_learning.jpg"
+  },
+  {
+    "title": "What is Reinforcement Learning?",
+    "id": 8,
+    "image": "images/ai-ml/what_is_reinforcement_learning.jpg"
+  },
+  {
+    "title": "What is Deep Learning?",
+    "id": 9,
+    "image": "images/ai-ml/what_is_deep_learning.jpg"
+  },
+  {
+    "title": "Difference between Machine Learning and Deep Learning?",
+    "id": 10,
+    "image": "images/ai-ml/difference_between_machine_learning_and_deep_learning.jpg"
+  },
+  {
+    "title": "What is a dataset?",
+    "id": 11,
+    "image": "images/ai-ml/what_is_a_dataset.jpg"
+  },
+  {
+    "title": "What is a feature?",
+    "id": 12,
+    "image": "images/ai-ml/what_is_a_feature.jpg"
+  },
+  {
+    "title": "What is a label?",
+    "id": 13,
+    "image": "images/ai-ml/what_is_a_label.jpg"
+  },
+  {
+    "title": "What is training data?",
+    "id": 14,
+    "image": "images/ai-ml/what_is_training_data.jpg"
+  },
+  {
+    "title": "What is testing data?",
+    "id": 15,
+    "image": "images/ai-ml/what_is_testing_data.jpg"
+  },
+  {
+    "title": "What is validation data?",
+    "id": 16,
+    "image": "images/ai-ml/what_is_validation_data.jpg"
+  },
+  {
+    "title": "What is overfitting?",
+    "id": 17,
+    "image": "images/ai-ml/what_is_overfitting.jpg"
+  },
+  {
+    "title": "What is underfitting?",
+    "id": 18,
+    "image": "images/ai-ml/what_is_underfitting.jpg"
+  },
+  {
+    "title": "How can overfitting be prevented?",
+    "id": 19,
+    "image": "images/ai-ml/how_can_overfitting_be_prevented.jpg"
+  },
+  {
+    "title": "What is bias and variance?",
+    "id": 20,
+    "image": "images/ai-ml/what_is_bias_and_variance.jpg"
+  },
+  {
+    "title": "What is the bias-variance tradeoff?",
+    "id": 21,
+    "image": "images/ai-ml/what_is_the_bias_variance_tradeoff.jpg"
+  },
+  {
+    "title": "What is model generalization?",
+    "id": 22,
+    "image": "images/ai-ml/what_is_model_generalization.jpg"
+  },
+  {
+    "title": "What is cross-validation?",
+    "id": 23,
+    "image": "images/ai-ml/what_is_cross_validation.jpg"
+  },
+  {
+    "title": "What is k-fold cross-validation?",
+    "id": 24,
+    "image": "images/ai-ml/what_is_k_fold_cross_validation.jpg"
+  },
+  {
+    "title": "What is hyperparameter tuning?",
+    "id": 25,
+    "image": "images/ai-ml/what_is_hyperparameter_tuning.jpg"
+  },
+  {
+    "title": "What is feature engineering?",
+    "id": 26,
+    "image": "images/ai-ml/what_is_feature_engineering.jpg"
+  },
+  {
+    "title": "What is feature scaling?",
+    "id": 27,
+    "image": "images/ai-ml/what_is_feature_scaling.jpg"
+  },
+  {
+    "title": "Difference between normalization and standardization?",
+    "id": 28,
+    "image": "images/ai-ml/difference_between_normalization_and_standardization.jpg"
+  },
+  {
+    "title": "What is data preprocessing?",
+    "id": 29,
+    "image": "images/ai-ml/what_is_data_preprocessing.jpg"
+  },
+  {
+    "title": "What is missing value handling?",
+    "id": 30,
+    "image": "images/ai-ml/what_is_missing_value_handling.jpg"
+  },
+  {
+    "title": "What is outlier detection?",
+    "id": 31,
+    "image": "images/ai-ml/what_is_outlier_detection.jpg"
+  },
+  {
+    "title": "What is exploratory data analysis (EDA)?",
+    "id": 32,
+    "image": "images/ai-ml/what_is_exploratory_data_analysis_eda.jpg"
+  },
+  {
+    "title": "What is a confusion matrix?",
+    "id": 33,
+    "image": "images/ai-ml/what_is_a_confusion_matrix.jpg"
+  },
+  {
+    "title": "What is accuracy?",
+    "id": 34,
+    "image": "images/ai-ml/what_is_accuracy.jpg"
+  },
+  {
+    "title": "What is precision?",
+    "id": 35,
+    "image": "images/ai-ml/what_is_precision.jpg"
+  },
+  {
+    "title": "What is recall?",
+    "id": 36,
+    "image": "images/ai-ml/what_is_recall.jpg"
+  },
+  {
+    "title": "What is F1 score?",
+    "id": 37,
+    "image": "images/ai-ml/what_is_f1_score.jpg"
+  },
+  {
+    "title": "What is ROC curve?",
+    "id": 38,
+    "image": "images/ai-ml/what_is_roc_curve.jpg"
+  },
+  {
+    "title": "What is AUC?",
+    "id": 39,
+    "image": "images/ai-ml/what_is_auc.jpg"
+  },
+  {
+    "title": "What is a classification problem?",
+    "id": 40,
+    "image": "images/ai-ml/what_is_a_classification_problem.jpg"
+  },
+  {
+    "title": "What is a regression problem?",
+    "id": 41,
+    "image": "images/ai-ml/what_is_a_regression_problem.jpg"
+  },
+  {
+    "title": "What is linear regression?",
+    "id": 42,
+    "image": "images/ai-ml/what_is_linear_regression.jpg"
+  },
+  {
+    "title": "What is logistic regression?",
+    "id": 43,
+    "image": "images/ai-ml/what_is_logistic_regression.jpg"
+  },
+  {
+    "title": "Difference between linear and logistic regression?",
+    "id": 44,
+    "image": "images/ai-ml/difference_between_linear_and_logistic_regression.jpg"
+  },
+  {
+    "title": "What are assumptions of linear regression?",
+    "id": 45,
+    "image": "images/ai-ml/what_are_assumptions_of_linear_regression.jpg"
+  },
+  {
+    "title": "What is gradient descent?",
+    "id": 46,
+    "image": "images/ai-ml/what_is_gradient_descent.jpg"
+  },
+  {
+    "title": "Types of gradient descent?",
+    "id": 47,
+    "image": "images/ai-ml/types_of_gradient_descent.jpg"
+  },
+  {
+    "title": "What is learning rate?",
+    "id": 48,
+    "image": "images/ai-ml/what_is_learning_rate.jpg"
+  },
+  {
+    "title": "What is cost function?",
+    "id": 49,
+    "image": "images/ai-ml/what_is_cost_function.jpg"
+  },
+  {
+    "title": "What is loss function?",
+    "id": 50,
+    "image": "images/ai-ml/what_is_loss_function.jpg"
+  },
+  {
+    "title": "Difference between loss function and cost function?",
+    "id": 51,
+    "image": "images/ai-ml/difference_between_loss_function_and_cost_function.jpg"
+  },
+  {
+    "title": "What is regularization?",
+    "id": 52,
+    "image": "images/ai-ml/what_is_regularization.jpg"
+  },
+  {
+    "title": "Difference between L1 and L2 regularization?",
+    "id": 53,
+    "image": "images/ai-ml/difference_between_l1_and_l2_regularization.jpg"
+  },
+  {
+    "title": "What is Ridge regression?",
+    "id": 54,
+    "image": "images/ai-ml/what_is_ridge_regression.jpg"
+  },
+  {
+    "title": "What is Lasso regression?",
+    "id": 55,
+    "image": "images/ai-ml/what_is_lasso_regression.jpg"
+  },
+  {
+    "title": "What is Elastic Net?",
+    "id": 56,
+    "image": "images/ai-ml/what_is_elastic_net.jpg"
+  },
+  {
+    "title": "What is decision tree?",
+    "id": 57,
+    "image": "images/ai-ml/what_is_decision_tree.jpg"
+  },
+  {
+    "title": "Advantages of decision trees?",
+    "id": 58,
+    "image": "images/ai-ml/advantages_of_decision_trees.jpg"
+  },
+  {
+    "title": "Disadvantages of decision trees?",
+    "id": 59,
+    "image": "images/ai-ml/disadvantages_of_decision_trees.jpg"
+  },
+  {
+    "title": "What is entropy?",
+    "id": 60,
+    "image": "images/ai-ml/what_is_entropy.jpg"
+  },
+  {
+    "title": "What is Gini index?",
+    "id": 61,
+    "image": "images/ai-ml/what_is_gini_index.jpg"
+  },
+  {
+    "title": "What is information gain?",
+    "id": 62,
+    "image": "images/ai-ml/what_is_information_gain.jpg"
+  },
+  {
+    "title": "What is random forest?",
+    "id": 63,
+    "image": "images/ai-ml/what_is_random_forest.jpg"
+  },
+  {
+    "title": "How does random forest work?",
+    "id": 64,
+    "image": "images/ai-ml/how_does_random_forest_work.jpg"
+  },
+  {
+    "title": "What is bagging?",
+    "id": 65,
+    "image": "images/ai-ml/what_is_bagging.jpg"
+  },
+  {
+    "title": "What is boosting?",
+    "id": 66,
+    "image": "images/ai-ml/what_is_boosting.jpg"
+  },
+  {
+    "title": "Difference between bagging and boosting?",
+    "id": 67,
+    "image": "images/ai-ml/difference_between_bagging_and_boosting.jpg"
+  },
+  {
+    "title": "What is AdaBoost?",
+    "id": 68,
+    "image": "images/ai-ml/what_is_adaboost.jpg"
+  },
+  {
+    "title": "What is Gradient Boosting?",
+    "id": 69,
+    "image": "images/ai-ml/what_is_gradient_boosting.jpg"
+  },
+  {
+    "title": "What is XGBoost?",
+    "id": 70,
+    "image": "images/ai-ml/what_is_xgboost.jpg"
+  },
+  {
+    "title": "What is LightGBM?",
+    "id": 71,
+    "image": "images/ai-ml/what_is_lightgbm.jpg"
+  },
+  {
+    "title": "What is CatBoost?",
+    "id": 72,
+    "image": "images/ai-ml/what_is_catboost.jpg"
+  },
+  {
+    "title": "What is k-Nearest Neighbors (KNN)?",
+    "id": 73,
+    "image": "images/ai-ml/what_is_k_nearest_neighbors_knn.jpg"
+  },
+  {
+    "title": "How does KNN work?",
+    "id": 74,
+    "image": "images/ai-ml/how_does_knn_work.jpg"
+  },
+  {
+    "title": "What is the drawback of KNN?",
+    "id": 75,
+    "image": "images/ai-ml/what_is_the_drawback_of_knn.jpg"
+  },
+  {
+    "title": "What is support vector machine (SVM)?",
+    "id": 76,
+    "image": "images/ai-ml/what_is_support_vector_machine_svm.jpg"
+  },
+  {
+    "title": "What is a hyperplane?",
+    "id": 77,
+    "image": "images/ai-ml/what_is_a_hyperplane.jpg"
+  },
+  {
+    "title": "What is kernel trick?",
+    "id": 78,
+    "image": "images/ai-ml/what_is_kernel_trick.jpg"
+  },
+  {
+    "title": "Types of kernels in SVM?",
+    "id": 79,
+    "image": "images/ai-ml/types_of_kernels_in_svm.jpg"
+  },
+  {
+    "title": "What is Naive Bayes?",
+    "id": 80,
+    "image": "images/ai-ml/what_is_naive_bayes.jpg"
+  },
+  {
+    "title": "Why is it called Naive?",
+    "id": 81,
+    "image": "images/ai-ml/why_is_it_called_naive.jpg"
+  },
+  {
+    "title": "Types of Naive Bayes classifiers?",
+    "id": 82,
+    "image": "images/ai-ml/types_of_naive_bayes_classifiers.jpg"
+  },
+  {
+    "title": "What is clustering?",
+    "id": 83,
+    "image": "images/ai-ml/what_is_clustering.jpg"
+  },
+  {
+    "title": "What is K-means clustering?",
+    "id": 84,
+    "image": "images/ai-ml/what_is_k_means_clustering.jpg"
+  },
+  {
+    "title": "How does K-means work?",
+    "id": 85,
+    "image": "images/ai-ml/how_does_k_means_work.jpg"
+  },
+  {
+    "title": "What is the elbow method?",
+    "id": 86,
+    "image": "images/ai-ml/what_is_the_elbow_method.jpg"
+  },
+  {
+    "title": "What are limitations of K-means?",
+    "id": 87,
+    "image": "images/ai-ml/what_are_limitations_of_k_means.jpg"
+  },
+  {
+    "title": "What is hierarchical clustering?",
+    "id": 88,
+    "image": "images/ai-ml/what_is_hierarchical_clustering.jpg"
+  },
+  {
+    "title": "Difference between agglomerative and divisive clustering?",
+    "id": 89,
+    "image": "images/ai-ml/difference_between_agglomerative_and_divisive_clustering.jpg"
+  },
+  {
+    "title": "What is DBSCAN?",
+    "id": 90,
+    "image": "images/ai-ml/what_is_dbscan.jpg"
+  },
+  {
+    "title": "Advantages of DBSCAN?",
+    "id": 91,
+    "image": "images/ai-ml/advantages_of_dbscan.jpg"
+  },
+  {
+    "title": "What is dimensionality reduction?",
+    "id": 92,
+    "image": "images/ai-ml/what_is_dimensionality_reduction.jpg"
+  },
+  {
+    "title": "What is PCA?",
+    "id": 93,
+    "image": "images/ai-ml/what_is_pca.jpg"
+  },
+  {
+    "title": "How does PCA work?",
+    "id": 94,
+    "image": "images/ai-ml/how_does_pca_work.jpg"
+  },
+  {
+    "title": "What is eigenvalue and eigenvector?",
+    "id": 95,
+    "image": "images/ai-ml/what_is_eigenvalue_and_eigenvector.jpg"
+  },
+  {
+    "title": "What is singular value decomposition (SVD)?",
+    "id": 96,
+    "image": "images/ai-ml/what_is_singular_value_decomposition_svd.jpg"
+  },
+  {
+    "title": "What is anomaly detection?",
+    "id": 97,
+    "image": "images/ai-ml/what_is_anomaly_detection.jpg"
+  },
+  {
+    "title": "What is recommendation system?",
+    "id": 98,
+    "image": "images/ai-ml/what_is_recommendation_system.jpg"
+  },
+  {
+    "title": "Types of recommendation systems?",
+    "id": 99,
+    "image": "images/ai-ml/types_of_recommendation_systems.jpg"
+  },
+  {
+    "title": "What is collaborative filtering?",
+    "id": 100,
+    "image": "images/ai-ml/what_is_collaborative_filtering.jpg"
+  },
+  {
+    "title": "What is content-based filtering?",
+    "id": 101,
+    "image": "images/ai-ml/what_is_content_based_filtering.jpg"
+  },
+  {
+    "title": "What is neural network?",
+    "id": 102,
+    "image": "images/ai-ml/what_is_neural_network.jpg"
+  },
+  {
+    "title": "What is a perceptron?",
+    "id": 103,
+    "image": "images/ai-ml/what_is_a_perceptron.jpg"
+  },
+  {
+    "title": "What are activation functions?",
+    "id": 104,
+    "image": "images/ai-ml/what_are_activation_functions.jpg"
+  },
+  {
+    "title": "Types of activation functions?",
+    "id": 105,
+    "image": "images/ai-ml/types_of_activation_functions.jpg"
+  },
+  {
+    "title": "What is ReLU?",
+    "id": 106,
+    "image": "images/ai-ml/what_is_relu.jpg"
+  },
+  {
+    "title": "What is sigmoid function?",
+    "id": 107,
+    "image": "images/ai-ml/what_is_sigmoid_function.jpg"
+  },
+  {
+    "title": "What is softmax function?",
+    "id": 108,
+    "image": "images/ai-ml/what_is_softmax_function.jpg"
+  },
+  {
+    "title": "What is backpropagation?",
+    "id": 109,
+    "image": "images/ai-ml/what_is_backpropagation.jpg"
+  },
+  {
+    "title": "What is vanishing gradient problem?",
+    "id": 110,
+    "image": "images/ai-ml/what_is_vanishing_gradient_problem.jpg"
+  },
+  {
+    "title": "What is exploding gradient problem?",
+    "id": 111,
+    "image": "images/ai-ml/what_is_exploding_gradient_problem.jpg"
+  },
+  {
+    "title": "What is batch normalization?",
+    "id": 112,
+    "image": "images/ai-ml/what_is_batch_normalization.jpg"
+  },
+  {
+    "title": "What is dropout?",
+    "id": 113,
+    "image": "images/ai-ml/what_is_dropout.jpg"
+  },
+  {
+    "title": "What is CNN?",
+    "id": 114,
+    "image": "images/ai-ml/what_is_cnn.jpg"
+  },
+  {
+    "title": "What are convolutional layers?",
+    "id": 115,
+    "image": "images/ai-ml/what_are_convolutional_layers.jpg"
+  },
+  {
+    "title": "What is pooling?",
+    "id": 116,
+    "image": "images/ai-ml/what_is_pooling.jpg"
+  },
+  {
+    "title": "What is RNN?",
+    "id": 117,
+    "image": "images/ai-ml/what_is_rnn.jpg"
+  },
+  {
+    "title": "What is LSTM?",
+    "id": 118,
+    "image": "images/ai-ml/what_is_lstm.jpg"
+  },
+  {
+    "title": "What is GRU?",
+    "id": 119,
+    "image": "images/ai-ml/what_is_gru.jpg"
+  },
+  {
+    "title": "Difference between LSTM and GRU?",
+    "id": 120,
+    "image": "images/ai-ml/difference_between_lstm_and_gru.jpg"
+  },
+  {
+    "title": "What is NLP?",
+    "id": 121,
+    "image": "images/ai-ml/what_is_nlp.jpg"
+  },
+  {
+    "title": "What is tokenization?",
+    "id": 122,
+    "image": "images/ai-ml/what_is_tokenization.jpg"
+  },
+  {
+    "title": "What is stemming?",
+    "id": 123,
+    "image": "images/ai-ml/what_is_stemming.jpg"
+  },
+  {
+    "title": "What is lemmatization?",
+    "id": 124,
+    "image": "images/ai-ml/what_is_lemmatization.jpg"
+  },
+  {
+    "title": "What is word embedding?",
+    "id": 125,
+    "image": "images/ai-ml/what_is_word_embedding.jpg"
+  },
+  {
+    "title": "What is Word2Vec?",
+    "id": 126,
+    "image": "images/ai-ml/what_is_word2vec.jpg"
+  },
+  {
+    "title": "What is GloVe?",
+    "id": 127,
+    "image": "images/ai-ml/what_is_glove.jpg"
+  },
+  {
+    "title": "What is BERT?",
+    "id": 128,
+    "image": "images/ai-ml/what_is_bert.jpg"
+  },
+  {
+    "title": "What is transfer learning?",
+    "id": 129,
+    "image": "images/ai-ml/what_is_transfer_learning.jpg"
+  },
+  {
+    "title": "What is fine-tuning?",
+    "id": 130,
+    "image": "images/ai-ml/what_is_fine_tuning.jpg"
+  },
+  {
+    "title": "What is model deployment?",
+    "id": 131,
+    "image": "images/ai-ml/what_is_model_deployment.jpg"
+  },
+  {
+    "title": "What is MLOps?",
+    "id": 132,
+    "image": "images/ai-ml/what_is_mlops.jpg"
+  },
+  {
+    "title": "What is model monitoring?",
+    "id": 133,
+    "image": "images/ai-ml/what_is_model_monitoring.jpg"
+  },
+  {
+    "title": "What is concept drift?",
+    "id": 134,
+    "image": "images/ai-ml/what_is_concept_drift.jpg"
+  },
+  {
+    "title": "What is data drift?",
+    "id": 135,
+    "image": "images/ai-ml/what_is_data_drift.jpg"
+  },
+  {
+    "title": "What is A/B testing in ML?",
+    "id": 136,
+    "image": "images/ai-ml/what_is_ab_testing_in_ml.jpg"
+  },
+  {
+    "title": "What is explainable AI (XAI)?",
+    "id": 137,
+    "image": "images/ai-ml/what_is_explainable_ai_xai.jpg"
+  },
+  {
+    "title": "What is SHAP?",
+    "id": 138,
+    "image": "images/ai-ml/what_is_shap.jpg"
+  },
+  {
+    "title": "What is LIME?",
+    "id": 139,
+    "image": "images/ai-ml/what_is_lime.jpg"
+  },
+  {
+    "title": "Ethical issues in AI?",
+    "id": 140,
+    "image": "images/ai-ml/ethical_issues_in_ai.jpg"
+  },
+  {
+    "title": "What is responsible AI?",
+    "id": 141,
+    "image": "images/ai-ml/what_is_responsible_ai.jpg"
+  },
+  {
+    "title": "What are common ML interview mistakes?",
+    "id": 142,
+    "image": "images/ai-ml/what_are_common_ml_interview_mistakes.jpg"
+  }
+]

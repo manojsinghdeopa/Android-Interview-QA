@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "title": "Android",
+    "image": "images/android/what_is_android.jpg"
+  },
+  {
+    "id": 2,
+    "title": "features of Android",
+    "image": "images/android/features_of_android.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Android Architecture",
+    "image": "images/android/android_architecture.jpg"
+  },
+  {
+    "id": 4,
+    "title": "APK",
+    "image": "images/android/what_is_apk.jpg"
+  },
+  {
+    "id": 5,
+    "title": "AAB",
+    "image": "images/android/what_is_aab.jpg"
+  },
+  {
+    "id": 6,
+    "title": "AndroidManifest",
+    "image": "images/android/what_is_android_manifest.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Context",
+    "image": "images/android/what_is_context.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Activity",
+    "image": "images/android/what_is_activity.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Activity Lifecycle",
+    "image": "images/android/what_is_activity_lifecycle.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Fragment",
+    "image": "images/android/what_is_fragment.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Activity vs Fragment",
+    "image": "images/android/difference_between_activity_fragment.jpg"
+  },
+  {
+    "id": 12,
+    "title": "View",
+    "image": "images/android/what_is_view.jpg"
+  },
+  {
+    "id": 13,
+    "title": "ViewGroup",
+    "image": "images/android/viewgroup.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Layouts",
+    "image": "images/android/layouts.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Intent",
+    "image": "images/android/intent.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Types of Intents",
+    "image": "images/android/types_of_intents.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Service",
+    "image": "images/android/service.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Broadcast Receiver",
+    "image": "images/android/broadcast_receiver.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Content Provider",
+    "image": "images/android/content_provider.jpg"
+  },
+  {
+    "id": 20,
+    "title": "RecyclerView",
+    "image": "images/android/recycler_view.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Adapter",
+    "image": "images/android/adapter.jpg"
+  },
+  {
+    "id": 22,
+    "title": "ViewHolder Pattern",
+    "image": "images/android/view_holder_pattern.jpg"
+  },
+  {
+    "id": 23,
+    "title": "ANR",
+    "image": "images/android/what_is_anr.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Toast",
+    "image": "images/android/what_is_toast.jpg"
+  },
+  {
+    "id": 25,
+    "title": "Toast vs Snackbar",
+    "image": "images/android/difference_toast_snackbar.jpg"
+  },
+  {
+    "id": 26,
+    "title": "Android application components",
+    "image": "images/android/main_android_component.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Explicit Intent",
+    "image": "images/android/explicit_intent.jpg"
+  },
+  {
+    "id": 28,
+    "title": "Implicit Intent",
+    "image": "images/android/implicit_intent.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Pending Intent",
+    "image": "images/android/pending_intent.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Types of Services",
+    "image": "images/android/service_types.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Foreground Service",
+    "image": "images/android/fore_ground_service.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Broadcast Receiver",
+    "image": "images/android/what_is_broadcast_receiver.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Local Broadcasts",
+    "image": "images/android/local_broadcast.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Use of Content Provider",
+    "image": "images/android/what_is_content_provider.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Runtime Permission",
+    "image": "images/android/runtime_permission.jpg"
+  },
+  {
+    "id": 36,
+    "title": "install-time and runtime permissions",
+    "image": "images/android/difference_installtime_runtime_permissions.jpg"
+  },
+  {
+    "id": 37,
+    "title": "RecyclerView",
+    "image": "images/android/what_is_recycler_view.jpg"
+  },
+  {
+    "id": 38,
+    "title": "RecyclerView vs ListView",
+    "image": "images/android/recycler_view_vs_list_view.jpg"
+  },
+  {
+    "id": 39,
+    "title": "LayoutManager",
+    "image": "images/android/what_is_layout_manager.jpg"
+  },
+  {
+    "id": 40,
+    "title": "CardView",
+    "image": "images/android/what_is_cardview.jpg"
+  },
+  {
+    "id": 41,
+    "title": "ConstraintLayout",
+    "image": "images/android/what_is_constraint_layout.jpg"
+  },
+  {
+    "id": 42,
+    "title": "Resources in Android",
+    "image": "images/android/resources_in_android.jpg"
+  },
+  {
+    "id": 43,
+    "title": "styles.xml",
+    "image": "images/android/what_is_styles.xml.jpg"
+  },
+  {
+    "id": 44,
+    "title": "themes.xml",
+    "image": "images/android/what_is_themes.xml.jpg"
+  },
+  {
+    "id": 45,
+    "title": "dp and sp",
+    "image": "images/android/what_is_dp_and_sp.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Android Jetpack",
+    "image": "images/android/what_is_android_jetpack.jpg"
+  },
+  {
+    "id": 47,
+    "title": "AndroidX",
+    "image": "images/android/what_is_androidX.jpg"
+  },
+  {
+    "id": 48,
+    "title": "ProGuard",
+    "image": "images/android/what_is_proguard.jpg"
+  },
+  {
+    "id": 49,
+    "title": "R8",
+    "image": "images/android/what_is_R8.jpg"
+  },
+  {
+    "id": 50,
+    "title": "Gradle in Android",
+    "image": "images/android/what_is_gradle_in_android.jpg"
+  },
+  {
+    "id": 51,
+    "title": "Kotlin for Android",
+    "image": "images/android/kotlin_android_development.jpg"
+  },
+  {
+    "id": 52,
+    "title": "val and var",
+    "image": "images/android/difference_between_val_and_var_in_Kotlin.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Null Safety",
+    "image": "images/android/what_is_null_safety_in_kotlin.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Data Class",
+    "image": "images/android/what_is_a_data_class.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Sealed Classes",
+    "image": "images/android/what_are_sealed_classes.jpg"
+  },
+  {
+    "id": 56,
+    "title": "when expression",
+    "image": "images/android/what_is_the_when_expression_in_kotlin.jpg"
+  },
+  {
+    "id": 57,
+    "title": "Scope Functions",
+    "image": "images/android/what_is_coroutine_scope.jpg"
+  },
+  {
+    "id": 58,
+    "title": "let and apply",
+    "image": "images/android/difference_between_let_apply.jpg"
+  },
+  {
+    "id": 59,
+    "title": "Coroutines",
+    "image": "images/android/what_are_coroutines.jpg"
+  },
+  {
+    "id": 60,
+    "title": "suspend function",
+    "image": "images/android/what_is_suspend_function.jpg"
+  },
+  {
+    "id": 61,
+    "title": "Coroutine Scope",
+    "image": "images/android/what_is_coroutine_scope.jpg"
+  },
+  {
+    "id": 62,
+    "title": "Dispatchers in Coroutines",
+    "image": "images/android/what_is_dispatchers_in_kotlin_coroutines.jpg"
+  },
+  {
+    "id": 63,
+    "title": "Flow",
+    "image": "images/android/what_is_flow_in_kotlin.jpg"
+  },
+  {
+    "id": 64,
+    "title": "Flow vs LiveData",
+    "image": "images/android/flow_vs_live_data.jpg"
+  },
+  {
+    "id": 65,
+    "title": "Inline Function",
+    "image": "images/android/what_is_Inline_function.jpg"
+  },
+  {
+    "id": 66,
+    "title": "Lazy Initialization",
+    "image": "images/android/lazy_initialization.jpg"
+  },
+  {
+    "id": 67,
+    "title": "Companion Object",
+    "image": "images/android/companion_object.jpg"
+  },
+  {
+    "id": 68,
+    "title": "Extension Function",
+    "image": "images/android/extension_function.jpg"
+  },
+  {
+    "id": 69,
+    "title": "lateinit keyword",
+    "image": "images/android/what_is_lateinit_keyword.jpg"
+  },
+  {
+    "id": 70,
+    "title": "lateinit and lazy",
+    "image": "images/android/lateinit_and_lazy.jpg"
+  },
+  {
+    "id": 71,
+    "title": "MVVM architecture",
+    "image": "images/android/mvvm_architecture.jpg"
+  },
+  {
+    "id": 72,
+    "title": "components of MVVM",
+    "image": "images/android/componenets_of_mvvm.jpg"
+  },
+  {
+    "id": 73,
+    "title": "ViewModel",
+    "image": "images/android/viewmodel.jpg"
+  },
+  {
+    "id": 74,
+    "title": "ViewModel Conditioning",
+    "image": "images/android/viewmodel_conditioning.jpg"
+  },
+  {
+    "id": 75,
+    "title": "LiveData",
+    "image": "images/android/live_data.jpg"
+  },
+  {
+    "id": 76,
+    "title": "LiveData and MutableLiveData",
+    "image": "images/android/livedata_vs_mutablelivedata.jpg"
+  },
+  {
+    "id": 77,
+    "title": "StateFlow",
+    "image": "images/android/stateflow.jpg"
+  },
+  {
+    "id": 78,
+    "title": "StateFlow vs LiveData",
+    "image": "images/android/stateflow_vs_livedata.jpg"
+  },
+  {
+    "id": 79,
+    "title": "Repository pattern",
+    "image": "images/android/repository_pattern.jpg"
+  },
+  {
+    "id": 80,
+    "title": "Room Database",
+    "image": "images/android/room_database.jpg"
+  },
+  {
+    "id": 81,
+    "title": "Components of Room",
+    "image": "images/android/components_of_room.jpg"
+  },
+  {
+    "id": 82,
+    "title": "DAO",
+    "image": "images/android/dao.jpg"
+  },
+  {
+    "id": 83,
+    "title": "Entity in Room",
+    "image": "images/android/entity_in_room.jpg"
+  },
+  {
+    "id": 84,
+    "title": "Migration in Room",
+    "image": "images/android/migration_in_room.jpg"
+  },
+  {
+    "id": 85,
+    "title": "Data Binding",
+    "image": "images/android/data_binding.jpg"
+  },
+  {
+    "id": 86,
+    "title": "View Binding vs Data Binding",
+    "image": "images/android/view_binding_vs_data_binding.jpg"
+  },
+  {
+    "id": 87,
+    "title": "Navigation Component",
+    "image": "images/android/navigation_component.jpg"
+  },
+  {
+    "id": 88,
+    "title": "Safe Args",
+    "image": "images/android/safe-args.jpg"
+  },
+  {
+    "id": 89,
+    "title": "WorkManager",
+    "image": "images/android/workmanager.jpg"
+  },
+  {
+    "id": 90,
+    "title": "WorkManager vs Service",
+    "image": "images/android/workmanager_vs_service.jpg"
+  },
+  {
+    "id": 91,
+    "title": "Paging 3",
+    "image": "images/android/paging_3.jpg"
+  },
+  {
+    "id": 92,
+    "title": "Hilt",
+    "image": "images/android/hilt.jpg"
+  },
+  {
+    "id": 93,
+    "title": "Dependency Injection",
+    "image": "images/android/dependency_injection.jpg"
+  },
+  {
+    "id": 94,
+    "title": "ViewModelScope",
+    "image": "images/android/viewmodel_scope.jpg"
+  },
+  {
+    "id": 95,
+    "title": "SavedStateHandle",
+    "image": "images/android/saved_state_handle.jpg"
+  },
+  {
+    "id": 96,
+    "title": "SingleLiveEvent",
+    "image": "images/android/single_live_event.jpg"
+  },
+  {
+    "id": 97,
+    "title": "Clean Architecture",
+    "image": "images/android/clean_architecture.jpg"
+  },
+  {
+    "id": 98,
+    "title": "MVVM and MVP",
+    "image": "images/android/mvvm_vs_mvp.jpg"
+  },
+  {
+    "id": 99,
+    "title": "Jetpack Startup",
+    "image": "images/android/jetpack_startup.jpg"
+  },
+  {
+    "id": 100,
+    "title": "App Startup optimization",
+    "image": "images/android/app_startup_optimization.jpg"
+  },
+  {
+    "id": 101,
+    "title": "Jetpack Compose",
+    "image": "images/android/jetpack_compose.jpg"
+  },
+  {
+    "id": 102,
+    "title": "Jetpack Compose vs XML",
+    "image": "images/android/jetpack_compose_vs_xml.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Composable function",
+    "image": "images/android/composable_function.jpg"
+  },
+  {
+    "id": 104,
+    "title": "Recomposition",
+    "image": "images/android/recomposition.jpg"
+  },
+  {
+    "id": 105,
+    "title": "remember",
+    "image": "images/android/remember.jpg"
+  },
+  {
+    "id": 106,
+    "title": "remember vs rememberSaveable",
+    "image": "images/android/remember_vs_remember_saveable.jpg"
+  },
+  {
+    "id": 107,
+    "title": "State",
+    "image": "images/android/state.jpg"
+  },
+  {
+    "id": 108,
+    "title": "State Hoisting",
+    "image": "images/android/state_hoesting.jpg"
+  },
+  {
+    "id": 109,
+    "title": "LazyColumn",
+    "image": "images/android/lazy_column.jpg"
+  },
+  {
+    "id": 110,
+    "title": "LazyColumn vs RecyclerView",
+    "image": "images/android/lazy_colomn_vs_recycler_view.jpg"
+  },
+  {
+    "id": 111,
+    "title": "Modifier in Compose",
+    "image": "images/android/modifier_in_compose.jpg"
+  },
+  {
+    "id": 112,
+    "title": "Side Effect in Compose",
+    "image": "images/android/side_effect_in_compose.jpg"
+  },
+  {
+    "id": 113,
+    "title": "LaunchedEffect",
+    "image": "images/android/launched_effect.jpg"
+  },
+  {
+    "id": 114,
+    "title": "rememberCoroutineScope",
+    "image": "images/android/remember_coroutine_scope.jpg"
+  },
+  {
+    "id": 115,
+    "title": "DisposableEffect",
+    "image": "images/android/disposable_effect.jpg"
+  },
+  {
+    "id": 116,
+    "title": "CompositionLocal",
+    "image": "images/android/composition_local.jpg"
+  },
+  {
+    "id": 117,
+    "title": "Scaffold",
+    "image": "images/android/scaffold_in_compose.jpg"
+  },
+  {
+    "id": 118,
+    "title": "Material 3 in Compose",
+    "image": "images/android/material3_in_compose.jpg"
+  },
+  {
+    "id": 119,
+    "title": "Preview in Compose",
+    "image": "images/android/preview_in_compose.jpg"
+  },
+  {
+    "id": 120,
+    "title": "Snapshot system",
+    "image": "images/android/snapshot_system.jpg"
+  },
+  {
+    "id": 121,
+    "title": "DerivedStateOf",
+    "image": "images/android/derived_state_of.jpg"
+  },
+  {
+    "id": 122,
+    "title": "rememberUpdatedState",
+    "image": "images/android/remember_updated_state.jpg"
+  },
+  {
+    "id": 123,
+    "title": "Performance in Compose",
+    "image": "images/android/performance_in_compose.jpg"
+  },
+  {
+    "id": 124,
+    "title": "Compose Navigation vs XML Navigation",
+    "image": "images/android/compose_navigation_vs_xml_navigation.jpg"
+  },
+  {
+    "id": 125,
+    "title": "Jetpack Compose Usage",
+    "image": "images/android/jetpack_compose_usage.jpg"
+  },
+  {
+    "id": 126,
+    "title": "Dependency Injection",
+    "image": "images/android/dependency_injection.jpg"
+  },
+  {
+    "id": 127,
+    "title": "Dagger",
+    "image": "images/android/dagger.jpg"
+  },
+  {
+    "id": 128,
+    "title": "Use of Hilt",
+    "image": "images/android/use_of_hilt.jpg"
+  },
+  {
+    "id": 129,
+    "title": "Dagger vs Hilt",
+    "image": "images/android/dagger_vs_hilt.jpg"
+  },
+  {
+    "id": 130,
+    "title": "Memory Leak",
+    "image": "images/android/memory_leak.jpg"
+  },
+  {
+    "id": 131,
+    "title": "Causes of memory leaks",
+    "image": "images/android/causes_of_memory_leaks.jpg"
+  },
+  {
+    "id": 132,
+    "title": "LeakCanary",
+    "image": "images/android/leak_canary.jpg"
+  },
+  {
+    "id": 133,
+    "title": "Multithreading",
+    "image": "images/android/multi_threading.jpg"
+  },
+  {
+    "id": 134,
+    "title": "Main Thread vs Background Thread",
+    "image": "images/android/main_thread_vs_background_thread.jpg"
+  },
+  {
+    "id": 135,
+    "title": "ANR",
+    "image": "images/android/anr.jpg"
+  },
+  {
+    "id": 136,
+    "title": "ProGuard",
+    "image": "images/android/proguard.jpg"
+  },
+  {
+    "id": 137,
+    "title": "R8",
+    "image": "images/android/r8.jpg"
+  },
+  {
+    "id": 138,
+    "title": "App Performance Optimization",
+    "image": "images/android/app_performance_optimization.jpg"
+  },
+  {
+    "id": 139,
+    "title": "Battery Optimization",
+    "image": "images/android/battery_optimization.jpg"
+  },
+  {
+    "id": 140,
+    "title": "Doze Mode",
+    "image": "images/android/doze_mode.jpg"
+  },
+  {
+    "id": 141,
+    "title": "App Bundles (AAB)",
+    "image": "images/android/app_bundles_aab.jpg"
+  },
+  {
+    "id": 142,
+    "title": "Modularization",
+    "image": "images/android/modularization.jpg"
+  },
+  {
+    "id": 143,
+    "title": "Dynamic Feature Module",
+    "image": "images/android/dynamic_feature_module.jpg"
+  },
+  {
+    "id": 144,
+    "title": "Android App Security",
+    "image": "images/android/android_app_security.jpg"
+  },
+  {
+    "id": 145,
+    "title": "Android Security Practices",
+    "image": "images/android/android_security_practices.jpg"
+  },
+  {
+    "id": 146,
+    "title": "Keystore",
+    "image": "images/android/keystore.jpg"
+  },
+  {
+    "id": 147,
+    "title": "Biometric Authentication",
+    "image": "images/android/biometric_authentication.jpg"
+  },
+  {
+    "id": 148,
+    "title": "Play Store App Signing",
+    "image": "images/android/play_store_app_signing.jpg"
+  },
+  {
+    "id": 149,
+    "title": "Logging and Debugging",
+    "image": "images/android/logging_and_debugging.jpg"
+  },
+  {
+    "id": 150,
+    "title": "Best Practices",
+    "image": "images/android/best_practices.jpg"
+  }
+]
