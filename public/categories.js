@@ -22,6 +22,11 @@ async function loadCategories() {
     categories = await res.json();
   }
 
+  if (job === "cybersecurity-specialist-analyst") {
+    const res = await fetch("data/cybersecurity.json");
+    categories = await res.json();
+  }
+
   filtered = categories; // default
   render();
 }

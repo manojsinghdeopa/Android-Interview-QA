@@ -1,0 +1,752 @@
+[
+  {
+    "title": "What is cybersecurity, and why is it important?",
+    "id": 1,
+    "image": "images/cybersecurity/what_is_cybersecurity_and_why_is_it_important.jpg"
+  },
+  {
+    "title": "What are the CIA triad principles?",
+    "id": 2,
+    "image": "images/cybersecurity/what_are_the_cia_triad_principles.jpg"
+  },
+  {
+    "title": "Explain the difference between threat, vulnerability, and risk.",
+    "id": 3,
+    "image": "images/cybersecurity/explain_the_difference_between_threat_vulnerability_and_risk.jpg"
+  },
+  {
+    "title": "What is the difference between symmetric and asymmetric encryption?",
+    "id": 4,
+    "image": "images/cybersecurity/what_is_the_difference_between_symmetric_and_asymmetric_encryption.jpg"
+  },
+  {
+    "title": "What are firewalls, and how do they work?",
+    "id": 5,
+    "image": "images/cybersecurity/what_are_firewalls_and_how_do_they_work.jpg"
+  },
+  {
+    "title": "What is the difference between IDS and IPS?",
+    "id": 6,
+    "image": "images/cybersecurity/what_is_the_difference_between_ids_and_ips.jpg"
+  },
+  {
+    "title": "Explain the difference between black hat, white hat, and grey hat hackers.",
+    "id": 7,
+    "image": "images/cybersecurity/explain_the_difference_between_black_hat_white_hat_and_grey_hat_hackers.jpg"
+  },
+  {
+    "title": "What is multi-factor authentication, and why is it important?",
+    "id": 8,
+    "image": "images/cybersecurity/what_is_multi_factor_authentication_and_why_is_it_important.jpg"
+  },
+  {
+    "title": "What is SSL/TLS, and how does it work?",
+    "id": 9,
+    "image": "images/cybersecurity/what_is_ssl_tls_and_how_does_it_work.jpg"
+  },
+  {
+    "title": "What is the difference between HTTP and HTTPS?",
+    "id": 10,
+    "image": "images/cybersecurity/what_is_the_difference_between_http_and_https.jpg"
+  },
+  {
+    "title": "Explain what a zero-day vulnerability is.",
+    "id": 11,
+    "image": "images/cybersecurity/explain_what_a_zero_day_vulnerability_is.jpg"
+  },
+  {
+    "title": "What are malware, viruses, worms, and trojans?",
+    "id": 12,
+    "image": "images/cybersecurity/what_are_malware_viruses_worms_and_trojans.jpg"
+  },
+  {
+    "title": "What is ransomware, and how does it spread?",
+    "id": 13,
+    "image": "images/cybersecurity/what_is_ransomware_and_how_does_it_spread.jpg"
+  },
+  {
+    "title": "What is social engineering, and give some examples.",
+    "id": 14,
+    "image": "images/cybersecurity/what_is_social_engineering_and_give_some_examples.jpg"
+  },
+  {
+    "title": "Explain phishing and spear-phishing attacks.",
+    "id": 15,
+    "image": "images/cybersecurity/explain_phishing_and_spear_phishing_attacks.jpg"
+  },
+  {
+    "title": "What is a DDoS attack?",
+    "id": 16,
+    "image": "images/cybersecurity/what_is_a_ddos_attack.jpg"
+  },
+  {
+    "title": "What is the difference between penetration testing and vulnerability assessment?",
+    "id": 17,
+    "image": "images/cybersecurity/what_is_the_difference_between_penetration_testing_and_vulnerability_assessment.jpg"
+  },
+  {
+    "title": "What is endpoint security?",
+    "id": 18,
+    "image": "images/cybersecurity/what_is_endpoint_security.jpg"
+  },
+  {
+    "title": "What is patch management, and why is it important?",
+    "id": 19,
+    "image": "images/cybersecurity/what_is_patch_management_and_why_is_it_important.jpg"
+  },
+  {
+    "title": "What is the difference between authentication and authorization?",
+    "id": 20,
+    "image": "images/cybersecurity/what_is_the_difference_between_authentication_and_authorization.jpg"
+  },
+  {
+    "title": "Explain TCP vs. UDP.",
+    "id": 21,
+    "image": "images/cybersecurity/explain_tcp_vs_udp.jpg"
+  },
+  {
+    "title": "What are the common ports and their services (HTTP, HTTPS, FTP, SSH, SMTP, etc.)?",
+    "id": 22,
+    "image": "images/cybersecurity/what_are_the_common_ports_and_their_services.jpg"
+  },
+  {
+    "title": "What is a VPN, and how does it work?",
+    "id": 23,
+    "image": "images/cybersecurity/what_is_a_vpn_and_how_does_it_work.jpg"
+  },
+  {
+    "title": "What is NAT, and why is it used?",
+    "id": 24,
+    "image": "images/cybersecurity/what_is_nat_and_why_is_it_used.jpg"
+  },
+  {
+    "title": "Explain the OSI model layers and their functions.",
+    "id": 25,
+    "image": "images/cybersecurity/explain_the_osi_model_layers_and_their_functions.jpg"
+  },
+  {
+    "title": "What is DNS, and how can it be exploited?",
+    "id": 26,
+    "image": "images/cybersecurity/what_is_dns_and_how_can_it_be_exploited.jpg"
+  },
+  {
+    "title": "What is ARP spoofing?",
+    "id": 27,
+    "image": "images/cybersecurity/what_is_arp_spoofing.jpg"
+  },
+  {
+    "title": "What is a Man-in-the-Middle (MITM) attack?",
+    "id": 28,
+    "image": "images/cybersecurity/what_is_a_man_in_the_middle_attack.jpg"
+  },
+  {
+    "title": "Explain IP spoofing.",
+    "id": 29,
+    "image": "images/cybersecurity/explain_ip_spoofing.jpg"
+  },
+  {
+    "title": "What is a proxy server, and how does it enhance security?",
+    "id": 30,
+    "image": "images/cybersecurity/what_is_a_proxy_server_and_how_does_it_enhance_security.jpg"
+  },
+  {
+    "title": "What is the difference between a public IP and a private IP?",
+    "id": 31,
+    "image": "images/cybersecurity/what_is_the_difference_between_a_public_ip_and_a_private_ip.jpg"
+  },
+  {
+    "title": "Explain the concept of subnetting.",
+    "id": 32,
+    "image": "images/cybersecurity/explain_the_concept_of_subnetting.jpg"
+  },
+  {
+    "title": "What is port scanning, and which tools are commonly used?",
+    "id": 33,
+    "image": "images/cybersecurity/what_is_port_scanning_and_which_tools_are_commonly_used.jpg"
+  },
+  {
+    "title": "What is SSL stripping?",
+    "id": 34,
+    "image": "images/cybersecurity/what_is_ssl_stripping.jpg"
+  },
+  {
+    "title": "Explain HTTPS certificate validation.",
+    "id": 35,
+    "image": "images/cybersecurity/explain_https_certificate_validation.jpg"
+  },
+  {
+    "title": "What is the difference between a hub, switch, and router?",
+    "id": 36,
+    "image": "images/cybersecurity/what_is_the_difference_between_a_hub_switch_and_router.jpg"
+  },
+  {
+    "title": "What is a VLAN, and why is it used?",
+    "id": 37,
+    "image": "images/cybersecurity/what_is_a_vlan_and_why_is_it_used.jpg"
+  },
+  {
+    "title": "Explain network segmentation and its importance.",
+    "id": 38,
+    "image": "images/cybersecurity/explain_network_segmentation_and_its_importance.jpg"
+  },
+  {
+    "title": "What is a packet sniffer?",
+    "id": 39,
+    "image": "images/cybersecurity/what_is_a_packet_sniffer.jpg"
+  },
+  {
+    "title": "What is the difference between active and passive scanning?",
+    "id": 40,
+    "image": "images/cybersecurity/what_is_the_difference_between_active_and_passive_scanning.jpg"
+  },
+  {
+    "title": "How do you secure Windows servers?",
+    "id": 41,
+    "image": "images/cybersecurity/how_do_you_secure_windows_servers.jpg"
+  },
+  {
+    "title": "How do you secure Linux servers?",
+    "id": 42,
+    "image": "images/cybersecurity/how_do_you_secure_linux_servers.jpg"
+  },
+  {
+    "title": "What is a rootkit, and how can it be detected?",
+    "id": 43,
+    "image": "images/cybersecurity/what_is_a_rootkit_and_how_can_it_be_detected.jpg"
+  },
+  {
+    "title": "Explain privilege escalation.",
+    "id": 44,
+    "image": "images/cybersecurity/explain_privilege_escalation.jpg"
+  },
+  {
+    "title": "How do you harden an OS?",
+    "id": 45,
+    "image": "images/cybersecurity/how_do_you_harden_an_os.jpg"
+  },
+  {
+    "title": "Explain file permissions in Linux.",
+    "id": 46,
+    "image": "images/cybersecurity/explain_file_permissions_in_linux.jpg"
+  },
+  {
+    "title": "What is UAC in Windows?",
+    "id": 47,
+    "image": "images/cybersecurity/what_is_uac_in_windows.jpg"
+  },
+  {
+    "title": "What are the common Windows Event logs for detecting attacks?",
+    "id": 48,
+    "image": "images/cybersecurity/what_are_the_common_windows_event_logs_for_detecting_attacks.jpg"
+  },
+  {
+    "title": "How do you prevent unauthorized USB access?",
+    "id": 49,
+    "image": "images/cybersecurity/how_do_you_prevent_unauthorized_usb_access.jpg"
+  },
+  {
+    "title": "What is PowerShell used for in attacks and defense?",
+    "id": 50,
+    "image": "images/cybersecurity/what_is_powershell_used_for_in_attacks_and_defense.jpg"
+  },
+  {
+    "title": "What is the difference between local and domain accounts?",
+    "id": 51,
+    "image": "images/cybersecurity/what_is_the_difference_between_local_and_domain_accounts.jpg"
+  },
+  {
+    "title": "How do you monitor system logs?",
+    "id": 52,
+    "image": "images/cybersecurity/how_do_you_monitor_system_logs.jpg"
+  },
+  {
+    "title": "What is SELinux/AppArmor?",
+    "id": 53,
+    "image": "images/cybersecurity/what_is_selinux_apparmor.jpg"
+  },
+  {
+    "title": "What is patch management on endpoints?",
+    "id": 54,
+    "image": "images/cybersecurity/what_is_patch_management_on_endpoints.jpg"
+  },
+  {
+    "title": "How do you secure remote desktop access?",
+    "id": 55,
+    "image": "images/cybersecurity/how_do_you_secure_remote_desktop_access.jpg"
+  },
+  {
+    "title": "What is the difference between process and thread?",
+    "id": 56,
+    "image": "images/cybersecurity/what_is_the_difference_between_process_and_thread.jpg"
+  },
+  {
+    "title": "How do you mitigate malware infections on endpoints?",
+    "id": 57,
+    "image": "images/cybersecurity/how_do_you_mitigate_malware_infections_on_endpoints.jpg"
+  },
+  {
+    "title": "Explain Windows Group Policy and its security applications.",
+    "id": 58,
+    "image": "images/cybersecurity/explain_windows_group_policy_and_its_security_applications.jpg"
+  },
+  {
+    "title": "How do you detect suspicious processes in Linux?",
+    "id": 59,
+    "image": "images/cybersecurity/how_do_you_detect_suspicious_processes_in_linux.jpg"
+  },
+  {
+    "title": "What are system hardening best practices?",
+    "id": 60,
+    "image": "images/cybersecurity/what_are_system_hardening_best_practices.jpg"
+  },
+  {
+    "title": "Explain SQL injection and how to prevent it.",
+    "id": 61,
+    "image": "images/cybersecurity/explain_sql_injection_and_how_to_prevent_it.jpg"
+  },
+  {
+    "title": "What is Cross-Site Scripting (XSS)?",
+    "id": 62,
+    "image": "images/cybersecurity/what_is_cross_site_scripting.jpg"
+  },
+  {
+    "title": "What is Cross-Site Request Forgery (CSRF)?",
+    "id": 63,
+    "image": "images/cybersecurity/what_is_cross_site_request_forgery.jpg"
+  },
+  {
+    "title": "Explain buffer overflow attacks.",
+    "id": 64,
+    "image": "images/cybersecurity/explain_buffer_overflow_attacks.jpg"
+  },
+  {
+    "title": "What is privilege escalation attack?",
+    "id": 65,
+    "image": "images/cybersecurity/what_is_privilege_escalation_attack.jpg"
+  },
+  {
+    "title": "What is directory traversal attack?",
+    "id": 66,
+    "image": "images/cybersecurity/what_is_directory_traversal_attack.jpg"
+  },
+  {
+    "title": "Explain man-in-the-browser attacks.",
+    "id": 67,
+    "image": "images/cybersecurity/explain_man_in_the_browser_attacks.jpg"
+  },
+  {
+    "title": "What is clickjacking?",
+    "id": 68,
+    "image": "images/cybersecurity/what_is_clickjacking.jpg"
+  },
+  {
+    "title": "What is session hijacking?",
+    "id": 69,
+    "image": "images/cybersecurity/what_is_session_hijacking.jpg"
+  },
+  {
+    "title": "Explain cookie poisoning.",
+    "id": 70,
+    "image": "images/cybersecurity/explain_cookie_poisoning.jpg"
+  },
+  {
+    "title": "What is an insider threat?",
+    "id": 71,
+    "image": "images/cybersecurity/what_is_an_insider_threat.jpg"
+  },
+  {
+    "title": "What are APTs (Advanced Persistent Threats)?",
+    "id": 72,
+    "image": "images/cybersecurity/what_are_apts.jpg"
+  },
+  {
+    "title": "What is ransomware as a service?",
+    "id": 73,
+    "image": "images/cybersecurity/what_is_ransomware_as_a_service.jpg"
+  },
+  {
+    "title": "Explain brute force attacks.",
+    "id": 74,
+    "image": "images/cybersecurity/explain_brute_force_attacks.jpg"
+  },
+  {
+    "title": "Explain dictionary attacks.",
+    "id": 75,
+    "image": "images/cybersecurity/explain_dictionary_attacks.jpg"
+  },
+  {
+    "title": "What is an X.509 certificate, and how can it be exploited?",
+    "id": 76,
+    "image": "images/cybersecurity/what_is_an_x_509_certificate_and_how_can_it_be_exploited.jpg"
+  },
+  {
+    "title": "What is a side-channel attack?",
+    "id": 77,
+    "image": "images/cybersecurity/what_is_a_side_channel_attack.jpg"
+  },
+  {
+    "title": "Explain phishing kits.",
+    "id": 78,
+    "image": "images/cybersecurity/explain_phishing_kits.jpg"
+  },
+  {
+    "title": "What is spear phishing?",
+    "id": 79,
+    "image": "images/cybersecurity/what_is_spear_phishing.jpg"
+  },
+  {
+    "title": "What is whaling attack?",
+    "id": 80,
+    "image": "images/cybersecurity/what_is_whaling_attack.jpg"
+  },
+  {
+    "title": "Explain DNS poisoning.",
+    "id": 81,
+    "image": "images/cybersecurity/explain_dns_poisoning.jpg"
+  },
+  {
+    "title": "Explain ARP poisoning.",
+    "id": 82,
+    "image": "images/cybersecurity/explain_arp_poisoning.jpg"
+  },
+  {
+    "title": "What is rootkit persistence?",
+    "id": 83,
+    "image": "images/cybersecurity/what_is_rootkit_persistence.jpg"
+  },
+  {
+    "title": "Explain watering hole attacks.",
+    "id": 84,
+    "image": "images/cybersecurity/explain_watering_hole_attacks.jpg"
+  },
+  {
+    "title": "Explain drive-by download attacks.",
+    "id": 85,
+    "image": "images/cybersecurity/explain_drive_by_download_attacks.jpg"
+  },
+  {
+    "title": "What is a logic bomb?",
+    "id": 86,
+    "image": "images/cybersecurity/what_is_a_logic_bomb.jpg"
+  },
+  {
+    "title": "Explain cyber kill chain.",
+    "id": 87,
+    "image": "images/cybersecurity/explain_cyber_kill_chain.jpg"
+  },
+  {
+    "title": "What is an exploit kit?",
+    "id": 88,
+    "image": "images/cybersecurity/what_is_an_exploit_kit.jpg"
+  },
+  {
+    "title": "Explain polymorphic malware.",
+    "id": 89,
+    "image": "images/cybersecurity/explain_polymorphic_malware.jpg"
+  },
+  {
+    "title": "Explain ransomware attack vectors.",
+    "id": 90,
+    "image": "images/cybersecurity/explain_ransomware_attack_vectors.jpg"
+  },
+  {
+    "title": "What is Wireshark, and how is it used?",
+    "id": 91,
+    "image": "images/cybersecurity/what_is_wireshark_and_how_is_it_used.jpg"
+  },
+  {
+    "title": "What is Nmap?",
+    "id": 92,
+    "image": "images/cybersecurity/what_is_nmap.jpg"
+  },
+  {
+    "title": "What is Metasploit?",
+    "id": 93,
+    "image": "images/cybersecurity/what_is_metasploit.jpg"
+  },
+  {
+    "title": "What is Burp Suite?",
+    "id": 94,
+    "image": "images/cybersecurity/what_is_burp_suite.jpg"
+  },
+  {
+    "title": "Explain OSSEC and its use.",
+    "id": 95,
+    "image": "images/cybersecurity/explain_ossec_and_its_use.jpg"
+  },
+  {
+    "title": "What is Snort?",
+    "id": 96,
+    "image": "images/cybersecurity/what_is_snort.jpg"
+  },
+  {
+    "title": "What is Nessus?",
+    "id": 97,
+    "image": "images/cybersecurity/what_is_nessus.jpg"
+  },
+  {
+    "title": "What is OpenVAS?",
+    "id": 98,
+    "image": "images/cybersecurity/what_is_openvas.jpg"
+  },
+  {
+    "title": "Explain Kali Linux and its tools.",
+    "id": 99,
+    "image": "images/cybersecurity/explain_kali_linux_and_its_tools.jpg"
+  },
+  {
+    "title": "What is a SIEM tool?",
+    "id": 100,
+    "image": "images/cybersecurity/what_is_a_siem_tool.jpg"
+  },
+  {
+    "title": "Explain Splunk.",
+    "id": 101,
+    "image": "images/cybersecurity/explain_splunk.jpg"
+  },
+  {
+    "title": "Explain ELK stack in cybersecurity.",
+    "id": 102,
+    "image": "images/cybersecurity/explain_elk_stack_in_cybersecurity.jpg"
+  },
+  {
+    "title": "What is an intrusion detection system?",
+    "id": 103,
+    "image": "images/cybersecurity/what_is_an_intrusion_detection_system.jpg"
+  },
+  {
+    "title": "What is an intrusion prevention system?",
+    "id": 104,
+    "image": "images/cybersecurity/what_is_an_intrusion_prevention_system.jpg"
+  },
+  {
+    "title": "What is endpoint detection and response (EDR)?",
+    "id": 105,
+    "image": "images/cybersecurity/what_is_endpoint_detection_and_response.jpg"
+  },
+  {
+    "title": "What is network traffic analysis?",
+    "id": 106,
+    "image": "images/cybersecurity/what_is_network_traffic_analysis.jpg"
+  },
+  {
+    "title": "Explain vulnerability scanning vs. penetration testing.",
+    "id": 107,
+    "image": "images/cybersecurity/explain_vulnerability_scanning_vs_penetration_testing.jpg"
+  },
+  {
+    "title": "What is a honeypot?",
+    "id": 108,
+    "image": "images/cybersecurity/what_is_a_honeypot.jpg"
+  },
+  {
+    "title": "What is threat intelligence?",
+    "id": 109,
+    "image": "images/cybersecurity/what_is_threat_intelligence.jpg"
+  },
+  {
+    "title": "What is malware sandboxing?",
+    "id": 110,
+    "image": "images/cybersecurity/what_is_malware_sandboxing.jpg"
+  },
+  {
+    "title": "What is forensic imaging?",
+    "id": 111,
+    "image": "images/cybersecurity/what_is_forensic_imaging.jpg"
+  },
+  {
+    "title": "What is digital forensics?",
+    "id": 112,
+    "image": "images/cybersecurity/what_is_digital_forensics.jpg"
+  },
+  {
+    "title": "What is the difference between signature-based and behavior-based detection?",
+    "id": 113,
+    "image": "images/cybersecurity/what_is_the_difference_between_signature_based_and_behavior_based_detection.jpg"
+  },
+  {
+    "title": "What is phishing detection software?",
+    "id": 114,
+    "image": "images/cybersecurity/what_is_phishing_detection_software.jpg"
+  },
+  {
+    "title": "Explain SIEM correlation rules.",
+    "id": 115,
+    "image": "images/cybersecurity/explain_siem_correlation_rules.jpg"
+  },
+  {
+    "title": "What is a vulnerability scanner?",
+    "id": 116,
+    "image": "images/cybersecurity/what_is_a_vulnerability_scanner.jpg"
+  },
+  {
+    "title": "Explain the concept of attack surface reduction.",
+    "id": 117,
+    "image": "images/cybersecurity/explain_the_concept_of_attack_surface_reduction.jpg"
+  },
+  {
+    "title": "What are DLP tools?",
+    "id": 118,
+    "image": "images/cybersecurity/what_are_dlp_tools.jpg"
+  },
+  {
+    "title": "Explain the importance of encryption tools.",
+    "id": 119,
+    "image": "images/cybersecurity/explain_the_importance_of_encryption_tools.jpg"
+  },
+  {
+    "title": "What is secure email gateway?",
+    "id": 120,
+    "image": "images/cybersecurity/what_is_secure_email_gateway.jpg"
+  },
+  {
+    "title": "Explain cloud security challenges.",
+    "id": 121,
+    "image": "images/cybersecurity/explain_cloud_security_challenges.jpg"
+  },
+  {
+    "title": "What is shared responsibility model in cloud?",
+    "id": 122,
+    "image": "images/cybersecurity/what_is_shared_responsibility_model_in_cloud.jpg"
+  },
+  {
+    "title": "What is IAM (Identity and Access Management)?",
+    "id": 123,
+    "image": "images/cybersecurity/what_is_iam.jpg"
+  },
+  {
+    "title": "Explain AWS security best practices.",
+    "id": 124,
+    "image": "images/cybersecurity/explain_aws_security_best_practices.jpg"
+  },
+  {
+    "title": "Explain Azure security best practices.",
+    "id": 125,
+    "image": "images/cybersecurity/explain_azure_security_best_practices.jpg"
+  },
+  {
+    "title": "Explain GCP security best practices.",
+    "id": 126,
+    "image": "images/cybersecurity/explain_gcp_security_best_practices.jpg"
+  },
+  {
+    "title": "What is container security?",
+    "id": 127,
+    "image": "images/cybersecurity/what_is_container_security.jpg"
+  },
+  {
+    "title": "Explain Docker security concerns.",
+    "id": 128,
+    "image": "images/cybersecurity/explain_docker_security_concerns.jpg"
+  },
+  {
+    "title": "What is Kubernetes security?",
+    "id": 129,
+    "image": "images/cybersecurity/what_is_kubernetes_security.jpg"
+  },
+  {
+    "title": "Explain API security best practices.",
+    "id": 130,
+    "image": "images/cybersecurity/explain_api_security_best_practices.jpg"
+  },
+  {
+    "title": "What is application hardening?",
+    "id": 131,
+    "image": "images/cybersecurity/what_is_application_hardening.jpg"
+  },
+  {
+    "title": "Explain secure SDLC (Software Development Life Cycle).",
+    "id": 132,
+    "image": "images/cybersecurity/explain_secure_sdlc.jpg"
+  },
+  {
+    "title": "What is OWASP Top 10?",
+    "id": 133,
+    "image": "images/cybersecurity/what_is_owasp_top_10.jpg"
+  },
+  {
+    "title": "Explain input validation and output encoding.",
+    "id": 134,
+    "image": "images/cybersecurity/explain_input_validation_and_output_encoding.jpg"
+  },
+  {
+    "title": "What is token-based authentication?",
+    "id": 135,
+    "image": "images/cybersecurity/what_is_token_based_authentication.jpg"
+  },
+  {
+    "title": "Explain OAuth 2.0 and OpenID Connect.",
+    "id": 136,
+    "image": "images/cybersecurity/explain_oauth_2_0_and_openid_connect.jpg"
+  },
+  {
+    "title": "Explain JWT (JSON Web Token).",
+    "id": 137,
+    "image": "images/cybersecurity/explain_jwt.jpg"
+  },
+  {
+    "title": "What is web application firewall (WAF)?",
+    "id": 138,
+    "image": "images/cybersecurity/what_is_web_application_firewall.jpg"
+  },
+  {
+    "title": "How do you secure microservices architecture?",
+    "id": 139,
+    "image": "images/cybersecurity/how_do_you_secure_microservices_architecture.jpg"
+  },
+  {
+    "title": "Explain cloud-native security monitoring.",
+    "id": 140,
+    "image": "images/cybersecurity/explain_cloud_native_security_monitoring.jpg"
+  },
+  {
+    "title": "Describe a time you prevented a security incident.",
+    "id": 141,
+    "image": "images/cybersecurity/describe_a_time_you_prevented_a_security_incident.jpg"
+  },
+  {
+    "title": "How would you handle a ransomware infection in an organization?",
+    "id": 142,
+    "image": "images/cybersecurity/how_would_you_handle_a_ransomware_infection_in_an_organization.jpg"
+  },
+  {
+    "title": "How do you stay updated with cybersecurity trends?",
+    "id": 143,
+    "image": "images/cybersecurity/how_do_you_stay_updated_with_cybersecurity_trends.jpg"
+  },
+  {
+    "title": "Describe a time you had to explain technical risks to non-technical stakeholders.",
+    "id": 144,
+    "image": "images/cybersecurity/describe_a_time_you_had_to_explain_technical_risks_to_non_technical_stakeholders.jpg"
+  },
+  {
+    "title": "How would you respond to a DDoS attack?",
+    "id": 145,
+    "image": "images/cybersecurity/how_would_you_respond_to_a_ddos_attack.jpg"
+  },
+  {
+    "title": "How do you prioritize vulnerabilities for patching?",
+    "id": 146,
+    "image": "images/cybersecurity/how_do_you_prioritize_vulnerabilities_for_patching.jpg"
+  },
+  {
+    "title": "Describe a time when you investigated a security incident.",
+    "id": 147,
+    "image": "images/cybersecurity/describe_a_time_when_you_investigated_a_security_incident.jpg"
+  },
+  {
+    "title": "How would you secure a remote workforce?",
+    "id": 148,
+    "image": "images/cybersecurity/how_would_you_secure_a_remote_workforce.jpg"
+  },
+  {
+    "title": "How do you deal with insider threats?",
+    "id": 149,
+    "image": "images/cybersecurity/how_do_you_deal_with_insider_threats.jpg"
+  },
+  {
+    "title": "What steps would you take if you discovered sensitive data was leaked?",
+    "id": 150,
+    "image": "images/cybersecurity/what_steps_would_you_take_if_you_discovered_sensitive_data_was_leaked.jpg"
+  }
+]
