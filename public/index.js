@@ -4,8 +4,7 @@ let filtered = [];
 let currentPage = parseInt(localStorage.getItem('currentPage')) || 1;
 const pageSize = 12; // items per page
 
-document.title = "Interview QA";
-document.querySelector("h2").textContent = "Select a Job Role";
+
 
 async function loadCategories() {
   const res = await fetch("data/tech-jobs.json");
@@ -20,14 +19,14 @@ function getPagedData() {
 }
 
 function render() {
-  const list = document.getElementById("category-list");
+  const list = document.getElementById("card-list");
   list.innerHTML = "";
 
   const pageData = getPagedData();
 
   pageData.forEach(cat => {
     const div = document.createElement("div");
-    div.className = "category";
+    div.className = "card";
 
     div.innerHTML = `
       <img loading="lazy" src="${cat.image}" alt="${cat.title}">

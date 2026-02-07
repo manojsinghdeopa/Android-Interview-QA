@@ -1,0 +1,807 @@
+[
+  {
+    "title": "What is cloud computing?",
+    "id": 1,
+    "image": "images/cloud-architect-engineer/what_is_cloud_computing.jpg"
+  },
+  {
+    "title": "What are the key characteristics of cloud computing?",
+    "id": 2,
+    "image": "images/cloud-architect-engineer/what_are_the_key_characteristics_of_cloud_computing.jpg"
+  },
+  {
+    "title": "Explain IaaS, PaaS, and SaaS.",
+    "id": 3,
+    "image": "images/cloud-architect-engineer/explain_iaas_paas_and_saas.jpg"
+  },
+  {
+    "title": "What is public cloud?",
+    "id": 4,
+    "image": "images/cloud-architect-engineer/what_is_public_cloud.jpg"
+  },
+  {
+    "title": "What is private cloud?",
+    "id": 5,
+    "image": "images/cloud-architect-engineer/what_is_private_cloud.jpg"
+  },
+  {
+    "title": "What is hybrid cloud?",
+    "id": 6,
+    "image": "images/cloud-architect-engineer/what_is_hybrid_cloud.jpg"
+  },
+  {
+    "title": "What is multi-cloud?",
+    "id": 7,
+    "image": "images/cloud-architect-engineer/what_is_multi_cloud.jpg"
+  },
+  {
+    "title": "What are availability zones?",
+    "id": 8,
+    "image": "images/cloud-architect-engineer/what_are_availability_zones.jpg"
+  },
+  {
+    "title": "What is a cloud region?",
+    "id": 9,
+    "image": "images/cloud-architect-engineer/what_is_a_cloud_region.jpg"
+  },
+  {
+    "title": "What is elasticity in cloud computing?",
+    "id": 10,
+    "image": "images/cloud-architect-engineer/what_is_elasticity_in_cloud_computing.jpg"
+  },
+  {
+    "title": "What is scalability?",
+    "id": 11,
+    "image": "images/cloud-architect-engineer/what_is_scalability.jpg"
+  },
+  {
+    "title": "What is high availability?",
+    "id": 12,
+    "image": "images/cloud-architect-engineer/what_is_high_availability.jpg"
+  },
+  {
+    "title": "What is fault tolerance?",
+    "id": 13,
+    "image": "images/cloud-architect-engineer/what_is_fault_tolerance.jpg"
+  },
+  {
+    "title": "What is a shared responsibility model?",
+    "id": 14,
+    "image": "images/cloud-architect-engineer/what_is_a_shared_responsibility_model.jpg"
+  },
+  {
+    "title": "What is vendor lock-in?",
+    "id": 15,
+    "image": "images/cloud-architect-engineer/what_is_vendor_lock_in.jpg"
+  },
+  {
+    "title": "What is a VPC or virtual network?",
+    "id": 16,
+    "image": "images/cloud-architect-engineer/what_is_a_vpc_or_virtual_network.jpg"
+  },
+  {
+    "title": "What is CIDR notation?",
+    "id": 17,
+    "image": "images/cloud-architect-engineer/what_is_cidr_notation.jpg"
+  },
+  {
+    "title": "What is subnetting?",
+    "id": 18,
+    "image": "images/cloud-architect-engineer/what_is_subnetting.jpg"
+  },
+  {
+    "title": "Difference between public and private subnets?",
+    "id": 19,
+    "image": "images/cloud-architect-engineer/difference_between_public_and_private_subnets.jpg"
+  },
+  {
+    "title": "What is NAT and why is it used?",
+    "id": 20,
+    "image": "images/cloud-architect-engineer/what_is_nat_and_why_is_it_used.jpg"
+  },
+  {
+    "title": "What is an Internet Gateway?",
+    "id": 21,
+    "image": "images/cloud-architect-engineer/what_is_an_internet_gateway.jpg"
+  },
+  {
+    "title": "What is a load balancer?",
+    "id": 22,
+    "image": "images/cloud-architect-engineer/what_is_a_load_balancer.jpg"
+  },
+  {
+    "title": "Types of load balancers in cloud platforms?",
+    "id": 23,
+    "image": "images/cloud-architect-engineer/types_of_load_balancers_in_cloud_platforms.jpg"
+  },
+  {
+    "title": "What is DNS in cloud environments?",
+    "id": 24,
+    "image": "images/cloud-architect-engineer/what_is_dns_in_cloud_environments.jpg"
+  },
+  {
+    "title": "What is VPC peering?",
+    "id": 25,
+    "image": "images/cloud-architect-engineer/what_is_vpc_peering.jpg"
+  },
+  {
+    "title": "What is VPN?",
+    "id": 26,
+    "image": "images/cloud-architect-engineer/what_is_vpn.jpg"
+  },
+  {
+    "title": "Difference between VPN and Direct Connect / ExpressRoute?",
+    "id": 27,
+    "image": "images/cloud-architect-engineer/difference_between_vpn_and_direct_connect_expressroute.jpg"
+  },
+  {
+    "title": "What is network segmentation?",
+    "id": 28,
+    "image": "images/cloud-architect-engineer/what_is_network_segmentation.jpg"
+  },
+  {
+    "title": "What is zero-trust networking?",
+    "id": 29,
+    "image": "images/cloud-architect-engineer/what_is_zero_trust_networking.jpg"
+  },
+  {
+    "title": "How does traffic flow inside a cloud VPC?",
+    "id": 30,
+    "image": "images/cloud-architect-engineer/how_does_traffic_flow_inside_a_cloud_vpc.jpg"
+  },
+  {
+    "title": "What are virtual machines?",
+    "id": 31,
+    "image": "images/cloud-architect-engineer/what_are_virtual_machines.jpg"
+  },
+  {
+    "title": "What are managed compute services?",
+    "id": 32,
+    "image": "images/cloud-architect-engineer/what_are_managed_compute_services.jpg"
+  },
+  {
+    "title": "Difference between VMs and containers?",
+    "id": 33,
+    "image": "images/cloud-architect-engineer/difference_between_vms_and_containers.jpg"
+  },
+  {
+    "title": "What is serverless computing?",
+    "id": 34,
+    "image": "images/cloud-architect-engineer/what_is_serverless_computing.jpg"
+  },
+  {
+    "title": "What is autoscaling?",
+    "id": 35,
+    "image": "images/cloud-architect-engineer/what_is_autoscaling.jpg"
+  },
+  {
+    "title": "What is object storage?",
+    "id": 36,
+    "image": "images/cloud-architect-engineer/what_is_object_storage.jpg"
+  },
+  {
+    "title": "Difference between object, block, and file storage?",
+    "id": 37,
+    "image": "images/cloud-architect-engineer/difference_between_object_block_and_file_storage.jpg"
+  },
+  {
+    "title": "What is lifecycle management in storage?",
+    "id": 38,
+    "image": "images/cloud-architect-engineer/what_is_lifecycle_management_in_storage.jpg"
+  },
+  {
+    "title": "What is data replication?",
+    "id": 39,
+    "image": "images/cloud-architect-engineer/what_is_data_replication.jpg"
+  },
+  {
+    "title": "What is snapshotting?",
+    "id": 40,
+    "image": "images/cloud-architect-engineer/what_is_snapshotting.jpg"
+  },
+  {
+    "title": "How does cloud storage ensure durability?",
+    "id": 41,
+    "image": "images/cloud-architect-engineer/how_does_cloud_storage_ensure_durability.jpg"
+  },
+  {
+    "title": "What is cold storage?",
+    "id": 42,
+    "image": "images/cloud-architect-engineer/what_is_cold_storage.jpg"
+  },
+  {
+    "title": "When would you use ephemeral storage?",
+    "id": 43,
+    "image": "images/cloud-architect-engineer/when_would_you_use_ephemeral_storage.jpg"
+  },
+  {
+    "title": "What is storage encryption at rest?",
+    "id": 44,
+    "image": "images/cloud-architect-engineer/what_is_storage_encryption_at_rest.jpg"
+  },
+  {
+    "title": "What is storage encryption in transit?",
+    "id": 45,
+    "image": "images/cloud-architect-engineer/what_is_storage_encryption_in_transit.jpg"
+  },
+  {
+    "title": "What is IAM?",
+    "id": 46,
+    "image": "images/cloud-architect-engineer/what_is_iam.jpg"
+  },
+  {
+    "title": "What are IAM roles?",
+    "id": 47,
+    "image": "images/cloud-architect-engineer/what_are_iam_roles.jpg"
+  },
+  {
+    "title": "What is least privilege access?",
+    "id": 48,
+    "image": "images/cloud-architect-engineer/what_is_least_privilege_access.jpg"
+  },
+  {
+    "title": "What is MFA?",
+    "id": 49,
+    "image": "images/cloud-architect-engineer/what_is_mfa.jpg"
+  },
+  {
+    "title": "What is key management service?",
+    "id": 50,
+    "image": "images/cloud-architect-engineer/what_is_key_management_service.jpg"
+  },
+  {
+    "title": "What is secret management?",
+    "id": 51,
+    "image": "images/cloud-architect-engineer/what_is_secret_management.jpg"
+  },
+  {
+    "title": "Difference between authentication and authorization?",
+    "id": 52,
+    "image": "images/cloud-architect-engineer/difference_between_authentication_and_authorization.jpg"
+  },
+  {
+    "title": "What is cloud firewall?",
+    "id": 53,
+    "image": "images/cloud-architect-engineer/what_is_cloud_firewall.jpg"
+  },
+  {
+    "title": "What is security group vs network ACL?",
+    "id": 54,
+    "image": "images/cloud-architect-engineer/what_is_security_group_vs_network_acl.jpg"
+  },
+  {
+    "title": "What is DDoS protection?",
+    "id": 55,
+    "image": "images/cloud-architect-engineer/what_is_ddos_protection.jpg"
+  },
+  {
+    "title": "What is compliance in cloud?",
+    "id": 56,
+    "image": "images/cloud-architect-engineer/what_is_compliance_in_cloud.jpg"
+  },
+  {
+    "title": "What is data sovereignty?",
+    "id": 57,
+    "image": "images/cloud-architect-engineer/what_is_data_sovereignty.jpg"
+  },
+  {
+    "title": "How do you secure APIs in cloud?",
+    "id": 58,
+    "image": "images/cloud-architect-engineer/how_do_you_secure_apis_in_cloud.jpg"
+  },
+  {
+    "title": "What is identity federation?",
+    "id": 59,
+    "image": "images/cloud-architect-engineer/what_is_identity_federation.jpg"
+  },
+  {
+    "title": "What is conditional access?",
+    "id": 60,
+    "image": "images/cloud-architect-engineer/what_is_conditional_access.jpg"
+  },
+  {
+    "title": "What is a well-architected framework?",
+    "id": 61,
+    "image": "images/cloud-architect-engineer/what_is_a_well_architected_framework.jpg"
+  },
+  {
+    "title": "What are the pillars of cloud architecture?",
+    "id": 62,
+    "image": "images/cloud-architect-engineer/what_are_the_pillars_of_cloud_architecture.jpg"
+  },
+  {
+    "title": "What is disaster recovery?",
+    "id": 63,
+    "image": "images/cloud-architect-engineer/what_is_disaster_recovery.jpg"
+  },
+  {
+    "title": "Difference between RTO and RPO?",
+    "id": 64,
+    "image": "images/cloud-architect-engineer/difference_between_rto_and_rpo.jpg"
+  },
+  {
+    "title": "What is active-active architecture?",
+    "id": 65,
+    "image": "images/cloud-architect-engineer/what_is_active_active_architecture.jpg"
+  },
+  
+  
+  
+  
+  
+  {
+    "title": "What is active-passive architecture?",
+    "id": 66,
+    "image": "images/cloud-architect-engineer/what_is_active_passive_architecture.jpg"
+  },
+  {
+    "title": "What is blue-green deployment?",
+    "id": 67,
+    "image": "images/cloud-architect-engineer/what_is_blue_green_deployment.jpg"
+  },
+  {
+    "title": "What is canary deployment?",
+    "id": 68,
+    "image": "images/cloud-architect-engineer/what_is_canary_deployment.jpg"
+  },
+  {
+    "title": "What is eventual consistency?",
+    "id": 69,
+    "image": "images/cloud-architect-engineer/what_is_eventual_consistency.jpg"
+  },
+  {
+    "title": "How do you design for failure?",
+    "id": 70,
+    "image": "images/cloud-architect-engineer/how_do_you_design_for_failure.jpg"
+  },
+  {
+    "title": "How would you design a highly available web application?",
+    "id": 71,
+    "image": "images/cloud-architect-engineer/how_would_you_design_a_highly_available_web_application.jpg"
+  },
+  {
+    "title": "How do you migrate an on-prem application to the cloud?",
+    "id": 72,
+    "image": "images/cloud-architect-engineer/how_do_you_migrate_an_on_prem_application_to_the_cloud.jpg"
+  },
+  {
+    "title": "What steps would you follow for cloud cost optimisation?",
+    "id": 73,
+    "image": "images/cloud-architect-engineer/what_steps_would_you_follow_for_cloud_cost_optimisation.jpg"
+  },
+  {
+    "title": "How do you monitor cloud resources?",
+    "id": 74,
+    "image": "images/cloud-architect-engineer/how_do_you_monitor_cloud_resources.jpg"
+  },
+  {
+    "title": "How do you set up logging in cloud?",
+    "id": 75,
+    "image": "images/cloud-architect-engineer/how_do_you_set_up_logging_in_cloud.jpg"
+  },
+  {
+    "title": "How do you manage infrastructure as code?",
+    "id": 76,
+    "image": "images/cloud-architect-engineer/how_do_you_manage_infrastructure_as_code.jpg"
+  },
+  {
+    "title": "What tools do you use for IaC?",
+    "id": 77,
+    "image": "images/cloud-architect-engineer/what_tools_do_you_use_for_iac.jpg"
+  },
+  {
+    "title": "How do you handle environment separation?",
+    "id": 78,
+    "image": "images/cloud-architect-engineer/how_do_you_handle_environment_separation.jpg"
+  },
+  {
+    "title": "How do you automate deployments?",
+    "id": 79,
+    "image": "images/cloud-architect-engineer/how_do_you_automate_deployments.jpg"
+  },
+  {
+    "title": "How do you implement autoscaling?",
+    "id": 80,
+    "image": "images/cloud-architect-engineer/how_do_you_implement_autoscaling.jpg"
+  },
+  {
+    "title": "How do you secure a public API?",
+    "id": 81,
+    "image": "images/cloud-architect-engineer/how_do_you_secure_a_public_api.jpg"
+  },
+  {
+    "title": "How do you manage secrets securely?",
+    "id": 82,
+    "image": "images/cloud-architect-engineer/how_do_you_manage_secrets_securely.jpg"
+  },
+  {
+    "title": "How do you rotate credentials?",
+    "id": 83,
+    "image": "images/cloud-architect-engineer/how_do_you_rotate_credentials.jpg"
+  },
+  {
+    "title": "How do you troubleshoot network latency?",
+    "id": 84,
+    "image": "images/cloud-architect-engineer/how_do_you_troubleshoot_network_latency.jpg"
+  },
+  {
+    "title": "How do you debug a failing cloud deployment?",
+    "id": 85,
+    "image": "images/cloud-architect-engineer/how_do_you_debug_a_failing_cloud_deployment.jpg"
+  },
+  {
+    "title": "How do you deploy containers in cloud?",
+    "id": 86,
+    "image": "images/cloud-architect-engineer/how_do_you_deploy_containers_in_cloud.jpg"
+  },
+  {
+    "title": "What is Kubernetes used for?",
+    "id": 87,
+    "image": "images/cloud-architect-engineer/what_is_kubernetes_used_for.jpg"
+  },
+  {
+    "title": "How do you manage container scaling?",
+    "id": 88,
+    "image": "images/cloud-architect-engineer/how_do_you_manage_container_scaling.jpg"
+  },
+  {
+    "title": "How do you handle container networking?",
+    "id": 89,
+    "image": "images/cloud-architect-engineer/how_do_you_handle_container_networking.jpg"
+  },
+  {
+    "title": "How do you secure container workloads?",
+    "id": 90,
+    "image": "images/cloud-architect-engineer/how_do_you_secure_container_workloads.jpg"
+  },
+  {
+    "title": "How do you implement CI/CD in cloud?",
+    "id": 91,
+    "image": "images/cloud-architect-engineer/how_do_you_implement_ci_cd_in_cloud.jpg"
+  },
+  {
+    "title": "How do you roll back a failed deployment?",
+    "id": 92,
+    "image": "images/cloud-architect-engineer/how_do_you_roll_back_a_failed_deployment.jpg"
+  },
+  {
+    "title": "How do you manage configuration drift?",
+    "id": 93,
+    "image": "images/cloud-architect-engineer/how_do_you_manage_configuration_drift.jpg"
+  },
+  {
+    "title": "How do you handle stateful workloads?",
+    "id": 94,
+    "image": "images/cloud-architect-engineer/how_do_you_handle_stateful_workloads.jpg"
+  },
+  {
+    "title": "How do you upgrade cloud resources with zero downtime?",
+    "id": 95,
+    "image": "images/cloud-architect-engineer/how_do_you_upgrade_cloud_resources_with_zero_downtime.jpg"
+  },
+  {
+    "title": "How do you design a cloud-based database architecture?",
+    "id": 96,
+    "image": "images/cloud-architect-engineer/how_do_you_design_a_cloud_based_database_architecture.jpg"
+  },
+  {
+    "title": "How do you improve application performance in cloud?",
+    "id": 97,
+    "image": "images/cloud-architect-engineer/how_do_you_improve_application_performance_in_cloud.jpg"
+  },
+  {
+    "title": "How do you cache data in cloud systems?",
+    "id": 98,
+    "image": "images/cloud-architect-engineer/how_do_you_cache_data_in_cloud_systems.jpg"
+  },
+  {
+    "title": "How do you handle large data transfers?",
+    "id": 99,
+    "image": "images/cloud-architect-engineer/how_do_you_handle_large_data_transfers.jpg"
+  },
+  {
+    "title": "How do you design for low latency?",
+    "id": 100,
+    "image": "images/cloud-architect-engineer/how_do_you_design_for_low_latency.jpg"
+  },
+  {
+    "title": "How do you implement backup and restore?",
+    "id": 101,
+    "image": "images/cloud-architect-engineer/how_do_you_implement_backup_and_restore.jpg"
+  },
+  {
+    "title": "How do you test disaster recovery plans?",
+    "id": 102,
+    "image": "images/cloud-architect-engineer/how_do_you_test_disaster_recovery_plans.jpg"
+  },
+  {
+    "title": "How do you manage data encryption?",
+    "id": 103,
+    "image": "images/cloud-architect-engineer/how_do_you_manage_data_encryption.jpg"
+  },
+  {
+    "title": "How do you monitor SLAs?",
+    "id": 104,
+    "image": "images/cloud-architect-engineer/how_do_you_monitor_slas.jpg"
+  },
+  {
+    "title": "How do you audit cloud activity logs?",
+    "id": 105,
+    "image": "images/cloud-architect-engineer/how_do_you_audit_cloud_activity_logs.jpg"
+  },
+  {
+    "title": "How do you explain cloud architecture to non-technical stakeholders?",
+    "id": 106,
+    "image": "images/cloud-architect-engineer/how_do_you_explain_cloud_architecture_to_non_technical_stakeholders.jpg"
+  },
+  {
+    "title": "How do you prioritise security vs performance?",
+    "id": 107,
+    "image": "images/cloud-architect-engineer/how_do_you_prioritise_security_vs_performance.jpg"
+  },
+  {
+    "title": "Describe a time you solved a complex cloud issue.",
+    "id": 108,
+    "image": "images/cloud-architect-engineer/describe_a_time_you_solved_a_complex_cloud_issue.jpg"
+  },
+  {
+    "title": "How do you handle production outages?",
+    "id": 109,
+    "image": "images/cloud-architect-engineer/how_do_you_handle_production_outages.jpg"
+  },
+  {
+    "title": "How do you document cloud architectures?",
+    "id": 110,
+    "image": "images/cloud-architect-engineer/how_do_you_document_cloud_architectures.jpg"
+  },
+  {
+    "title": "How do you collaborate with DevOps teams?",
+    "id": 111,
+    "image": "images/cloud-architect-engineer/how_do_you_collaborate_with_devops_teams.jpg"
+  },
+  {
+    "title": "How do you work with application developers?",
+    "id": 112,
+    "image": "images/cloud-architect-engineer/how_do_you_work_with_application_developers.jpg"
+  },
+  {
+    "title": "How do you manage conflicting requirements?",
+    "id": 113,
+    "image": "images/cloud-architect-engineer/how_do_you_manage_conflicting_requirements.jpg"
+  },
+  {
+    "title": "How do you stay updated with cloud technologies?",
+    "id": 114,
+    "image": "images/cloud-architect-engineer/how_do_you_stay_updated_with_cloud_technologies.jpg"
+  },
+  {
+    "title": "How do you mentor junior engineers?",
+    "id": 115,
+    "image": "images/cloud-architect-engineer/how_do_you_mentor_junior_engineers.jpg"
+  },
+  {
+    "title": "How do you handle tight deadlines?",
+    "id": 116,
+    "image": "images/cloud-architect-engineer/how_do_you_handle_tight_deadlines.jpg"
+  },
+  {
+    "title": "How do you respond to security incidents?",
+    "id": 117,
+    "image": "images/cloud-architect-engineer/how_do_you_respond_to_security_incidents.jpg"
+  },
+  {
+    "title": "How do you manage technical debt?",
+    "id": 118,
+    "image": "images/cloud-architect-engineer/how_do_you_manage_technical_debt.jpg"
+  },
+  {
+    "title": "How do you justify cloud costs to management?",
+    "id": 119,
+    "image": "images/cloud-architect-engineer/how_do_you_justify_cloud_costs_to_management.jpg"
+  },
+  {
+    "title": "How do you handle vendor disagreements?",
+    "id": 120,
+    "image": "images/cloud-architect-engineer/how_do_you_handle_vendor_disagreements.jpg"
+  },
+  {
+    "title": "How do you approach learning a new cloud platform?",
+    "id": 121,
+    "image": "images/cloud-architect-engineer/how_do_you_approach_learning_a_new_cloud_platform.jpg"
+  },
+  {
+    "title": "How do you ensure reliability under pressure?",
+    "id": 122,
+    "image": "images/cloud-architect-engineer/how_do_you_ensure_reliability_under_pressure.jpg"
+  },
+  {
+    "title": "How do you balance speed and quality?",
+    "id": 123,
+    "image": "images/cloud-architect-engineer/how_do_you_balance_speed_and_quality.jpg"
+  },
+  {
+    "title": "How do you handle failed designs?",
+    "id": 124,
+    "image": "images/cloud-architect-engineer/how_do_you_handle_failed_designs.jpg"
+  },
+  {
+    "title": "How do you influence architectural decisions?",
+    "id": 125,
+    "image": "images/cloud-architect-engineer/how_do_you_influence_architectural_decisions.jpg"
+  },
+  {
+    "title": "How would you design a global e-commerce platform?",
+    "id": 126,
+    "image": "images/cloud-architect-engineer/how_would_you_design_a_global_e_commerce_platform.jpg"
+  },
+  {
+    "title": "How would you architect a multi-region application?",
+    "id": 127,
+    "image": "images/cloud-architect-engineer/how_would_you_architect_a_multi_region_application.jpg"
+  },
+  {
+    "title": "How would you reduce cloud costs by 30%?",
+    "id": 128,
+    "image": "images/cloud-architect-engineer/how_would_you_reduce_cloud_costs_by_30.jpg"
+  },
+  {
+    "title": "How would you handle a sudden traffic spike?",
+    "id": 129,
+    "image": "images/cloud-architect-engineer/how_would_you_handle_a_sudden_traffic_spike.jpg"
+  },
+  {
+    "title": "How would you design a secure financial system?",
+    "id": 130,
+    "image": "images/cloud-architect-engineer/how_would_you_design_a_secure_financial_system.jpg"
+  },
+  {
+    "title": "How would you migrate a monolith to microservices?",
+    "id": 131,
+    "image": "images/cloud-architect-engineer/how_would_you_migrate_a_monolith_to_microservices.jpg"
+  },
+  {
+    "title": "How would you design a serverless application?",
+    "id": 132,
+    "image": "images/cloud-architect-engineer/how_would_you_design_a_serverless_application.jpg"
+  },
+  {
+    "title": "How would you handle data residency requirements?",
+    "id": 133,
+    "image": "images/cloud-architect-engineer/how_would_you_handle_data_residency_requirements.jpg"
+  },
+  {
+    "title": "How would you architect a SaaS platform?",
+    "id": 134,
+    "image": "images/cloud-architect-engineer/how_would_you_architect_a_saas_platform.jpg"
+  },
+  {
+    "title": "How would you design a DR strategy for a critical system?",
+    "id": 135,
+    "image": "images/cloud-architect-engineer/how_would_you_design_a_dr_strategy_for_a_critical_system.jpg"
+  },
+  {
+    "title": "How would you troubleshoot intermittent outages?",
+    "id": 136,
+    "image": "images/cloud-architect-engineer/how_would_you_troubleshoot_intermittent_outages.jpg"
+  },
+  {
+    "title": "How would you design for compliance requirements?",
+    "id": 137,
+    "image": "images/cloud-architect-engineer/how_would_you_design_for_compliance_requirements.jpg"
+  },
+  {
+    "title": "How would you implement zero-trust architecture?",
+    "id": 138,
+    "image": "images/cloud-architect-engineer/how_would_you_implement_zero_trust_architecture.jpg"
+  },
+  {
+    "title": "How would you manage secrets across environments?",
+    "id": 139,
+    "image": "images/cloud-architect-engineer/how_would_you_manage_secrets_across_environments.jpg"
+  },
+  {
+    "title": "How would you design a logging and monitoring strategy?",
+    "id": 140,
+    "image": "images/cloud-architect-engineer/how_would_you_design_a_logging_and_monitoring_strategy.jpg"
+  },
+  {
+    "title": "How would you secure a multi-tenant system?",
+    "id": 141,
+    "image": "images/cloud-architect-engineer/how_would_you_secure_a_multi_tenant_system.jpg"
+  },
+  {
+    "title": "How would you architect a real-time analytics system?",
+    "id": 142,
+    "image": "images/cloud-architect-engineer/how_would_you_architect_a_real_time_analytics_system.jpg"
+  },
+  {
+    "title": "How would you handle cross-region replication failures?",
+    "id": 143,
+    "image": "images/cloud-architect-engineer/how_would_you_handle_cross_region_replication_failures.jpg"
+  },
+  {
+    "title": "How would you design for high write throughput?",
+    "id": 144,
+    "image": "images/cloud-architect-engineer/how_would_you_design_for_high_write_throughput.jpg"
+  },
+  {
+    "title": "How would you migrate legacy databases?",
+    "id": 145,
+    "image": "images/cloud-architect-engineer/how_would_you_migrate_legacy_databases.jpg"
+  },
+  {
+    "title": "How would you handle cloud provider outages?",
+    "id": 146,
+    "image": "images/cloud-architect-engineer/how_would_you_handle_cloud_provider_outages.jpg"
+  },
+  {
+    "title": "How would you design a CI/CD-driven architecture?",
+    "id": 147,
+    "image": "images/cloud-architect-engineer/how_would_you_design_a_ci_cd_driven_architecture.jpg"
+  },
+  {
+    "title": "How would you optimise latency for global users?",
+    "id": 148,
+    "image": "images/cloud-architect-engineer/how_would_you_optimise_latency_for_global_users.jpg"
+  },
+  {
+    "title": "How would you design a hybrid cloud solution?",
+    "id": 149,
+    "image": "images/cloud-architect-engineer/how_would_you_design_a_hybrid_cloud_solution.jpg"
+  },
+  {
+    "title": "How would you architect for cost predictability?",
+    "id": 150,
+    "image": "images/cloud-architect-engineer/how_would_you_architect_for_cost_predictability.jpg"
+  },
+  {
+    "title": "How do you evaluate cloud provider trade-offs?",
+    "id": 151,
+    "image": "images/cloud-architect-engineer/how_do_you_evaluate_cloud_provider_trade_offs.jpg"
+  },
+  {
+    "title": "How do you design cloud-agnostic architectures?",
+    "id": 152,
+    "image": "images/cloud-architect-engineer/how_do_you_design_cloud_agnostic_architectures.jpg"
+  },
+  {
+    "title": "How do you manage large-scale multi-cloud governance?",
+    "id": 153,
+    "image": "images/cloud-architect-engineer/how_do_you_manage_large_scale_multi_cloud_governance.jpg"
+  },
+  {
+    "title": "How do you implement policy-as-code?",
+    "id": 154,
+    "image": "images/cloud-architect-engineer/how_do_you_implement_policy_as_code.jpg"
+  },
+  {
+    "title": "How do you measure architectural success?",
+    "id": 155,
+    "image": "images/cloud-architect-engineer/how_do_you_measure_architectural_success.jpg"
+  },
+  {
+    "title": "How do you handle organizational cloud maturity?",
+    "id": 156,
+    "image": "images/cloud-architect-engineer/how_do_you_handle_organizational_cloud_maturity.jpg"
+  },
+  {
+    "title": "How do you standardise cloud architectures?",
+    "id": 157,
+    "image": "images/cloud-architect-engineer/how_do_you_standardise_cloud_architectures.jpg"
+  },
+  {
+    "title": "How do you manage risk in cloud adoption?",
+    "id": 158,
+    "image": "images/cloud-architect-engineer/how_do_you_manage_risk_in_cloud_adoption.jpg"
+  },
+  {
+    "title": "How do you design platforms for future scalability?",
+    "id": 159,
+    "image": "images/cloud-architect-engineer/how_do_you_design_platforms_for_future_scalability.jpg"
+  },
+  {
+    "title": "How do you lead cloud transformation initiatives?",
+    "id": 160,
+    "image": "images/cloud-architect-engineer/how_do_you_lead_cloud_transformation_initiatives.jpg"
+  }
+]

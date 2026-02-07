@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>Interview QA</title>
+  <title>Job Guide</title>
   <link rel="icon"
     href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📱</text></svg>">
   <link rel="apple-touch-icon"
@@ -11,7 +11,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <style>
-    body {
+   
+   body {
       font-family: Arial, sans-serif;
       padding: 20px;
     }
@@ -25,28 +26,32 @@
       border: 1px solid #ccc;
     }
 
+    h2 {
+      color: #445F87;
+    }
+
     .grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
       gap: 16px;
     }
 
-    .category {
-      border: 1px solid #ddd;
-      border-radius: 12px;
+    .card {
       overflow: hidden;
       cursor: pointer;
       transition: transform .18s ease, box-shadow .18s ease, opacity .25s;
       opacity: 0;
       animation: fadeIn .5s forwards;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
     }
 
-    .category:hover {
+    .card:hover {
       transform: translateY(-4px) scale(1.01);
       box-shadow: 0 14px 24px rgba(0, 0, 0, .08);
     }
 
-    .category img {
+    .card img {
       display: block;
       width: 100%;
       /* let image scale with width and maintain an aspect ratio */
@@ -64,31 +69,15 @@
     }
 
     .pagination button {
-      padding: 10px 16px;
-      border-radius: 999px;
-      border: 1px solid #cbd5e1;
+      padding: 8px 14px;
+      border-radius: 8px;
+      border: 1px solid #ccc;
       cursor: pointer;
-      background: #ffffff;
-      color: #0f172a;
-      font-weight: 600;
-      transition: background .18s ease, color .18s ease, border-color .18s ease, opacity .18s ease;
-    }
-
-    .pagination button:hover:not(:disabled) {
-      background: #0f172a;
-      color: #ffffff;
-      border-color: #0f172a;
-    }
-
-    .pagination button:disabled {
-      cursor: not-allowed;
-      opacity: 0.5;
+      background: white;
     }
 
     .pagination span {
       padding: 8px 14px;
-      color: #4b5563;
-      font-weight: 600;
     }
 
     @keyframes fadeIn {
@@ -118,7 +107,7 @@
         grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
       }
 
-      .category img {
+      .card img {
         aspect-ratio: 2/3;
       }
 
@@ -130,11 +119,12 @@
 </head>
 
 <body>
-  <h2>Select a Job Role</h2>
+
+  <h2>Welcome to Job Guide</h2>
 
   <input type="text" id="search" placeholder="Search...">
 
-  <div id="category-list" class="grid"></div>
+  <div id="card-list" class="grid"></div>
 
   <!-- pagination controls -->
   <div class="pagination">

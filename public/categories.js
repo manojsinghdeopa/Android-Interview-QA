@@ -27,6 +27,11 @@ async function loadCategories() {
     categories = await res.json();
   }
 
+  if (job === "cloud-architect-engineer") {
+    const res = await fetch("data/cloud-architect-engineer.json");
+    categories = await res.json();
+  }
+
   filtered = categories; // default
   render();
 }
@@ -37,14 +42,14 @@ function getPagedData() {
 }
 
 function render() {
-  const list = document.getElementById("category-list");
+  const list = document.getElementById("card-list");
   list.innerHTML = "";
 
   const pageData = getPagedData();
 
   pageData.forEach(cat => {
     const div = document.createElement("div");
-    div.className = "category";
+    div.className = "card";
 
     div.innerHTML = `
       <img loading="lazy" src="${cat.image}" alt="${cat.title}">
@@ -59,7 +64,7 @@ function render() {
         Object.assign(modal.style, {
           position: 'fixed',
           inset: '0',
-          background: 'rgba(0,0,0,0.85)',
+          background: '#445F87',
           display: 'flex',
           flexDirection: 'column',
           zIndex: 9999,
@@ -90,7 +95,7 @@ function render() {
         title.textContent = cat.title;
         Object.assign(title.style, { color: '#fff', marginLeft: '8px', fontSize: '16px', fontWeight: '600' });
 
-        topBar.appendChild(backBtn);
+        // topBar.appendChild(backBtn);
         topBar.appendChild(title);
 
         const iframe = document.createElement('iframe');

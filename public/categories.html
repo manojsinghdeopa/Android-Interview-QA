@@ -16,6 +16,10 @@
       padding: 20px;
     }
 
+    h2 {
+      color: #445F87;
+    }
+
     input {
       width: 100%;
       max-width: 400px;
@@ -31,22 +35,22 @@
       gap: 16px;
     }
 
-    .category {
-      border: 1px solid #ddd;
-      border-radius: 12px;
+    .card {
       overflow: hidden;
       cursor: pointer;
       transition: transform .18s ease, box-shadow .18s ease, opacity .25s;
       opacity: 0;
       animation: fadeIn .5s forwards;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      border-radius: 5px;
     }
 
-    .category:hover {
+    .card:hover {
       transform: translateY(-4px) scale(1.01);
       box-shadow: 0 14px 24px rgba(0, 0, 0, .08);
     }
 
-    .category img {
+    .card img {
       display: block;
       width: 100%;
       /* let image scale with width and maintain an aspect ratio */
@@ -101,7 +105,7 @@
         grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
       }
 
-      .category img {
+      .card img {
         aspect-ratio: 2/3;
       }
 
@@ -117,7 +121,7 @@
 
   <input type="text" id="search" placeholder="Search...">
 
-  <div id="category-list" class="grid"></div>
+  <div id="card-list" class="grid"></div>
 
   <!-- pagination controls -->
   <div class="pagination">
