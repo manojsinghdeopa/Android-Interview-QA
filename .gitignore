@@ -68,3 +68,6 @@ node_modules/
 
 # dataconnect generated files
 .dataconnect
+
+# upload.html is generated for the upload command and should not be committed to source control
+upload.html

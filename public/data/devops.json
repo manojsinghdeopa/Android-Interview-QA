@@ -1,0 +1,813 @@
+[
+  {
+    "title": "What is DevOps?",
+    "id": 1,
+    "image": "images/devops/what_is_devops.jpg"
+  },
+  {
+    "title": "Why is DevOps important?",
+    "id": 2,
+    "image": "images/devops/why_is_devops_important.jpg"
+  },
+  {
+    "title": "What problems does DevOps solve?",
+    "id": 3,
+    "image": "images/devops/what_problems_does_devops_solve.jpg"
+  },
+  {
+    "title": "Explain CI and CD.",
+    "id": 4,
+    "image": "images/devops/explain_ci_and_cd.jpg"
+  },
+  {
+    "title": "What is version control?",
+    "id": 5,
+    "image": "images/devops/what_is_version_control.jpg"
+  },
+  {
+    "title": "What is Git?",
+    "id": 6,
+    "image": "images/devops/what_is_git.jpg"
+  },
+  {
+    "title": "Difference between Git and GitHub.",
+    "id": 7,
+    "image": "images/devops/difference_between_git_and_github.jpg"
+  },
+  {
+    "title": "What is a repository?",
+    "id": 8,
+    "image": "images/devops/what_is_a_repository.jpg"
+  },
+  {
+    "title": "What is a branch?",
+    "id": 9,
+    "image": "images/devops/what_is_a_branch.jpg"
+  },
+  {
+    "title": "What is a merge conflict?",
+    "id": 10,
+    "image": "images/devops/what_is_a_merge_conflict.jpg"
+  },
+  {
+    "title": "What is Infrastructure as Code?",
+    "id": 11,
+    "image": "images/devops/what_is_infrastructure_as_code.jpg"
+  },
+  {
+    "title": "What is cloud computing?",
+    "id": 12,
+    "image": "images/devops/what_is_cloud_computing.jpg"
+  },
+  {
+    "title": "Difference between IaaS, PaaS, and SaaS.",
+    "id": 13,
+    "image": "images/devops/difference_between_iaas_paas_and_saas.jpg"
+  },
+  {
+    "title": "What is virtualization?",
+    "id": 14,
+    "image": "images/devops/what_is_virtualization.jpg"
+  },
+  {
+    "title": "What is a container?",
+    "id": 15,
+    "image": "images/devops/what_is_a_container.jpg"
+  },
+  {
+    "title": "What is Docker?",
+    "id": 16,
+    "image": "images/devops/what_is_docker.jpg"
+  },
+  {
+    "title": "Difference between Docker image and container.",
+    "id": 17,
+    "image": "images/devops/difference_between_docker_image_and_container.jpg"
+  },
+  {
+    "title": "What is a Dockerfile?",
+    "id": 18,
+    "image": "images/devops/what_is_a_dockerfile.jpg"
+  },
+  {
+    "title": "What is Kubernetes?",
+    "id": 19,
+    "image": "images/devops/what_is_kubernetes.jpg"
+  },
+  {
+    "title": "What is a pod?",
+    "id": 20,
+    "image": "images/devops/what_is_a_pod.jpg"
+  },
+  {
+    "title": "What is monitoring?",
+    "id": 21,
+    "image": "images/devops/what_is_monitoring.jpg"
+  },
+  {
+    "title": "What is logging?",
+    "id": 22,
+    "image": "images/devops/what_is_logging.jpg"
+  },
+  {
+    "title": "What is an SLA?",
+    "id": 23,
+    "image": "images/devops/what_is_an_sla.jpg"
+  },
+  {
+    "title": "What is high availability?",
+    "id": 24,
+    "image": "images/devops/what_is_high_availability.jpg"
+  },
+  {
+    "title": "What is scalability?",
+    "id": 25,
+    "image": "images/devops/what_is_scalability.jpg"
+  },
+  {
+    "title": "How does CI/CD improve software delivery?",
+    "id": 26,
+    "image": "images/devops/how_does_ci_cd_improve_software_delivery.jpg"
+  },
+  {
+    "title": "Explain Git branching strategies.",
+    "id": 27,
+    "image": "images/devops/explain_git_branching_strategies.jpg"
+  },
+  {
+    "title": "What is trunk-based development?",
+    "id": 28,
+    "image": "images/devops/what_is_trunk_based_development.jpg"
+  },
+  {
+    "title": "How do containers differ from VMs?",
+    "id": 29,
+    "image": "images/devops/how_do_containers_differ_from_vms.jpg"
+  },
+  {
+    "title": "Explain Docker networking.",
+    "id": 30,
+    "image": "images/devops/explain_docker_networking.jpg"
+  },
+  {
+    "title": "What is container orchestration?",
+    "id": 31,
+    "image": "images/devops/what_is_container_orchestration.jpg"
+  },
+  {
+    "title": "How does Kubernetes scheduling work?",
+    "id": 32,
+    "image": "images/devops/how_does_kubernetes_scheduling_work.jpg"
+  },
+  {
+    "title": "What is a Kubernetes service?",
+    "id": 33,
+    "image": "images/devops/what_is_a_kubernetes_service.jpg"
+  },
+  {
+    "title": "What is ConfigMap?",
+    "id": 34,
+    "image": "images/devops/what_is_configmap.jpg"
+  },
+  {
+    "title": "What is a Kubernetes Secret?",
+    "id": 35,
+    "image": "images/devops/what_is_a_kubernetes_secret.jpg"
+  },
+  {
+    "title": "What is Helm?",
+    "id": 36,
+    "image": "images/devops/what_is_helm.jpg"
+  },
+  {
+    "title": "What is Terraform?",
+    "id": 37,
+    "image": "images/devops/what_is_terraform.jpg"
+  },
+  {
+    "title": "Terraform vs CloudFormation.",
+    "id": 38,
+    "image": "images/devops/terraform_vs_cloudformation.jpg"
+  },
+  {
+    "title": "What is immutable infrastructure?",
+    "id": 39,
+    "image": "images/devops/what_is_immutable_infrastructure.jpg"
+  },
+  {
+    "title": "What is blue-green deployment?",
+    "id": 40,
+    "image": "images/devops/what_is_blue_green_deployment.jpg"
+  },
+  {
+    "title": "What is canary deployment?",
+    "id": 41,
+    "image": "images/devops/what_is_canary_deployment.jpg"
+  },
+  {
+    "title": "How do you manage environment variables?",
+    "id": 42,
+    "image": "images/devops/how_do_you_manage_environment_variables.jpg"
+  },
+  {
+    "title": "What is centralized logging?",
+    "id": 43,
+    "image": "images/devops/what_is_centralized_logging.jpg"
+  },
+  {
+    "title": "Difference between metrics and logs.",
+    "id": 44,
+    "image": "images/devops/difference_between_metrics_and_logs.jpg"
+  },
+  {
+    "title": "What is Prometheus?",
+    "id": 45,
+    "image": "images/devops/what_is_prometheus.jpg"
+  },
+  {
+    "title": "What is Grafana?",
+    "id": 46,
+    "image": "images/devops/what_is_grafana.jpg"
+  },
+  {
+    "title": "What is alert fatigue?",
+    "id": 47,
+    "image": "images/devops/what_is_alert_fatigue.jpg"
+  },
+  {
+    "title": "What is autoscaling?",
+    "id": 48,
+    "image": "images/devops/what_is_autoscaling.jpg"
+  },
+  {
+    "title": "What is load balancing?",
+    "id": 49,
+    "image": "images/devops/what_is_load_balancing.jpg"
+  },
+  {
+    "title": "What is zero-downtime deployment?",
+    "id": 50,
+    "image": "images/devops/what_is_zero_downtime_deployment.jpg"
+  },
+  {
+    "title": "How do you design a CI/CD pipeline?",
+    "id": 51,
+    "image": "images/devops/how_do_you_design_a_ci_cd_pipeline.jpg"
+  },
+  {
+    "title": "How do you secure a DevOps pipeline?",
+    "id": 52,
+    "image": "images/devops/how_do_you_secure_a_devops_pipeline.jpg"
+  },
+  {
+    "title": "What is GitOps?",
+    "id": 53,
+    "image": "images/devops/what_is_gitops.jpg"
+  },
+  {
+    "title": "How does Kubernetes handle failures?",
+    "id": 54,
+    "image": "images/devops/how_does_kubernetes_handle_failures.jpg"
+  },
+  {
+    "title": "How do you manage secrets securely at scale?",
+    "id": 55,
+    "image": "images/devops/how_do_you_manage_secrets_securely_at_scale.jpg"
+  },
+  {
+    "title": "Explain service mesh architecture.",
+    "id": 56,
+    "image": "images/devops/explain_service_mesh_architecture.jpg"
+  },
+  {
+    "title": "What is Istio used for?",
+    "id": 57,
+    "image": "images/devops/what_is_istio_used_for.jpg"
+  },
+  {
+    "title": "How do you manage multi-cluster Kubernetes?",
+    "id": 58,
+    "image": "images/devops/how_do_you_manage_multi_cluster_kubernetes.jpg"
+  },
+  {
+    "title": "What is chaos engineering?",
+    "id": 59,
+    "image": "images/devops/what_is_chaos_engineering.jpg"
+  },
+  {
+    "title": "How do you implement observability?",
+    "id": 60,
+    "image": "images/devops/how_do_you_implement_observability.jpg"
+  },
+  {
+    "title": "What is SRE and how does it differ from DevOps?",
+    "id": 61,
+    "image": "images/devops/what_is_sre_and_how_does_it_differ_from_devops.jpg"
+  },
+  {
+    "title": "How do you handle stateful applications in Kubernetes?",
+    "id": 62,
+    "image": "images/devops/how_do_you_handle_stateful_applications_in_kubernetes.jpg"
+  },
+  {
+    "title": "How do you optimize container image size?",
+    "id": 63,
+    "image": "images/devops/how_do_you_optimize_container_image_size.jpg"
+  },
+  {
+    "title": "What is policy-as-code?",
+    "id": 64,
+    "image": "images/devops/what_is_policy_as_code.jpg"
+  },
+  {
+    "title": "How do you manage cloud costs?",
+    "id": 65,
+    "image": "images/devops/how_do_you_manage_cloud_costs.jpg"
+  },
+  {
+    "title": "What is DRY in infrastructure?",
+    "id": 66,
+    "image": "images/devops/what_is_dry_in_infrastructure.jpg"
+  },
+  {
+    "title": "How do you handle configuration drift?",
+    "id": 67,
+    "image": "images/devops/how_do_you_handle_configuration_drift.jpg"
+  },
+  {
+    "title": "How do you ensure compliance in DevOps?",
+    "id": 68,
+    "image": "images/devops/how_do_you_ensure_compliance_in_devops.jpg"
+  },
+  {
+    "title": "What is progressive delivery?",
+    "id": 69,
+    "image": "images/devops/what_is_progressive_delivery.jpg"
+  },
+  {
+    "title": "How do you design for failure?",
+    "id": 70,
+    "image": "images/devops/how_do_you_design_for_failure.jpg"
+  },
+  {
+    "title": "How do you create a Git repository?",
+    "id": 71,
+    "image": "images/devops/how_do_you_create_a_git_repository.jpg"
+  },
+  {
+    "title": "How do you resolve a merge conflict?",
+    "id": 72,
+    "image": "images/devops/how_do_you_resolve_a_merge_conflict.jpg"
+  },
+  {
+    "title": "How do you build a Docker image?",
+    "id": 73,
+    "image": "images/devops/how_do_you_build_a_docker_image.jpg"
+  },
+  {
+    "title": "How do you run a container?",
+    "id": 74,
+    "image": "images/devops/how_do_you_run_a_container.jpg"
+  },
+  {
+    "title": "How do you expose a container port?",
+    "id": 75,
+    "image": "images/devops/how_do_you_expose_a_container_port.jpg"
+  },
+  {
+    "title": "How do you write a basic Dockerfile?",
+    "id": 76,
+    "image": "images/devops/how_do_you_write_a_basic_dockerfile.jpg"
+  },
+  {
+    "title": "How do you push code to GitHub?",
+    "id": 77,
+    "image": "images/devops/how_do_you_push_code_to_github.jpg"
+  },
+  {
+    "title": "How do you tag a Docker image?",
+    "id": 78,
+    "image": "images/devops/how_do_you_tag_a_docker_image.jpg"
+  },
+  {
+    "title": "How do you view container logs?",
+    "id": 79,
+    "image": "images/devops/how_do_you_view_container_logs.jpg"
+  },
+  {
+    "title": "How do you stop a running container?",
+    "id": 80,
+    "image": "images/devops/how_do_you_stop_a_running_container.jpg"
+  },
+  {
+    "title": "How do you create a CI pipeline?",
+    "id": 81,
+    "image": "images/devops/how_do_you_create_a_ci_pipeline.jpg"
+  },
+  {
+    "title": "How do you check system resource usage?",
+    "id": 82,
+    "image": "images/devops/how_do_you_check_system_resource_usage.jpg"
+  },
+  {
+    "title": "How do you restart a failed service?",
+    "id": 83,
+    "image": "images/devops/how_do_you_restart_a_failed_service.jpg"
+  },
+  {
+    "title": "How do you store environment variables?",
+    "id": 84,
+    "image": "images/devops/how_do_you_store_environment_variables.jpg"
+  },
+  {
+    "title": "How do you deploy an app to cloud?",
+    "id": 85,
+    "image": "images/devops/how_do_you_deploy_an_app_to_cloud.jpg"
+  },
+  {
+    "title": "Design a CI/CD pipeline for a web app.",
+    "id": 86,
+    "image": "images/devops/design_a_ci_cd_pipeline_for_a_web_app.jpg"
+  },
+  {
+    "title": "How do you rollback a failed deployment?",
+    "id": 87,
+    "image": "images/devops/how_do_you_rollback_a_failed_deployment.jpg"
+  },
+  {
+    "title": "How do you debug a failing pipeline?",
+    "id": 88,
+    "image": "images/devops/how_do_you_debug_a_failing_pipeline.jpg"
+  },
+  {
+    "title": "How do you scale a Kubernetes deployment?",
+    "id": 89,
+    "image": "images/devops/how_do_you_scale_a_kubernetes_deployment.jpg"
+  },
+  {
+    "title": "How do you configure health checks?",
+    "id": 90,
+    "image": "images/devops/how_do_you_configure_health_checks.jpg"
+  },
+ 
+ 
+ 
+ 
+ 
+  {
+    "title": "How do you monitor application latency?",
+    "id": 91,
+    "image": "images/devops/how_do_you_monitor_application_latency.jpg"
+  },
+  {
+    "title": "How do you handle secrets in CI/CD?",
+    "id": 92,
+    "image": "images/devops/how_do_you_handle_secrets_in_ci_cd.jpg"
+  },
+  {
+    "title": "How do you implement blue-green deployment?",
+    "id": 93,
+    "image": "images/devops/how_do_you_implement_blue_green_deployment.jpg"
+  },
+  {
+    "title": "How do you write a Terraform module?",
+    "id": 94,
+    "image": "images/devops/how_do_you_write_a_terraform_module.jpg"
+  },
+  {
+    "title": "How do you manage multiple environments?",
+    "id": 95,
+    "image": "images/devops/how_do_you_manage_multiple_environments.jpg"
+  },
+  {
+    "title": "How do you troubleshoot pod crashes?",
+    "id": 96,
+    "image": "images/devops/how_do_you_troubleshoot_pod_crashes.jpg"
+  },
+  {
+    "title": "How do you optimize build times?",
+    "id": 97,
+    "image": "images/devops/how_do_you_optimize_build_times.jpg"
+  },
+  {
+    "title": "How do you handle database migrations?",
+    "id": 98,
+    "image": "images/devops/how_do_you_handle_database_migrations.jpg"
+  },
+  {
+    "title": "How do you test infrastructure changes?",
+    "id": 99,
+    "image": "images/devops/how_do_you_test_infrastructure_changes.jpg"
+  },
+  {
+    "title": "How do you automate backups?",
+    "id": 100,
+    "image": "images/devops/how_do_you_automate_backups.jpg"
+  },
+  {
+    "title": "Design a highly available production system.",
+    "id": 101,
+    "image": "images/devops/design_a_highly_available_production_system.jpg"
+  },
+  {
+    "title": "How do you migrate monolith to microservices?",
+    "id": 102,
+    "image": "images/devops/how_do_you_migrate_monolith_to_microservices.jpg"
+  },
+  {
+    "title": "How do you handle multi-region deployments?",
+    "id": 103,
+    "image": "images/devops/how_do_you_handle_multi_region_deployments.jpg"
+  },
+  {
+    "title": "How do you debug Kubernetes networking issues?",
+    "id": 104,
+    "image": "images/devops/how_do_you_debug_kubernetes_networking_issues.jpg"
+  },
+  {
+    "title": "How do you secure container runtimes?",
+    "id": 105,
+    "image": "images/devops/how_do_you_secure_container_runtimes.jpg"
+  },
+  {
+    "title": "How do you reduce cloud infrastructure costs?",
+    "id": 106,
+    "image": "images/devops/how_do_you_reduce_cloud_infrastructure_costs.jpg"
+  },
+  {
+    "title": "How do you design disaster recovery?",
+    "id": 107,
+    "image": "images/devops/how_do_you_design_disaster_recovery.jpg"
+  },
+  {
+    "title": "How do you handle large-scale traffic spikes?",
+    "id": 108,
+    "image": "images/devops/how_do_you_handle_large_scale_traffic_spikes.jpg"
+  },
+  {
+    "title": "How do you implement GitOps workflow?",
+    "id": 109,
+    "image": "images/devops/how_do_you_implement_gitops_workflow.jpg"
+  },
+  {
+    "title": "How do you test failure scenarios?",
+    "id": 110,
+    "image": "images/devops/how_do_you_test_failure_scenarios.jpg"
+  },
+  {
+    "title": "Why did you choose DevOps as a career?",
+    "id": 111,
+    "image": "images/devops/why_did_you_choose_devops_as_a_career.jpg"
+  },
+  {
+    "title": "How do you collaborate with developers?",
+    "id": 112,
+    "image": "images/devops/how_do_you_collaborate_with_developers.jpg"
+  },
+  {
+    "title": "How do you work with QA teams?",
+    "id": 113,
+    "image": "images/devops/how_do_you_work_with_qa_teams.jpg"
+  },
+  {
+    "title": "How do you explain technical issues to non-technical people?",
+    "id": 114,
+    "image": "images/devops/how_do_you_explain_technical_issues_to_non_technical_people.jpg"
+  },
+  {
+    "title": "How do you prioritize tasks under pressure?",
+    "id": 115,
+    "image": "images/devops/how_do_you_prioritize_tasks_under_pressure.jpg"
+  },
+  {
+    "title": "How do you handle production incidents?",
+    "id": 116,
+    "image": "images/devops/how_do_you_handle_production_incidents.jpg"
+  },
+  {
+    "title": "Describe a time you made a mistake.",
+    "id": 117,
+    "image": "images/devops/describe_a_time_you_made_a_mistake.jpg"
+  },
+  {
+    "title": "How do you handle conflicting requirements?",
+    "id": 118,
+    "image": "images/devops/how_do_you_handle_conflicting_requirements.jpg"
+  },
+  {
+    "title": "How do you learn new tools quickly?",
+    "id": 119,
+    "image": "images/devops/how_do_you_learn_new_tools_quickly.jpg"
+  },
+  {
+    "title": "How do you document your work?",
+    "id": 120,
+    "image": "images/devops/how_do_you_document_your_work.jpg"
+  },
+  {
+    "title": "How do you handle on-call responsibilities?",
+    "id": 121,
+    "image": "images/devops/how_do_you_handle_on_call_responsibilities.jpg"
+  },
+  {
+    "title": "How do you give feedback to teammates?",
+    "id": 122,
+    "image": "images/devops/how_do_you_give_feedback_to_teammates.jpg"
+  },
+  {
+    "title": "How do you manage repetitive tasks?",
+    "id": 123,
+    "image": "images/devops/how_do_you_manage_repetitive_tasks.jpg"
+  },
+  {
+    "title": "How do you stay updated with DevOps trends?",
+    "id": 124,
+    "image": "images/devops/how_do_you_stay_updated_with_devops_trends.jpg"
+  },
+  {
+    "title": "How do you ensure accountability?",
+    "id": 125,
+    "image": "images/devops/how_do_you_ensure_accountability.jpg"
+  },
+  {
+    "title": "How do you lead DevOps transformation?",
+    "id": 126,
+    "image": "images/devops/how_do_you_lead_devops_transformation.jpg"
+  },
+  {
+    "title": "How do you influence stakeholders?",
+    "id": 127,
+    "image": "images/devops/how_do_you_influence_stakeholders.jpg"
+  },
+  {
+    "title": "How do you balance speed and stability?",
+    "id": 128,
+    "image": "images/devops/how_do_you_balance_speed_and_stability.jpg"
+  },
+  {
+    "title": "How do you handle cross-team conflicts?",
+    "id": 129,
+    "image": "images/devops/how_do_you_handle_cross_team_conflicts.jpg"
+  },
+  {
+    "title": "How do you mentor junior engineers?",
+    "id": 130,
+    "image": "images/devops/how_do_you_mentor_junior_engineers.jpg"
+  },
+  {
+    "title": "How do you handle burnout in teams?",
+    "id": 131,
+    "image": "images/devops/how_do_you_handle_burnout_in_teams.jpg"
+  },
+  {
+    "title": "How do you improve team reliability?",
+    "id": 132,
+    "image": "images/devops/how_do_you_improve_team_reliability.jpg"
+  },
+  {
+    "title": "How do you measure DevOps success?",
+    "id": 133,
+    "image": "images/devops/how_do_you_measure_devops_success.jpg"
+  },
+  {
+    "title": "How do you handle postmortems?",
+    "id": 134,
+    "image": "images/devops/how_do_you_handle_postmortems.jpg"
+  },
+  {
+    "title": "How do you promote a blameless culture?",
+    "id": 135,
+    "image": "images/devops/how_do_you_promote_a_blameless_culture.jpg"
+  },
+  {
+    "title": "Production deployment failed. What do you do first?",
+    "id": 136,
+    "image": "images/devops/production_deployment_failed_what_do_you_do_first.jpg"
+  },
+  {
+    "title": "Application latency suddenly increases. How do you debug?",
+    "id": 137,
+    "image": "images/devops/application_latency_suddenly_increases_how_do_you_debug.jpg"
+  },
+  
+  
+  
+  
+  
+  
+  {
+    "title": "CI pipeline is slow. How do you optimize it?",
+    "id": 138,
+    "image": "images/devops/ci_pipeline_is_slow_how_do_you_optimize_it.jpg"
+  },
+  {
+    "title": "Developers bypass CI checks. How do you handle it?",
+    "id": 139,
+    "image": "images/devops/developers_bypass_ci_checks_how_do_you_handle_it.jpg"
+  },
+  {
+    "title": "Logs are missing during incidents. How do you fix it?",
+    "id": 140,
+    "image": "images/devops/logs_are_missing_during_incidents_how_do_you_fix_it.jpg"
+  },
+  {
+    "title": "Infrastructure costs spike unexpectedly. What steps do you take?",
+    "id": 141,
+    "image": "images/devops/infrastructure_costs_spike_unexpectedly_what_steps_do_you_take.jpg"
+  },
+  {
+    "title": "A service crashes intermittently. How do you troubleshoot?",
+    "id": 142,
+    "image": "images/devops/a_service_crashes_intermittently_how_do_you_troubleshoot.jpg"
+  },
+  {
+    "title": "Secrets were leaked. How do you respond?",
+    "id": 143,
+    "image": "images/devops/secrets_were_leaked_how_do_you_respond.jpg"
+  },
+  {
+    "title": "Multiple teams share one cluster. How do you isolate workloads?",
+    "id": 144,
+    "image": "images/devops/multiple_teams_share_one_cluster_how_do_you_isolate_workloads.jpg"
+  },
+  {
+    "title": "Monitoring alerts are noisy. How do you improve them?",
+    "id": 145,
+    "image": "images/devops/monitoring_alerts_are_noisy_how_do_you_improve_them.jpg"
+  },
+  {
+    "title": "Design a fault-tolerant system for global users.",
+    "id": 146,
+    "image": "images/devops/design_a_fault_tolerant_system_for_global_users.jpg"
+  },
+  {
+    "title": "Handle zero-downtime database migration.",
+    "id": 147,
+    "image": "images/devops/handle_zero_downtime_database_migration.jpg"
+  },
+  {
+    "title": "Recover from a full region outage.",
+    "id": 148,
+    "image": "images/devops/recover_from_a_full_region_outage.jpg"
+  },
+  {
+    "title": "Migrate workloads from VM to Kubernetes.",
+    "id": 149,
+    "image": "images/devops/migrate_workloads_from_vm_to_kubernetes.jpg"
+  },
+  {
+    "title": "Implement DevSecOps across teams.",
+    "id": 150,
+    "image": "images/devops/implement_devsecops_across_teams.jpg"
+  },
+  {
+    "title": "Handle regulatory compliance in CI/CD.",
+    "id": 151,
+    "image": "images/devops/handle_regulatory_compliance_in_ci_cd.jpg"
+  },
+  {
+    "title": "Design a secure multi-tenant platform.",
+    "id": 152,
+    "image": "images/devops/design_a_secure_multi_tenant_platform.jpg"
+  },
+  {
+    "title": "Handle sudden 10x traffic growth.",
+    "id": 153,
+    "image": "images/devops/handle_sudden_10x_traffic_growth.jpg"
+  },
+  {
+    "title": "Improve MTTR for critical incidents.",
+    "id": 154,
+    "image": "images/devops/improve_mttr_for_critical_incidents.jpg"
+  },
+  {
+    "title": "Design an observability strategy.",
+    "id": 155,
+    "image": "images/devops/design_an_observability_strategy.jpg"
+  },
+  {
+    "title": "Reduce deployment failure rate.",
+    "id": 156,
+    "image": "images/devops/reduce_deployment_failure_rate.jpg"
+  },
+  {
+    "title": "Transition from manual to automated ops.",
+    "id": 157,
+    "image": "images/devops/transition_from_manual_to_automated_ops.jpg"
+  },
+  {
+    "title": "Handle legacy systems in DevOps.",
+    "id": 158,
+    "image": "images/devops/handle_legacy_systems_in_devops.jpg"
+  },
+  {
+    "title": "Design cost-optimized cloud architecture.",
+    "id": 159,
+    "image": "images/devops/design_cost_optimized_cloud_architecture.jpg"
+  },
+  {
+    "title": "Respond to a major security breach.",
+    "id": 160,
+    "image": "images/devops/respond_to_a_major_security_breach.jpg"
+  }
+]

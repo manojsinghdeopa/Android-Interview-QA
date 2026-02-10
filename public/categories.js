@@ -32,6 +32,16 @@ async function loadCategories() {
     categories = await res.json();
   }
 
+  if (job === "devops-engineer") {
+    const res = await fetch("data/devops.json");
+    categories = await res.json();
+  }
+
+   if (job === "data-scientist-big-data-engineer") {
+    const res = await fetch("data/data-scientist.json");
+    categories = await res.json();
+  }
+
   filtered = categories; // default
   render();
 }

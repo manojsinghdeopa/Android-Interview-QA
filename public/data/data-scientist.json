@@ -1,0 +1,754 @@
+[
+  {
+    "id":1,
+    "title":"Supervised vs unsupervised learning",
+    "image":"images/data-scientist/supervised_vs_unsupervised_learning.jpg"
+  },
+  {
+    "id":2,
+    "title":"Bias-variance tradeoff",
+    "image":"images/data-scientist/biasvariance_tradeoff.jpg"
+  },
+  {
+    "id":3,
+    "title":"Classification metrics",
+    "image":"images/data-scientist/classification_metrics.jpg"
+  },
+  {
+    "id":4,
+    "title":"Precision, recall, F1-score",
+    "image":"images/data-scientist/precision_recall_f1score.jpg"
+  },
+  {
+    "id":5,
+    "title":"Overfitting and prevention",
+    "image":"images/data-scientist/overfitting_and_prevention.jpg"
+  },
+  {
+    "id":6,
+    "title":"Regression vs classification",
+    "image":"images/data-scientist/regression_vs_classification.jpg"
+  },
+  {
+    "id":7,
+    "title":"Structured vs unstructured data",
+    "image":"images/data-scientist/structured_vs_unstructured_data.jpg"
+  },
+  {
+    "id":8,
+    "title":"ETL process",
+    "image":"images/data-scientist/etl_process.jpg"
+  },
+  {
+    "id":9,
+    "title":"Normalization vs standardization",
+    "image":"images/data-scientist/normalization_vs_standardization.jpg"
+  },
+  {
+    "id":10,
+    "title":"Relational vs NoSQL DB",
+    "image":"images/data-scientist/relational_vs_nosql_db.jpg"
+  },
+  {
+    "id":11,
+    "title":"Feature engineering",
+    "image":"images/data-scientist/feature_engineering.jpg"
+  },
+  {
+    "id":12,
+    "title":"Curse of dimensionality",
+    "image":"images/data-scientist/curse_of_dimensionality.jpg"
+  },
+  {
+    "id":13,
+    "title":"Confusion matrix",
+    "image":"images/data-scientist/confusion_matrix.jpg"
+  },
+  {
+    "id":14,
+    "title":"Population vs sample",
+    "image":"images/data-scientist/population_vs_sample.jpg"
+  },
+  {
+    "id":15,
+    "title":"Mean, median, mode",
+    "image":"images/data-scientist/mean_median_mode.jpg"
+  },
+  {
+    "id":16,
+    "title":"PCA usage",
+    "image":"images/data-scientist/pca_usage.jpg"
+  },
+  {
+    "id":17,
+    "title":"Bagging vs boosting",
+    "image":"images/data-scientist/bagging_vs_boosting.jpg"
+  },
+  {
+    "id":18,
+    "title":"Embeddings",
+    "image":"images/data-scientist/embeddings.jpg"
+  },
+  {
+    "id":19,
+    "title":"Cross-validation",
+    "image":"images/data-scientist/crossvalidation.jpg"
+  },
+  {
+    "id":20,
+    "title":"Gradient descent",
+    "image":"images/data-scientist/gradient_descent.jpg"
+  },
+  {
+    "id":21,
+    "title":"Regularization (L1, L2)",
+    "image":"images/data-scientist/regularization_l1_l2.jpg"
+  },
+  {
+    "id":22,
+    "title":"Parametric vs non-parametric",
+    "image":"images/data-scientist/parametric_vs_nonparametric.jpg"
+  },
+  {
+    "id":23,
+    "title":"Hash functions",
+    "image":"images/data-scientist/hash_functions.jpg"
+  },
+  {
+    "id":24,
+    "title":"Distributed computing",
+    "image":"images/data-scientist/distributed_computing.jpg"
+  },
+  {
+    "id":25,
+    "title":"Hadoop vs Spark",
+    "image":"images/data-scientist/hadoop_vs_spark.jpg"
+  },
+  {
+    "id":26,
+    "title":"Data lake vs warehouse",
+    "image":"images/data-scientist/data_lake_vs_warehouse.jpg"
+  },
+  {
+    "id":27,
+    "title":"SQL joins",
+    "image":"images/data-scientist/sql_joins.jpg"
+  },
+  {
+    "id":28,
+    "title":"Time series data",
+    "image":"images/data-scientist/time_series_data.jpg"
+  },
+  {
+    "id":29,
+    "title":"Anomaly detection",
+    "image":"images/data-scientist/anomaly_detection.jpg"
+  },
+  {
+    "id":30,
+    "title":"MapReduce",
+    "image":"images/data-scientist/mapreduce.jpg"
+  },
+  {
+    "id":31,
+    "title":"Spark architecture",
+    "image":"images/data-scientist/spark_architecture.jpg"
+  },
+  {
+    "id":32,
+    "title":"Handling skewed data",
+    "image":"images/data-scientist/handling_skewed_data.jpg"
+  },
+  {
+    "id":33,
+    "title":"Batch vs stream processing",
+    "image":"images/data-scientist/batch_vs_stream_processing.jpg"
+  },
+  {
+    "id":34,
+    "title":"CAP theorem",
+    "image":"images/data-scientist/cap_theorem.jpg"
+  },
+  {
+    "id":35,
+    "title":"Spark partitioning & shuffling",
+    "image":"images/data-scientist/spark_partitioning__shuffling.jpg"
+  },
+  {
+    "id":36,
+    "title":"Feature selection",
+    "image":"images/data-scientist/feature_selection.jpg"
+  },
+  {
+    "id":37,
+    "title":"Ensemble methods",
+    "image":"images/data-scientist/ensemble_methods.jpg"
+  },
+  {
+    "id":38,
+    "title":"Online learning",
+    "image":"images/data-scientist/online_learning.jpg"
+  },
+  {
+    "id":39,
+    "title":"Deep learning vs ML",
+    "image":"images/data-scientist/deep_learning_vs_ml.jpg"
+  },
+  {
+    "id":40,
+    "title":"Hyperparameter tuning",
+    "image":"images/data-scientist/hyperparameter_tuning.jpg"
+  },
+  {
+    "id":41,
+    "title":"Data lineage",
+    "image":"images/data-scientist/data_lineage.jpg"
+  },
+  {
+    "id":42,
+    "title":"HDFS fault tolerance",
+    "image":"images/data-scientist/hdfs_fault_tolerance.jpg"
+  },
+  {
+    "id":43,
+    "title":"Dimensionality reduction techniques",
+    "image":"images/data-scientist/dimensionality_reduction_techniques.jpg"
+  },
+  {
+    "id":44,
+    "title":"RDD vs DataFrame vs Dataset",
+    "image":"images/data-scientist/rdd_vs_dataframe_vs_dataset.jpg"
+  },
+  {
+    "id":45,
+    "title":"DAG in Spark execution",
+    "image":"images/data-scientist/dag_in_spark_execution.jpg"
+  },
+  {
+    "id":46,
+    "title":"Top 5 customers SQL query",
+    "image":"images/data-scientist/top_5_customers_sql_query.jpg"
+  },
+  {
+    "id":47,
+    "title":"Load CSV in Python",
+    "image":"images/data-scientist/load_csv_in_python.jpg"
+  },
+  {
+    "id":48,
+    "title":"EDA basics",
+    "image":"images/data-scientist/eda_basics.jpg"
+  },
+  {
+    "id":49,
+    "title":"Linear regression in Python",
+    "image":"images/data-scientist/linear_regression_in_python.jpg"
+  },
+  {
+    "id":50,
+    "title":"Plot histogram",
+    "image":"images/data-scientist/plot_histogram.jpg"
+  },
+  {
+    "id":51,
+    "title":"Train-test split",
+    "image":"images/data-scientist/traintest_split.jpg"
+  },
+  {
+    "id":52,
+    "title":"Handle null values",
+    "image":"images/data-scientist/handle_null_values.jpg"
+  },
+  {
+    "id":53,
+    "title":"Filter records in SQL",
+    "image":"images/data-scientist/filter_records_in_sql.jpg"
+  },
+  {
+    "id":54,
+    "title":"One-hot encoding",
+    "image":"images/data-scientist/onehot_encoding.jpg"
+  },
+  {
+    "id":55,
+    "title":"Merge datasets in Pandas",
+    "image":"images/data-scientist/merge_datasets_in_pandas.jpg"
+  },
+  {
+    "id":56,
+    "title":"Decision tree classifier",
+    "image":"images/data-scientist/decision_tree_classifier.jpg"
+  },
+  {
+    "id":57,
+    "title":"Spark job optimization",
+    "image":"images/data-scientist/spark_job_optimization.jpg"
+  },
+  {
+    "id":58,
+    "title":"Word count in PySpark",
+    "image":"images/data-scientist/word_count_in_pyspark.jpg"
+  },
+  {
+    "id":59,
+    "title":"Handle imbalanced classes",
+    "image":"images/data-scientist/handle_imbalanced_classes.jpg"
+  },
+  {
+    "id":60,
+    "title":"K-means clustering",
+    "image":"images/data-scientist/kmeans_clustering.jpg"
+  },
+  {
+    "id":61,
+    "title":"Collaborative filtering",
+    "image":"images/data-scientist/collaborative_filtering.jpg"
+  },
+  {
+    "id":62,
+    "title":"SQL window functions",
+    "image":"images/data-scientist/sql_window_functions.jpg"
+  },
+  {
+    "id":63,
+    "title":"Missing value imputation",
+    "image":"images/data-scientist/missing_value_imputation.jpg"
+  },
+  {
+    "id":64,
+    "title":"Join large datasets in Spark",
+    "image":"images/data-scientist/join_large_datasets_in_spark.jpg"
+  },
+  {
+    "id":65,
+    "title":"Cross-validation implementation",
+    "image":"images/data-scientist/crossvalidation_implementation.jpg"
+  },
+  {
+    "id":66,
+    "title":"Deploy ML model API",
+    "image":"images/data-scientist/deploy_ml_model_api.jpg"
+  },
+  {
+    "id":67,
+    "title":"Optimize PySpark pipeline",
+    "image":"images/data-scientist/optimize_pyspark_pipeline.jpg"
+  },
+  {
+    "id":68,
+    "title":"Grid search hyperparameter tuning",
+    "image":"images/data-scientist/grid_search_hyperparameter_tuning.jpg"
+  },
+  {
+    "id":69,
+    "title":"Real-time Spark streaming",
+    "image":"images/data-scientist/realtime_spark_streaming.jpg"
+  },
+  {
+    "id":70,
+    "title":"Fault-tolerant ETL",
+    "image":"images/data-scientist/faulttolerant_etl.jpg"
+  },
+  {
+    "id":71,
+    "title":"Predictive maintenance",
+    "image":"images/data-scientist/predictive_maintenance.jpg"
+  },
+  {
+    "id":72,
+    "title":"Hive query optimization",
+    "image":"images/data-scientist/hive_query_optimization.jpg"
+  },
+  {
+    "id":73,
+    "title":"Deep learning with TensorFlow/PyTorch",
+    "image":"images/data-scientist/deep_learning_with_tensorflowpytorch.jpg"
+  },
+  {
+    "id":74,
+    "title":"Feature selection for high-dimensional data",
+    "image":"images/data-scientist/feature_selection_for_highdimensional_data.jpg"
+  },
+  {
+    "id":75,
+    "title":"Data quality monitoring",
+    "image":"images/data-scientist/data_quality_monitoring.jpg"
+  },
+  {
+    "id":76,
+    "title":"Problem-solving example",
+    "image":"images/data-scientist/problemsolving_example.jpg"
+  },
+  {
+    "id":77,
+    "title":"Time management",
+    "image":"images/data-scientist/time_management.jpg"
+  },
+  {
+    "id":78,
+    "title":"Skill update strategy",
+    "image":"images/data-scientist/skill_update_strategy.jpg"
+  },
+  {
+    "id":79,
+    "title":"Teamwork experience",
+    "image":"images/data-scientist/teamwork_experience.jpg"
+  },
+  {
+    "id":80,
+    "title":"Handling deadlines",
+    "image":"images/data-scientist/handling_deadlines.jpg"
+  },
+  {
+    "id":81,
+    "title":"Learning new skills quickly",
+    "image":"images/data-scientist/learning_new_skills_quickly.jpg"
+  },
+  {
+    "id":82,
+    "title":"Documentation approach",
+    "image":"images/data-scientist/documentation_approach.jpg"
+  },
+  {
+    "id":83,
+    "title":"Task prioritization",
+    "image":"images/data-scientist/task_prioritization.jpg"
+  },
+  {
+    "id":84,
+    "title":"Debugging approach",
+    "image":"images/data-scientist/debugging_approach.jpg"
+  },
+  {
+    "id":85,
+    "title":"Handling ambiguous requirements",
+    "image":"images/data-scientist/handling_ambiguous_requirements.jpg"
+  },
+  {
+    "id":86,
+    "title":"Large dataset project experience",
+    "image":"images/data-scientist/large_dataset_project_experience.jpg"
+  },
+  {
+    "id":87,
+    "title":"Explaining results to non-technical audience",
+    "image":"images/data-scientist/explaining_results_to_nontechnical_audience.jpg"
+  },
+  {
+    "id":88,
+    "title":"Conflict resolution",
+    "image":"images/data-scientist/conflict_resolution.jpg"
+  },
+  {
+    "id":89,
+    "title":"Ensuring data accuracy",
+    "image":"images/data-scientist/ensuring_data_accuracy.jpg"
+  },
+  {
+    "id":90,
+    "title":"Advocating technical solutions",
+    "image":"images/data-scientist/advocating_technical_solutions.jpg"
+  },
+  {
+    "id":91,
+    "title":"Handling failure",
+    "image":"images/data-scientist/handling_failure.jpg"
+  },
+  {
+    "id":92,
+    "title":"Process improvement",
+    "image":"images/data-scientist/process_improvement.jpg"
+  },
+  {
+    "id":93,
+    "title":"Mentoring juniors",
+    "image":"images/data-scientist/mentoring_juniors.jpg"
+  },
+  {
+    "id":94,
+    "title":"Stakeholder feedback management",
+    "image":"images/data-scientist/stakeholder_feedback_management.jpg"
+  },
+  {
+    "id":95,
+    "title":"Speed vs accuracy tradeoff",
+    "image":"images/data-scientist/speed_vs_accuracy_tradeoff.jpg"
+  },
+  {
+    "id":96,
+    "title":"Influencing technical decisions",
+    "image":"images/data-scientist/influencing_technical_decisions.jpg"
+  },
+  {
+    "id":97,
+    "title":"Cross-team collaboration",
+    "image":"images/data-scientist/crossteam_collaboration.jpg"
+  },
+  {
+    "id":98,
+    "title":"Leading data initiatives",
+    "image":"images/data-scientist/leading_data_initiatives.jpg"
+  },
+  {
+    "id":99,
+    "title":"Handling competing priorities",
+    "image":"images/data-scientist/handling_competing_priorities.jpg"
+  },
+  {
+    "id":100,
+    "title":"Data-driven recommendations",
+    "image":"images/data-scientist/datadriven_recommendations.jpg"
+  },
+  
+  
+  {
+    "id":101,
+    "title":"Ethical data handling",
+    "image":"images/data-scientist/ethical_data_handling.jpg"
+  },
+  {
+    "id":102,
+    "title":"Production issue resolution",
+    "image":"images/data-scientist/production_issue_resolution.jpg"
+  },
+  {
+    "id":103,
+    "title":"Promoting data quality culture",
+    "image":"images/data-scientist/promoting_data_quality_culture.jpg"
+  },
+  {
+    "id":104,
+    "title":"Introducing new tech\/framework",
+    "image":"images/data-scientist/introducing_new_techframework.jpg"
+  },
+  {
+    "id":105,
+    "title":"Balancing innovation vs risk",
+    "image":"images/data-scientist/balancing_innovation_vs_risk.jpg"
+  },
+  {
+    "id":106,
+    "title":"Handling missing sales data",
+    "image":"images/data-scientist/handling_missing_sales_data.jpg"
+  },
+  {
+    "id":107,
+    "title":"Detecting duplicates",
+    "image":"images/data-scientist/detecting_duplicates.jpg"
+  },
+  {
+    "id":108,
+    "title":"Exploratory analysis approach",
+    "image":"images/data-scientist/exploratory_analysis_approach.jpg"
+  },
+  {
+    "id":109,
+    "title":"Feature recommendation",
+    "image":"images/data-scientist/feature_recommendation.jpg"
+  },
+  {
+    "id":110,
+    "title":"Visualizing trends",
+    "image":"images/data-scientist/visualizing_trends.jpg"
+  },
+  {
+    "id":111,
+    "title":"Model overfitting troubleshooting",
+    "image":"images/data-scientist/model_overfitting_troubleshooting.jpg"
+  },
+  {
+    "id":112,
+    "title":"Slow Spark job optimization",
+    "image":"images/data-scientist/slow_spark_job_optimization.jpg"
+  },
+  {
+    "id":113,
+    "title":"Fraud detection",
+    "image":"images/data-scientist/fraud_detection.jpg"
+  },
+  {
+    "id":114,
+    "title":"Resolving inconsistent datasets",
+    "image":"images/data-scientist/resolving_inconsistent_datasets.jpg"
+  },
+  {
+    "id":115,
+    "title":"Recommendation system design",
+    "image":"images/data-scientist/recommendation_system_design.jpg"
+  },
+  {
+    "id":116,
+    "title":"Processing terabytes daily",
+    "image":"images/data-scientist/processing_terabytes_daily.jpg"
+  },
+  {
+    "id":117,
+    "title":"ML model deployment prioritization",
+    "image":"images/data-scientist/ml_model_deployment_prioritization.jpg"
+  },
+  {
+    "id":118,
+    "title":"Monitoring pipelines",
+    "image":"images/data-scientist/monitoring_pipelines.jpg"
+  },
+  {
+    "id":119,
+    "title":"Model accuracy drop troubleshooting",
+    "image":"images/data-scientist/model_accuracy_drop_troubleshooting.jpg"
+  },
+  {
+    "id":120,
+    "title":"Scalable ETL design",
+    "image":"images/data-scientist/scalable_etl_design.jpg"
+  },
+  {
+    "id":121,
+    "title":"Real-time analytics design",
+    "image":"images/data-scientist/realtime_analytics_design.jpg"
+  },
+  {
+    "id":122,
+    "title":"Reduce Spark streaming latency",
+    "image":"images/data-scientist/reduce_spark_streaming_latency.jpg"
+  },
+  {
+    "id":123,
+    "title":"Schema evolution handling",
+    "image":"images/data-scientist/schema_evolution_handling.jpg"
+  },
+  {
+    "id":124,
+    "title":"Model versioning & rollback",
+    "image":"images/data-scientist/model_versioning__rollback.jpg"
+  },
+  {
+    "id":125,
+    "title":"Concept drift handling",
+    "image":"images/data-scientist/concept_drift_handling.jpg"
+  },
+  {
+    "id":126,
+    "title":"Optimize big data costs",
+    "image":"images/data-scientist/optimize_big_data_costs.jpg"
+  },
+  {
+    "id":127,
+    "title":"Combining inconsistent data sources",
+    "image":"images/data-scientist/combining_inconsistent_data_sources.jpg"
+  },
+  {
+    "id":128,
+    "title":"Multi-tenant analytics design",
+    "image":"images/data-scientist/multitenant_analytics_design.jpg"
+  },
+  {
+    "id":129,
+    "title":"Anomaly detection at scale",
+    "image":"images/data-scientist/anomaly_detection_at_scale.jpg"
+  },
+  {
+    "id":130,
+    "title":"Data security & compliance",
+    "image":"images/data-scientist/data_security__compliance.jpg"
+  },
+  {
+    "id":131,
+    "title":"Event-time vs processing-time",
+    "image":"images/data-scientist/eventtime_vs_processingtime.jpg"
+  },
+  {
+    "id":132,
+    "title":"Time-series DB schema design",
+    "image":"images/data-scientist/timeseries_db_schema_design.jpg"
+  },
+  {
+    "id":133,
+    "title":"Streaming backpressure handling",
+    "image":"images/data-scientist/streaming_backpressure_handling.jpg"
+  },
+  {
+    "id":134,
+    "title":"Incremental model training",
+    "image":"images/data-scientist/incremental_model_training.jpg"
+  },
+  {
+    "id":135,
+    "title":"Spark Streaming checkpointing",
+    "image":"images/data-scientist/spark_streaming_checkpointing.jpg"
+  },
+  {
+    "id":136,
+    "title":"GDPR/data privacy handling",
+    "image":"images/data-scientist/gdprdata_privacy_handling.jpg"
+  },
+  {
+    "id":137,
+    "title":"Wide vs narrow transformations in Spark",
+    "image":"images/data-scientist/wide_vs_narrow_transformations_in_spark.jpg"
+  },
+  {
+    "id":138,
+    "title":"Real-time recommendations",
+    "image":"images/data-scientist/realtime_recommendations.jpg"
+  },
+  {
+    "id":139,
+    "title":"Kafka tuning for throughput",
+    "image":"images/data-scientist/kafka_tuning_for_throughput.jpg"
+  },
+  {
+    "id":140,
+    "title":"ML pipeline profiling & optimization",
+    "image":"images/data-scientist/ml_pipeline_profiling__optimization.jpg"
+  },
+  {
+    "id":141,
+    "title":"Hot partition handling",
+    "image":"images/data-scientist/hot_partition_handling.jpg"
+  },
+  {
+    "id":142,
+    "title":"Data retention policy",
+    "image":"images/data-scientist/data_retention_policy.jpg"
+  },
+  {
+    "id":143,
+    "title":"Schema changes without downtime",
+    "image":"images/data-scientist/schema_changes_without_downtime.jpg"
+  },
+  {
+    "id":144,
+    "title":"NoSQL DB selection",
+    "image":"images/data-scientist/nosql_db_selection.jpg"
+  },
+  {
+    "id":145,
+    "title":"Detecting data drift",
+    "image":"images/data-scientist/detecting_data_drift.jpg"
+  },
+  {
+    "id":146,
+    "title":"Cloud big data cost optimization",
+    "image":"images/data-scientist/cloud_big_data_cost_optimization.jpg"
+  },
+  {
+    "id":147,
+    "title":"Multi-region pipeline design",
+    "image":"images/data-scientist/multiregion_pipeline_design.jpg"
+  },
+  {
+    "id":148,
+    "title":"Data auditing & lineage",
+    "image":"images/data-scientist/data_auditing_lineage.jpg"
+  },
+  {
+    "id":149,
+    "title":"Combining structured & unstructured data",
+    "image":"images/data-scientist/combining_structured_unstructured_data.jpg"
+  },
+  {
+    "id":150,
+    "title":"Choosing Spark SQL/Hive/Presto",
+    "image":"images/data-scientist/choosing_spark_sqlhivepresto.jpg"
+  }
+]
