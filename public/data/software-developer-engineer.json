@@ -1,0 +1,802 @@
+[
+    {
+        "title": "Variables and Data Types",
+        "id": 1,
+        "image": "images/software-developer/variables_and_data_types.jpg"
+    },
+    {
+        "title": "Control Structures",
+        "id": 2,
+        "image": "images/software-developer/control_structures.jpg"
+    },
+    {
+        "title": "Functions and Parameters",
+        "id": 3,
+        "image": "images/software-developer/functions_and_parameters.jpg"
+    },
+    {
+        "title": "Recursion Concepts",
+        "id": 4,
+        "image": "images/software-developer/recursion_concepts.jpg"
+    },
+    {
+        "title": "Object-Oriented Principles",
+        "id": 5,
+        "image": "images/software-developer/object_oriented_principles.jpg"
+    },
+    {
+        "title": "SOLID Principles",
+        "id": 6,
+        "image": "images/software-developer/solid_principles.jpg"
+    },
+    {
+        "title": "Functional Programming Basics",
+        "id": 7,
+        "image": "images/software-developer/functional_programming_basics.jpg"
+    },
+    {
+        "title": "Immutability Concepts",
+        "id": 8,
+        "image": "images/software-developer/immutability_concepts.jpg"
+    },
+    {
+        "title": "Error Handling",
+        "id": 9,
+        "image": "images/software-developer/error_handling.jpg"
+    },
+    {
+        "title": "Memory Management Basics",
+        "id": 10,
+        "image": "images/software-developer/memory_management_basics.jpg"
+    },
+    {
+        "title": "Arrays",
+        "id": 11,
+        "image": "images/software-developer/arrays.jpg"
+    },
+    {
+        "title": "Strings Manipulation",
+        "id": 12,
+        "image": "images/software-developer/strings_manipulation.jpg"
+    },
+    {
+        "title": "Linked Lists",
+        "id": 13,
+        "image": "images/software-developer/linked_lists.jpg"
+    },
+    {
+        "title": "Stacks and Queues",
+        "id": 14,
+        "image": "images/software-developer/stacks_and_queues.jpg"
+    },
+    {
+        "title": "Hash Tables",
+        "id": 15,
+        "image": "images/software-developer/hash_tables.jpg"
+    },
+    {
+        "title": "Binary Search Trees",
+        "id": 16,
+        "image": "images/software-developer/binary_search_trees.jpg"
+    },
+    {
+        "title": "Heaps",
+        "id": 17,
+        "image": "images/software-developer/heaps.jpg"
+    },
+    {
+        "title": "Graph Representations",
+        "id": 18,
+        "image": "images/software-developer/graph_representations.jpg"
+    },
+    {
+        "title": "Tries",
+        "id": 19,
+        "image": "images/software-developer/tries.jpg"
+    },
+    {
+        "title": "Time vs Space Tradeoffs",
+        "id": 20,
+        "image": "images/software-developer/time_vs_space_tradeoffs.jpg"
+    },
+    {
+        "title": "Sorting Algorithms",
+        "id": 21,
+        "image": "images/software-developer/sorting_algorithms.jpg"
+    },
+    {
+        "title": "Searching Algorithms",
+        "id": 22,
+        "image": "images/software-developer/searching_algorithms.jpg"
+    },
+    {
+        "title": "Binary Search",
+        "id": 23,
+        "image": "images/software-developer/binary_search.jpg"
+    },
+    {
+        "title": "Divide and Conquer",
+        "id": 24,
+        "image": "images/software-developer/divide_and_conquer.jpg"
+    },
+    {
+        "title": "Greedy Algorithms",
+        "id": 25,
+        "image": "images/software-developer/greedy_algorithms.jpg"
+    },
+    {
+        "title": "Backtracking",
+        "id": 26,
+        "image": "images/software-developer/backtracking.jpg"
+    },
+    {
+        "title": "Dynamic Programming",
+        "id": 27,
+        "image": "images/software-developer/dynamic_programming.jpg"
+    },
+    {
+        "title": "Graph Traversal BFS DFS",
+        "id": 28,
+        "image": "images/software-developer/graph_traversal_bfs_dfs.jpg"
+    },
+    {
+        "title": "Big O Complexity",
+        "id": 29,
+        "image": "images/software-developer/big_o_complexity.jpg"
+    },
+    {
+        "title": "Algorithm Optimization",
+        "id": 30,
+        "image": "images/software-developer/algorithm_optimization.jpg"
+    },
+    {
+        "title": "Relational Databases",
+        "id": 31,
+        "image": "images/software-developer/relational_databases.jpg"
+    },
+    {
+        "title": "SQL Joins",
+        "id": 32,
+        "image": "images/software-developer/sql_joins.jpg"
+    },
+    {
+        "title": "Database Indexing",
+        "id": 33,
+        "image": "images/software-developer/database_indexing.jpg"
+    },
+    {
+        "title": "ACID Properties",
+        "id": 34,
+        "image": "images/software-developer/acid_properties.jpg"
+    },
+    {
+        "title": "Normalization",
+        "id": 35,
+        "image": "images/software-developer/normalization.jpg"
+    },
+    {
+        "title": "NoSQL Databases",
+        "id": 36,
+        "image": "images/software-developer/nosql_databases.jpg"
+    },
+    {
+        "title": "Query Optimization",
+        "id": 37,
+        "image": "images/software-developer/query_optimization.jpg"
+    },
+    {
+        "title": "ORM Frameworks",
+        "id": 38,
+        "image": "images/software-developer/orm_frameworks.jpg"
+    },
+    {
+        "title": "Database Scaling",
+        "id": 39,
+        "image": "images/software-developer/database_scaling.jpg"
+    },
+    {
+        "title": "Transactions Handling",
+        "id": 40,
+        "image": "images/software-developer/transactions_handling.jpg"
+    },
+    {
+        "title": "Client Server Architecture",
+        "id": 41,
+        "image": "images/software-developer/client_server_architecture.jpg"
+    },
+    {
+        "title": "REST API Design",
+        "id": 42,
+        "image": "images/software-developer/rest_api_design.jpg"
+    },
+    {
+        "title": "HTTP Methods",
+        "id": 43,
+        "image": "images/software-developer/http_methods.jpg"
+    },
+    {
+        "title": "Authentication vs Authorization",
+        "id": 44,
+        "image": "images/software-developer/authentication_vs_authorization.jpg"
+    },
+    {
+        "title": "JWT Sessions",
+        "id": 45,
+        "image": "images/software-developer/jwt_sessions.jpg"
+    },
+    {
+        "title": "Caching Strategies",
+        "id": 46,
+        "image": "images/software-developer/caching_strategies.jpg"
+    },
+    {
+        "title": "Microservices Architecture",
+        "id": 47,
+        "image": "images/software-developer/microservices_architecture.jpg"
+    },
+    {
+        "title": "Monolith vs Microservices",
+        "id": 48,
+        "image": "images/software-developer/monolith_vs_microservices.jpg"
+    },
+    {
+        "title": "Message Queues",
+        "id": 49,
+        "image": "images/software-developer/message_queues.jpg"
+    },
+    {
+        "title": "API Rate Limiting",
+        "id": 50,
+        "image": "images/software-developer/api_rate_limiting.jpg"
+    },
+    {
+        "title": "HTML CSS Basics",
+        "id": 51,
+        "image": "images/software-developer/html_css_basics.jpg"
+    },
+    {
+        "title": "JavaScript Fundamentals",
+        "id": 52,
+        "image": "images/software-developer/javascript_fundamentals.jpg"
+    },
+    {
+        "title": "Asynchronous Programming",
+        "id": 53,
+        "image": "images/software-developer/asynchronous_programming.jpg"
+    },
+    {
+        "title": "State Management",
+        "id": 54,
+        "image": "images/software-developer/state_management.jpg"
+    },
+    {
+        "title": "Component Architecture",
+        "id": 55,
+        "image": "images/software-developer/component_architecture.jpg"
+    },
+    {
+        "title": "Responsive Design",
+        "id": 56,
+        "image": "images/software-developer/responsive_design.jpg"
+    },
+    {
+        "title": "Web Security Basics",
+        "id": 57,
+        "image": "images/software-developer/web_security_basics.jpg"
+    },
+    {
+        "title": "Build Tools",
+        "id": 58,
+        "image": "images/software-developer/build_tools.jpg"
+    },
+    {
+        "title": "Git Version Control",
+        "id": 59,
+        "image": "images/software-developer/git_version_control.jpg"
+    },
+    {
+        "title": "Branching Strategies",
+        "id": 60,
+        "image": "images/software-developer/branching_strategies.jpg"
+    },
+    {
+        "title": "Implement Data Structure",
+        "id": 61,
+        "image": "images/software-developer/implement_data_structure.jpg"
+    },
+    {
+        "title": "Build LRU Cache",
+        "id": 62,
+        "image": "images/software-developer/build_lru_cache.jpg"
+    },
+    {
+        "title": "Build REST API",
+        "id": 63,
+        "image": "images/software-developer/build_rest_api.jpg"
+    },
+    {
+        "title": "Debug Memory Leak",
+        "id": 64,
+        "image": "images/software-developer/debug_memory_leak.jpg"
+    },
+    {
+        "title": "Optimize SQL Query",
+        "id": 65,
+        "image": "images/software-developer/optimize_sql_query.jpg"
+    },
+    {
+        "title": "Scalable File Upload",
+        "id": 66,
+        "image": "images/software-developer/scalable_file_upload.jpg"
+    },
+    {
+        "title": "Concurrent Requests Handling",
+        "id": 67,
+        "image": "images/software-developer/concurrent_requests_handling.jpg"
+    },
+    {
+        "title": "Unit Testing",
+        "id": 68,
+        "image": "images/software-developer/unit_testing.jpg"
+    },
+    {
+        "title": "Refactor Legacy Code",
+        "id": 69,
+        "image": "images/software-developer/refactor_legacy_code.jpg"
+    },
+    {
+        "title": "Authentication Flow",
+        "id": 70,
+        "image": "images/software-developer/authentication_flow.jpg"
+    },
+    {
+        "title": "Logging Framework",
+        "id": 71,
+        "image": "images/software-developer/logging_framework.jpg"
+    },
+    {
+        "title": "Performance Profiling",
+        "id": 72,
+        "image": "images/software-developer/performance_profiling.jpg"
+    },
+    {
+        "title": "Pagination Implementation",
+        "id": 73,
+        "image": "images/software-developer/pagination_implementation.jpg"
+    },
+    {
+        "title": "Middleware Creation",
+        "id": 74,
+        "image": "images/software-developer/middleware_creation.jpg"
+    },
+    {
+        "title": "CRUD Application",
+        "id": 75,
+        "image": "images/software-developer/crud_application.jpg"
+    },
+    {
+        "title": "Integration Testing",
+        "id": 76,
+        "image": "images/software-developer/integration_testing.jpg"
+    },
+    {
+        "title": "Reusable Components",
+        "id": 77,
+        "image": "images/software-developer/reusable_components.jpg"
+    },
+    {
+        "title": "API Versioning",
+        "id": 78,
+        "image": "images/software-developer/api_versioning.jpg"
+    },
+    {
+        "title": "Retry Mechanisms",
+        "id": 79,
+        "image": "images/software-developer/retry_mechanisms.jpg"
+    },
+    {
+        "title": "Rate Limiter Implementation",
+        "id": 80,
+        "image": "images/software-developer/rate_limiter_implementation.jpg"
+    },
+    {
+        "title": "Third Party API Integration",
+        "id": 81,
+        "image": "images/software-developer/third_party_api_integration.jpg"
+    },
+    {
+        "title": "Background Jobs",
+        "id": 82,
+        "image": "images/software-developer/background_jobs.jpg"
+    },
+    {
+        "title": "Fix Race Conditions",
+        "id": 83,
+        "image": "images/software-developer/fix_race_conditions.jpg"
+    },
+    {
+        "title": "Clean Code Practices",
+        "id": 84,
+        "image": "images/software-developer/clean_code_practices.jpg"
+    },
+    {
+        "title": "Schema Design",
+        "id": 85,
+        "image": "images/software-developer/schema_design.jpg"
+    },
+    {
+        "title": "Search Functionality",
+        "id": 86,
+        "image": "images/software-developer/search_functionality.jpg"
+    },
+    {
+        "title": "Caching Implementation",
+        "id": 87,
+        "image": "images/software-developer/caching_implementation.jpg"
+    },
+    {
+        "title": "CI CD Pipeline",
+        "id": 88,
+        "image": "images/software-developer/ci_cd_pipeline.jpg"
+    },
+    {
+        "title": "Docker Containerization",
+        "id": 89,
+        "image": "images/software-developer/docker_containerization.jpg"
+    },
+    {
+        "title": "Cloud Deployment",
+        "id": 90,
+        "image": "images/software-developer/cloud_deployment.jpg"
+    },
+    {
+        "title": "Feature Toggles",
+        "id": 91,
+        "image": "images/software-developer/feature_toggles.jpg"
+    },
+    {
+        "title": "Role Based Access Control",
+        "id": 92,
+        "image": "images/software-developer/role_based_access_control.jpg"
+    },
+    {
+        "title": "Data Migration Scripts",
+        "id": 93,
+        "image": "images/software-developer/data_migration_scripts.jpg"
+    },
+    {
+        "title": "Production Debugging",
+        "id": 94,
+        "image": "images/software-developer/production_debugging.jpg"
+    },
+    {
+        "title": "Custom Hooks",
+        "id": 95,
+        "image": "images/software-developer/custom_hooks.jpg"
+    },
+    {
+        "title": "Form Validation",
+        "id": 96,
+        "image": "images/software-developer/form_validation.jpg"
+    },
+    {
+        "title": "Secure API Endpoints",
+        "id": 97,
+        "image": "images/software-developer/secure_api_endpoints.jpg"
+    },
+    {
+        "title": "Startup Performance Improvement",
+        "id": 98,
+        "image": "images/software-developer/startup_performance_improvement.jpg"
+    },
+    {
+        "title": "Environment Configuration",
+        "id": 99,
+        "image": "images/software-developer/environment_configuration.jpg"
+    },
+    {
+        "title": "Monitoring and Alerts",
+        "id": 100,
+        "image": "images/software-developer/monitoring_and_alerts.jpg"
+    },
+    {
+        "title": "Explain Technical Concepts",
+        "id": 101,
+        "image": "images/software-developer/explain_technical_concepts.jpg"
+    },
+    {
+        "title": "Code Review Conflict Handling",
+        "id": 102,
+        "image": "images/software-developer/code_review_conflict_handling.jpg"
+    },
+    {
+        "title": "Receiving Feedback",
+        "id": 103,
+        "image": "images/software-developer/receiving_feedback.jpg"
+    },
+    {
+        "title": "Giving Feedback",
+        "id": 104,
+        "image": "images/software-developer/giving_feedback.jpg"
+    },
+    {
+        "title": "Cross Functional Collaboration",
+        "id": 105,
+        "image": "images/software-developer/cross_functional_collaboration.jpg"
+    },
+    {
+        "title": "Time Management",
+        "id": 106,
+        "image": "images/software-developer/time_management.jpg"
+    },
+    {
+        "title": "Task Prioritization",
+        "id": 107,
+        "image": "images/software-developer/task_prioritization.jpg"
+    },
+    {
+        "title": "Production Incident Handling",
+        "id": 108,
+        "image": "images/software-developer/production_incident_handling.jpg"
+    },
+    {
+        "title": "Learning New Technology",
+        "id": 109,
+        "image": "images/software-developer/learning_new_technology.jpg"
+    },
+    {
+        "title": "Managing Technical Debt",
+        "id": 110,
+        "image": "images/software-developer/managing_technical_debt.jpg"
+    },
+    {
+        "title": "Stakeholder Communication",
+        "id": 111,
+        "image": "images/software-developer/stakeholder_communication.jpg"
+    },
+    {
+        "title": "Effort Estimation",
+        "id": 112,
+        "image": "images/software-developer/effort_estimation.jpg"
+    },
+    {
+        "title": "Ambiguous Requirements Handling",
+        "id": 113,
+        "image": "images/software-developer/ambiguous_requirements_handling.jpg"
+    },
+    {
+        "title": "Ownership Mindset",
+        "id": 114,
+        "image": "images/software-developer/ownership_mindset.jpg"
+    },
+    {
+        "title": "Technical Leadership",
+        "id": 115,
+        "image": "images/software-developer/technical_leadership.jpg"
+    },
+    {
+        "title": "Mentoring Juniors",
+        "id": 116,
+        "image": "images/software-developer/mentoring_juniors.jpg"
+    },
+    {
+        "title": "Conflict Resolution",
+        "id": 117,
+        "image": "images/software-developer/conflict_resolution.jpg"
+    },
+    {
+        "title": "Remote Collaboration",
+        "id": 118,
+        "image": "images/software-developer/remote_collaboration.jpg"
+    },
+    {
+        "title": "Speed vs Quality Balance",
+        "id": 119,
+        "image": "images/software-developer/speed_vs_quality_balance.jpg"
+    },
+    {
+        "title": "Handling Burnout",
+        "id": 120,
+        "image": "images/software-developer/handling_burnout.jpg"
+    },
+    {
+        "title": "Adapting to Change",
+        "id": 121,
+        "image": "images/software-developer/adapting_to_change.jpg"
+    },
+    {
+        "title": "Team Productivity Improvement",
+        "id": 122,
+        "image": "images/software-developer/team_productivity_improvement.jpg"
+    },
+    {
+        "title": "Missed Deadlines Handling",
+        "id": 123,
+        "image": "images/software-developer/missed_deadlines_handling.jpg"
+    },
+    {
+        "title": "Product Alignment",
+        "id": 124,
+        "image": "images/software-developer/product_alignment.jpg"
+    },
+    {
+        "title": "Technical Decision Negotiation",
+        "id": 125,
+        "image": "images/software-developer/technical_decision_negotiation.jpg"
+    },
+    {
+        "title": "Best Practices Advocacy",
+        "id": 126,
+        "image": "images/software-developer/best_practices_advocacy.jpg"
+    },
+    {
+        "title": "Expectation Management",
+        "id": 127,
+        "image": "images/software-developer/expectation_management.jpg"
+    },
+    {
+        "title": "Technical Documentation",
+        "id": 128,
+        "image": "images/software-developer/technical_documentation.jpg"
+    },
+    {
+        "title": "Sprint Planning Participation",
+        "id": 129,
+        "image": "images/software-developer/sprint_planning_participation.jpg"
+    },
+    {
+        "title": "Continuous Improvement",
+        "id": 130,
+        "image": "images/software-developer/continuous_improvement.jpg"
+    },
+    {
+        "title": "Knowledge Sharing",
+        "id": 131,
+        "image": "images/software-developer/knowledge_sharing.jpg"
+    },
+    {
+        "title": "Decision Making Under Pressure",
+        "id": 132,
+        "image": "images/software-developer/decision_making_under_pressure.jpg"
+    },
+    {
+        "title": "Software Ethics",
+        "id": 133,
+        "image": "images/software-developer/software_ethics.jpg"
+    },
+    {
+        "title": "Building Team Trust",
+        "id": 134,
+        "image": "images/software-developer/building_team_trust.jpg"
+    },
+    {
+        "title": "Legacy System Constraints",
+        "id": 135,
+        "image": "images/software-developer/legacy_system_constraints.jpg"
+    },
+    {
+        "title": "Design URL Shortener",
+        "id": 136,
+        "image": "images/software-developer/design_url_shortener.jpg"
+    },
+    {
+        "title": "Design Chat Application",
+        "id": 137,
+        "image": "images/software-developer/design_chat_application.jpg"
+    },
+    {
+        "title": "Design Rate Limiter",
+        "id": 138,
+        "image": "images/software-developer/design_rate_limiter.jpg"
+    },
+    {
+        "title": "Design Notification System",
+        "id": 139,
+        "image": "images/software-developer/design_notification_system.jpg"
+    },
+    {
+        "title": "Design Ecommerce Backend",
+        "id": 140,
+        "image": "images/software-developer/design_ecommerce_backend.jpg"
+    },
+    {
+        "title": "Design Logging System",
+        "id": 141,
+        "image": "images/software-developer/design_logging_system.jpg"
+    },
+    {
+        "title": "Handle Traffic Spike",
+        "id": 142,
+        "image": "images/software-developer/handle_traffic_spike.jpg"
+    },
+    {
+        "title": "Optimize API Latency",
+        "id": 143,
+        "image": "images/software-developer/optimize_api_latency.jpg"
+    },
+    {
+        "title": "Improve Database Performance",
+        "id": 144,
+        "image": "images/software-developer/improve_database_performance.jpg"
+    },
+    {
+        "title": "Distributed System Failure Handling",
+        "id": 145,
+        "image": "images/software-developer/distributed_system_failure_handling.jpg"
+    },
+    {
+        "title": "Real Time Analytics System",
+        "id": 146,
+        "image": "images/software-developer/real_time_analytics_system.jpg"
+    },
+    {
+        "title": "Payment Processing Workflow",
+        "id": 147,
+        "image": "images/software-developer/payment_processing_workflow.jpg"
+    },
+    {
+        "title": "Search Autocomplete Design",
+        "id": 148,
+        "image": "images/software-developer/search_autocomplete_design.jpg"
+    },
+    {
+        "title": "Monolith to Microservices Migration",
+        "id": 149,
+        "image": "images/software-developer/monolith_to_microservices_migration.jpg"
+    },
+    {
+        "title": "Data Consistency Strategies",
+        "id": 150,
+        "image": "images/software-developer/data_consistency_strategies.jpg"
+    },
+    {
+        "title": "File Storage Service Design",
+        "id": 151,
+        "image": "images/software-developer/file_storage_service_design.jpg"
+    },
+    {
+        "title": "CI CD Reliability Improvement",
+        "id": 152,
+        "image": "images/software-developer/ci_cd_reliability_improvement.jpg"
+    },
+    {
+        "title": "Application Security Hardening",
+        "id": 153,
+        "image": "images/software-developer/application_security_hardening.jpg"
+    },
+    {
+        "title": "Caching Layer Design",
+        "id": 154,
+        "image": "images/software-developer/caching_layer_design.jpg"
+    },
+    {
+        "title": "Multi Tenant Architecture",
+        "id": 155,
+        "image": "images/software-developer/multi_tenant_architecture.jpg"
+    },
+    {
+        "title": "Memory Optimization",
+        "id": 156,
+        "image": "images/software-developer/memory_optimization.jpg"
+    },
+    {
+        "title": "API Backward Compatibility",
+        "id": 157,
+        "image": "images/software-developer/api_backward_compatibility.jpg"
+    },
+    {
+        "title": "Audit Logging System",
+        "id": 158,
+        "image": "images/software-developer/audit_logging_system.jpg"
+    },
+    {
+        "title": "Job Scheduling System",
+        "id": 159,
+        "image": "images/software-developer/job_scheduling_system.jpg"
+    },
+    {
+        "title": "Fault Tolerant Service",
+        "id": 160,
+        "image": "images/software-developer/fault_tolerant_service.jpg"
+    }
+]

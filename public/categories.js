@@ -37,10 +37,23 @@ async function loadCategories() {
     categories = await res.json();
   }
 
-   if (job === "data-scientist-big-data-engineer") {
+  if (job === "data-scientist-big-data-engineer") {
     const res = await fetch("data/data-scientist.json");
     categories = await res.json();
   }
+
+  if (job === "blockchain-developer") {
+    const res = await fetch("data/blockchain-developer.json");
+    categories = await res.json();
+  }
+
+  if (job === "software-developer-engineer") {
+    const res = await fetch("data/software-developer-engineer.json");
+    categories = await res.json();
+  }
+
+  
+
 
   filtered = categories; // default
   render();

@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "title": "Blockchain basics",
+    "image": "images/blockchain-developer/blockchain_basics.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Blockchain problem solving",
+    "image": "images/blockchain-developer/blockchain_problem_solving.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Decentralization concept",
+    "image": "images/blockchain-developer/decentralization_concept.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Distributed ledger",
+    "image": "images/blockchain-developer/distributed_ledger.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Block structure",
+    "image": "images/blockchain-developer/block_structure.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Hash functions",
+    "image": "images/blockchain-developer/hash_functions.jpg"
+  },
+  {
+    "id": 7,
+    "title": "Immutability",
+    "image": "images/blockchain-developer/immutability.jpg"
+  },
+  {
+    "id": 8,
+    "title": "Public vs private blockchain",
+    "image": "images/blockchain-developer/public_vs_private_blockchain.jpg"
+  },
+  {
+    "id": 9,
+    "title": "Blockchain nodes",
+    "image": "images/blockchain-developer/blockchain_nodes.jpg"
+  },
+  {
+    "id": 10,
+    "title": "Consensus mechanisms",
+    "image": "images/blockchain-developer/consensus_mechanisms.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Proof of work",
+    "image": "images/blockchain-developer/proof_of_work.jpg"
+  },
+  {
+    "id": 12,
+    "title": "Proof of stake",
+    "image": "images/blockchain-developer/proof_of_stake.jpg"
+  },
+  {
+    "id": 13,
+    "title": "Smart contracts",
+    "image": "images/blockchain-developer/smart_contracts.jpg"
+  },
+  {
+    "id": 14,
+    "title": "Smart contract languages",
+    "image": "images/blockchain-developer/smart_contract_languages.jpg"
+  },
+  {
+    "id": 15,
+    "title": "Ethereum basics",
+    "image": "images/blockchain-developer/ethereum_basics.jpg"
+  },
+  {
+    "id": 16,
+    "title": "Gas concept",
+    "image": "images/blockchain-developer/gas_concept.jpg"
+  },
+  {
+    "id": 17,
+    "title": "Crypto wallets",
+    "image": "images/blockchain-developer/crypto_wallets.jpg"
+  },
+  {
+    "id": 18,
+    "title": "Public and private keys",
+    "image": "images/blockchain-developer/public_and_private_keys.jpg"
+  },
+  {
+    "id": 19,
+    "title": "Transaction lifecycle",
+    "image": "images/blockchain-developer/transaction_lifecycle.jpg"
+  },
+  {
+    "id": 20,
+    "title": "Blockchain forks",
+    "image": "images/blockchain-developer/blockchain_forks.jpg"
+  },
+  {
+    "id": 21,
+    "title": "Ethereum vs Bitcoin",
+    "image": "images/blockchain-developer/ethereum_vs_bitcoin.jpg"
+  },
+  {
+    "id": 22,
+    "title": "Ethereum virtual machine",
+    "image": "images/blockchain-developer/ethereum_virtual_machine.jpg"
+  },
+  {
+    "id": 23,
+    "title": "Gas optimization",
+    "image": "images/blockchain-developer/gas_optimization.jpg"
+  },
+  {
+    "id": 24,
+    "title": "Nonce concept",
+    "image": "images/blockchain-developer/nonce_concept.jpg"
+  },
+  {
+    "id": 25,
+    "title": "ERC standards",
+    "image": "images/blockchain-developer/erc_standards.jpg"
+  },
+  {
+    "id": 26,
+    "title": "ERC20 vs ERC721",
+    "image": "images/blockchain-developer/erc20_vs_erc721.jpg"
+  },
+  {
+    "id": 27,
+    "title": "Blockchain oracles",
+    "image": "images/blockchain-developer/blockchain_oracles.jpg"
+  },
+  {
+    "id": 28,
+    "title": "IPFS basics",
+    "image": "images/blockchain-developer/ipfs_basics.jpg"
+  },
+  {
+    "id": 29,
+    "title": "Merkle trees",
+    "image": "images/blockchain-developer/merkle_trees.jpg"
+  },
+  {
+    "id": 30,
+    "title": "Block finality",
+    "image": "images/blockchain-developer/block_finality.jpg"
+  },
+  {
+    "id": 31,
+    "title": "Layer 2 scaling",
+    "image": "images/blockchain-developer/layer_2_scaling.jpg"
+  },
+  {
+    "id": 32,
+    "title": "Rollups",
+    "image": "images/blockchain-developer/rollups.jpg"
+  },
+  {
+    "id": 33,
+    "title": "Sidechains",
+    "image": "images/blockchain-developer/sidechains.jpg"
+  },
+  {
+    "id": 34,
+    "title": "Staking",
+    "image": "images/blockchain-developer/staking.jpg"
+  },
+  {
+    "id": 35,
+    "title": "Validator slashing",
+    "image": "images/blockchain-developer/validator_slashing.jpg"
+  },
+  {
+    "id": 36,
+    "title": "Transaction fees",
+    "image": "images/blockchain-developer/transaction_fees.jpg"
+  },
+  {
+    "id": 37,
+    "title": "Reentrancy attacks",
+    "image": "images/blockchain-developer/reentrancy_attacks.jpg"
+  },
+  {
+    "id": 38,
+    "title": "Solidity inheritance",
+    "image": "images/blockchain-developer/solidity_inheritance.jpg"
+  },
+  {
+    "id": 39,
+    "title": "Smart contract events",
+    "image": "images/blockchain-developer/smart_contract_events.jpg"
+  },
+  {
+    "id": 40,
+    "title": "Upgradeable contracts",
+    "image": "images/blockchain-developer/upgradeable_contracts.jpg"
+  },
+  {
+    "id": 41,
+    "title": "Ethereum consensus",
+    "image": "images/blockchain-developer/ethereum_consensus.jpg"
+  },
+  {
+    "id": 42,
+    "title": "MEV attacks",
+    "image": "images/blockchain-developer/mev_attacks.jpg"
+  },
+  {
+    "id": 43,
+    "title": "Zero knowledge proofs",
+    "image": "images/blockchain-developer/zero_knowledge_proofs.jpg"
+  },
+  {
+    "id": 44,
+    "title": "Zk snarks vs starks",
+    "image": "images/blockchain-developer/zk_snarks_vs_starks.jpg"
+  },
+  {
+    "id": 45,
+    "title": "Account abstraction",
+    "image": "images/blockchain-developer/account_abstraction.jpg"
+  },
+  {
+    "id": 46,
+    "title": "Cross chain communication",
+    "image": "images/blockchain-developer/cross_chain_communication.jpg"
+  },
+  {
+    "id": 47,
+    "title": "Finality vs settlement",
+    "image": "images/blockchain-developer/finality_vs_settlement.jpg"
+  },
+  {
+    "id": 48,
+    "title": "Sharding",
+    "image": "images/blockchain-developer/sharding.jpg"
+  },
+  {
+    "id": 49,
+    "title": "Cryptographic commitments",
+    "image": "images/blockchain-developer/cryptographic_commitments.jpg"
+  },
+  {
+    "id": 50,
+    "title": "BLS signatures",
+    "image": "images/blockchain-developer/bls_signatures.jpg"
+  },
+  {
+    "id": 51,
+    "title": "State trie",
+    "image": "images/blockchain-developer/state_trie.jpg"
+  },
+  {
+    "id": 52,
+    "title": "Block propagation",
+    "image": "images/blockchain-developer/block_propagation.jpg"
+  },
+  {
+    "id": 53,
+    "title": "Data availability",
+    "image": "images/blockchain-developer/data_availability.jpg"
+  },
+  {
+    "id": 54,
+    "title": "Optimistic rollups",
+    "image": "images/blockchain-developer/optimistic_rollups.jpg"
+  },
+  {
+    "id": 55,
+    "title": "Layer 1 security",
+    "image": "images/blockchain-developer/layer_1_security.jpg"
+  },
+  {
+    "id": 56,
+    "title": "Bridge failures",
+    "image": "images/blockchain-developer/bridge_failures.jpg"
+  },
+  {
+    "id": 57,
+    "title": "On chain vs off chain",
+    "image": "images/blockchain-developer/on_chain_vs_off_chain.jpg"
+  },
+  {
+    "id": 58,
+    "title": "Validator rotation",
+    "image": "images/blockchain-developer/validator_rotation.jpg"
+  },
+  {
+    "id": 59,
+    "title": "Censorship resistance",
+    "image": "images/blockchain-developer/censorship_resistance.jpg"
+  },
+  {
+    "id": 60,
+    "title": "Cryptoeconomic security",
+    "image": "images/blockchain-developer/cryptoeconomic_security.jpg"
+  },
+  {
+    "id": 61,
+    "title": "Smart contract deployment",
+    "image": "images/blockchain-developer/smart_contract_deployment.jpg"
+  },
+  {
+    "id": 62,
+    "title": "Contract testing",
+    "image": "images/blockchain-developer/contract_testing.jpg"
+  },
+  {
+    "id": 63,
+    "title": "Blockchain dev tools",
+    "image": "images/blockchain-developer/blockchain_dev_tools.jpg"
+  },
+  {
+    "id": 64,
+    "title": "Dapp wallet connection",
+    "image": "images/blockchain-developer/dapp_wallet_connection.jpg"
+  },
+  {
+    "id": 65,
+    "title": "Sending transactions",
+    "image": "images/blockchain-developer/sending_transactions.jpg"
+  },
+  {
+    "id": 66,
+    "title": "Reading blockchain data",
+    "image": "images/blockchain-developer/reading_blockchain_data.jpg"
+  },
+  {
+    "id": 67,
+    "title": "Handling contract errors",
+    "image": "images/blockchain-developer/handling_contract_errors.jpg"
+  },
+  {
+    "id": 68,
+    "title": "On chain storage",
+    "image": "images/blockchain-developer/on_chain_storage.jpg"
+  },
+  {
+    "id": 69,
+    "title": "Event driven UI",
+    "image": "images/blockchain-developer/event_driven_ui.jpg"
+  },
+  {
+    "id": 70,
+    "title": "Contract verification",
+    "image": "images/blockchain-developer/contract_verification.jpg"
+  },
+  {
+    "id": 71,
+    "title": "Prevent reentrancy",
+    "image": "images/blockchain-developer/prevent_reentrancy.jpg"
+  },
+  {
+    "id": 72,
+    "title": "Gas optimization practices",
+    "image": "images/blockchain-developer/gas_optimization_practices.jpg"
+  },
+  {
+    "id": 73,
+    "title": "Contract upgrades",
+    "image": "images/blockchain-developer/contract_upgrades.jpg"
+  },
+  {
+    "id": 74,
+    "title": "Solidity unit testing",
+    "image": "images/blockchain-developer/solidity_unit_testing.jpg"
+  },
+  {
+    "id": 75,
+    "title": "Contract ownership",
+    "image": "images/blockchain-developer/contract_ownership.jpg"
+  },
+  {
+    "id": 76,
+    "title": "Contract migrations",
+    "image": "images/blockchain-developer/contract_migrations.jpg"
+  },
+  {
+    "id": 77,
+    "title": "Oracle integration",
+    "image": "images/blockchain-developer/oracle_integration.jpg"
+  },
+  {
+    "id": 78,
+    "title": "Large data handling",
+    "image": "images/blockchain-developer/large_data_handling.jpg"
+  },
+  {
+    "id": 79,
+    "title": "Private key security",
+    "image": "images/blockchain-developer/private_key_security.jpg"
+  },
+  {
+    "id": 80,
+    "title": "Transaction debugging",
+    "image": "images/blockchain-developer/transaction_debugging.jpg"
+  },
+  {
+    "id": 81,
+    "title": "Role based access",
+    "image": "images/blockchain-developer/role_based_access.jpg"
+  },
+  {
+    "id": 82,
+    "title": "Network congestion",
+    "image": "images/blockchain-developer/network_congestion.jpg"
+  },
+  {
+    "id": 83,
+    "title": "Multisig wallets",
+    "image": "images/blockchain-developer/multisig_wallets.jpg"
+  },
+  {
+    "id": 84,
+    "title": "Blockchain indexing",
+    "image": "images/blockchain-developer/blockchain_indexing.jpg"
+  },
+  {
+    "id": 85,
+    "title": "Multi network deployment",
+    "image": "images/blockchain-developer/multi_network_deployment.jpg"
+  },
+  {
+    "id": 86,
+    "title": "Gas efficient protocol design",
+    "image": "images/blockchain-developer/gas_efficient_protocol_design.jpg"
+  },
+  {
+    "id": 87,
+    "title": "Smart contract auditing",
+    "image": "images/blockchain-developer/smart_contract_auditing.jpg"
+  },
+  {
+    "id": 88,
+    "title": "Front running mitigation",
+    "image": "images/blockchain-developer/front_running_mitigation.jpg"
+  },
+  {
+    "id": 89,
+    "title": "Safe storage design",
+    "image": "images/blockchain-developer/safe_storage_design.jpg"
+  },
+  {
+    "id": 90,
+    "title": "Cross chain swaps",
+    "image": "images/blockchain-developer/cross_chain_swaps.jpg"
+  },
+  {
+    "id": 91,
+    "title": "Chain reorganizations",
+    "image": "images/blockchain-developer/chain_reorganizations.jpg"
+  },
+  {
+    "id": 92,
+    "title": "Permissioned blockchains",
+    "image": "images/blockchain-developer/permissioned_blockchains.jpg"
+  },
+  {
+    "id": 93,
+    "title": "Bridge security",
+    "image": "images/blockchain-developer/bridge_security.jpg"
+  },
+  {
+    "id": 94,
+    "title": "Validator incentives",
+    "image": "images/blockchain-developer/validator_incentives.jpg"
+  },
+  {
+    "id": 95,
+    "title": "Dapp latency reduction",
+    "image": "images/blockchain-developer/dapp_latency_reduction.jpg"
+  },
+  {
+    "id": 96,
+    "title": "Fault tolerant nodes",
+    "image": "images/blockchain-developer/fault_tolerant_nodes.jpg"
+  },
+  {
+    "id": 97,
+    "title": "Economic attack simulation",
+    "image": "images/blockchain-developer/economic_attack_simulation.jpg"
+  },
+  {
+    "id": 98,
+    "title": "Read heavy scaling",
+    "image": "images/blockchain-developer/read_heavy_scaling.jpg"
+  },
+  {
+    "id": 99,
+    "title": "State growth management",
+    "image": "images/blockchain-developer/state_growth_management.jpg"
+  },
+  {
+    "id": 100,
+    "title": "Governance upgrades",
+    "image": "images/blockchain-developer/governance_upgrades.jpg"
+  },
+  {
+    "id": 101,
+    "title": "Blockchain learning journey",
+    "image": "images/blockchain-developer/blockchain_learning_journey.jpg"
+  },
+  {
+    "id": 102,
+    "title": "Staying updated",
+    "image": "images/blockchain-developer/staying_updated.jpg"
+  },
+  {
+    "id": 103,
+    "title": "Learning adaptability",
+    "image": "images/blockchain-developer/learning_adaptability.jpg"
+  },
+  {
+    "id": 104,
+    "title": "Debugging approach",
+    "image": "images/blockchain-developer/debugging_approach.jpg"
+  },
+  {
+    "id": 105,
+    "title": "Asking for help",
+    "image": "images/blockchain-developer/asking_for_help.jpg"
+  },
+  {
+    "id": 106,
+    "title": "Smart contract documentation",
+    "image": "images/blockchain-developer/smart_contract_documentation.jpg"
+  },
+  {
+    "id": 107,
+    "title": "Handling feedback",
+    "image": "images/blockchain-developer/handling_feedback.jpg"
+  },
+  {
+    "id": 108,
+    "title": "Task prioritization",
+    "image": "images/blockchain-developer/task_prioritization.jpg"
+  },
+  {
+    "id": 109,
+    "title": "Release management",
+    "image": "images/blockchain-developer/release_management.jpg"
+  },
+  {
+    "id": 110,
+    "title": "Code readability",
+    "image": "images/blockchain-developer/code_readability.jpg"
+  },
+  {
+    "id": 111,
+    "title": "Frontend collaboration",
+    "image": "images/blockchain-developer/frontend_collaboration.jpg"
+  },
+  {
+    "id": 112,
+    "title": "Explaining blockchain",
+    "image": "images/blockchain-developer/explaining_blockchain.jpg"
+  },
+  {
+    "id": 113,
+    "title": "Security responsibility",
+    "image": "images/blockchain-developer/security_responsibility.jpg"
+  },
+  {
+    "id": 114,
+    "title": "Code reviews",
+    "image": "images/blockchain-developer/code_reviews.jpg"
+  },
+  {
+    "id": 115,
+    "title": "Design disagreements",
+    "image": "images/blockchain-developer/design_disagreements.jpg"
+  },
+  {
+    "id": 116,
+    "title": "Speed vs security",
+    "image": "images/blockchain-developer/speed_vs_security.jpg"
+  },
+  {
+    "id": 117,
+    "title": "Mentoring developers",
+    "image": "images/blockchain-developer/mentoring_developers.jpg"
+  },
+  {
+    "id": 118,
+    "title": "Deployment failures",
+    "image": "images/blockchain-developer/deployment_failures.jpg"
+  },
+  {
+    "id": 119,
+    "title": "Protocol adaptability",
+    "image": "images/blockchain-developer/protocol_adaptability.jpg"
+  },
+  {
+    "id": 120,
+    "title": "Technical debt",
+    "image": "images/blockchain-developer/technical_debt.jpg"
+  },
+  {
+    "id": 121,
+    "title": "High risk decisions",
+    "image": "images/blockchain-developer/high_risk_decisions.jpg"
+  },
+  {
+    "id": 122,
+    "title": "Architecture leadership",
+    "image": "images/blockchain-developer/architecture_leadership.jpg"
+  },
+  {
+    "id": 123,
+    "title": "Protocol tradeoffs",
+    "image": "images/blockchain-developer/protocol_tradeoffs.jpg"
+  },
+  {
+    "id": 124,
+    "title": "Post exploit response",
+    "image": "images/blockchain-developer/post_exploit_response.jpg"
+  },
+  {
+    "id": 125,
+    "title": "Security communication",
+    "image": "images/blockchain-developer/security_communication.jpg"
+  },
+  {
+    "id": 126,
+    "title": "Decentralized trust",
+    "image": "images/blockchain-developer/decentralized_trust.jpg"
+  },
+  {
+    "id": 127,
+    "title": "Technology evaluation",
+    "image": "images/blockchain-developer/technology_evaluation.jpg"
+  },
+  {
+    "id": 128,
+    "title": "Protocol sustainability",
+    "image": "images/blockchain-developer/protocol_sustainability.jpg"
+  },
+  {
+    "id": 129,
+    "title": "Public code scrutiny",
+    "image": "images/blockchain-developer/public_code_scrutiny.jpg"
+  },
+  {
+    "id": 130,
+    "title": "Innovation balance",
+    "image": "images/blockchain-developer/innovation_balance.jpg"
+  },
+  {
+    "id": 131,
+    "title": "Token design",
+    "image": "images/blockchain-developer/token_design.jpg"
+  },
+  {
+    "id": 132,
+    "title": "Duplicate transaction prevention",
+    "image": "images/blockchain-developer/duplicate_transaction_prevention.jpg"
+  },
+  {
+    "id": 133,
+    "title": "Balance storage",
+    "image": "images/blockchain-developer/balance_storage.jpg"
+  },
+  {
+    "id": 134,
+    "title": "Failed transaction handling",
+    "image": "images/blockchain-developer/failed_transaction_handling.jpg"
+  },
+  {
+    "id": 135,
+    "title": "Input validation",
+    "image": "images/blockchain-developer/input_validation.jpg"
+  },
+  {
+    "id": 136,
+    "title": "Access control",
+    "image": "images/blockchain-developer/access_control.jpg"
+  },
+  {
+    "id": 137,
+    "title": "Emergency pause",
+    "image": "images/blockchain-developer/emergency_pause.jpg"
+  },
+  {
+    "id": 138,
+    "title": "Testnet deployment",
+    "image": "images/blockchain-developer/testnet_deployment.jpg"
+  },
+  {
+    "id": 139,
+    "title": "State validation",
+    "image": "images/blockchain-developer/state_validation.jpg"
+  },
+  {
+    "id": 140,
+    "title": "Action logging",
+    "image": "images/blockchain-developer/action_logging.jpg"
+  },
+  {
+    "id": 141,
+    "title": "NFT marketplace design",
+    "image": "images/blockchain-developer/nft_marketplace_design.jpg"
+  },
+  {
+    "id": 142,
+    "title": "DeFi security",
+    "image": "images/blockchain-developer/defi_security.jpg"
+  },
+  {
+    "id": 143,
+    "title": "Gas cost reduction",
+    "image": "images/blockchain-developer/gas_cost_reduction.jpg"
+  },
+  {
+    "id": 144,
+    "title": "Oracle attack prevention",
+    "image": "images/blockchain-developer/oracle_attack_prevention.jpg"
+  },
+  {
+    "id": 145,
+    "title": "Voting contracts",
+    "image": "images/blockchain-developer/voting_contracts.jpg"
+  },
+  {
+    "id": 146,
+    "title": "Key recovery",
+    "image": "images/blockchain-developer/key_recovery.jpg"
+  },
+  {
+    "id": 147,
+    "title": "Liquidity pools",
+    "image": "images/blockchain-developer/liquidity_pools.jpg"
+  },
+  {
+    "id": 148,
+    "title": "Malicious contract detection",
+    "image": "images/blockchain-developer/malicious_contract_detection.jpg"
+  },
+  {
+    "id": 149,
+    "title": "Upgrade strategies",
+    "image": "images/blockchain-developer/upgrade_strategies.jpg"
+  },
+  {
+    "id": 150,
+    "title": "Front running prevention",
+    "image": "images/blockchain-developer/front_running_prevention.jpg"
+  },
+  {
+    "id": 151,
+    "title": "Layer 2 design",
+    "image": "images/blockchain-developer/layer_2_design.jpg"
+  },
+  {
+    "id": 152,
+    "title": "Bridge exploit recovery",
+    "image": "images/blockchain-developer/bridge_exploit_recovery.jpg"
+  },
+  {
+    "id": 153,
+    "title": "Cross chain governance",
+    "image": "images/blockchain-developer/cross_chain_governance.jpg"
+  },
+  {
+    "id": 154,
+    "title": "Validator failure handling",
+    "image": "images/blockchain-developer/validator_failure_handling.jpg"
+  },
+  {
+    "id": 155,
+    "title": "MEV mitigation",
+    "image": "images/blockchain-developer/mev_mitigation.jpg"
+  },
+  {
+    "id": 156,
+    "title": "Censorship resistance design",
+    "image": "images/blockchain-developer/censorship_resistance_design.jpg"
+  },
+  {
+    "id": 157,
+    "title": "Live protocol migration",
+    "image": "images/blockchain-developer/live_protocol_migration.jpg"
+  },
+  {
+    "id": 158,
+    "title": "Token economics",
+    "image": "images/blockchain-developer/token_economics.jpg"
+  },
+  {
+    "id": 159,
+    "title": "Chain fork handling",
+    "image": "images/blockchain-developer/chain_fork_handling.jpg"
+  },
+  {
+    "id": 160,
+    "title": "Protocol future proofing",
+    "image": "images/blockchain-developer/protocol_future_proofing.jpg"
+  }
+]

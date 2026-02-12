@@ -449,11 +449,6 @@
     "id": 90,
     "image": "images/devops/how_do_you_configure_health_checks.jpg"
   },
- 
- 
- 
- 
- 
   {
     "title": "How do you monitor application latency?",
     "id": 91,
@@ -689,12 +684,6 @@
     "id": 137,
     "image": "images/devops/application_latency_suddenly_increases_how_do_you_debug.jpg"
   },
-  
-  
-  
-  
-  
-  
   {
     "title": "CI pipeline is slow. How do you optimize it?",
     "id": 138,
